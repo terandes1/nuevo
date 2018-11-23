@@ -12,5 +12,9 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('public.es.inicio');
 });
+Route::get('/tour/{details?}', function () {
+    return view('public.es.tour_details');
+});
+

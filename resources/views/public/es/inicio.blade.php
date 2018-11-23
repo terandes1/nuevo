@@ -105,7 +105,7 @@
                                   <span class="font-style-2 color-grey-4">July<strong class="color-white"> 19th</strong> to July<strong class="color-white"> 26th</strong></span>
                             </div>
                            </div>   
-                            <a href="#" class="c-button b-50 bg-aqua hv-transparent fr"><img src="assets/public/img/flag_icon.png" alt=""><span>view more</span></a>
+                            <a href="/tour/nuevo" class="c-button b-50 bg-aqua hv-transparent fr"><img src="assets/public/img/flag_icon.png" alt=""><span>view more</span></a>
                          </div>
                       </div>
                     </div>
