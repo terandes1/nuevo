@@ -29,8 +29,8 @@
 		<title>Let's Travel</title>
 	</head>
 <body data-color="theme-1">
- 	@include('public.es.layouts.navbar')
+ 	@include('public.en.layouts.navbar')
 
    		 @yield('content')
     
-    @include('public.es.layouts.footer')
+    @include('public.en.layouts.footer')
