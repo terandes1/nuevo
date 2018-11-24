@@ -24,6 +24,8 @@ Route::view('en/tour/relais-chateaux', 'public.en.tours.relais-chateaux', ['nomb
 Route::view('en/tour/jewels-of-peru', 'public.en.tours.jewels-of-peru', ['nombre' => 'JEWELS OF PERU']);
 Route::view('en/tour/through-the-flavors-of-peru', 'public.en.tours.through-the-flavors-of-peru', ['nombre' => 'JEWELS OF PERU']);
 
+Route::resource('contacto-informacion','contactoController');
+Route::post('contacto/','contactoController@contacto')->name('contacto');
 
 // Route::view('en/tour/from-the-amazon-to-the-highlands', 'public.en.tours.highlands', ['nombre' => 'MULTI ACTIVE PERU II - VINICUNCA']);
 

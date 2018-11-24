@@ -33,4 +33,7 @@
 
    		 @yield('content')
     
+    
     @include('public.en.layouts.footer')
+    
+ @yield('script')
