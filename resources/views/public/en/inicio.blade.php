@@ -119,7 +119,7 @@
                       <div class="tour-layer delay-1"></div>
                       <div class="tour-caption">
                          <div class="vertical-align">
-                            <h3 class="hover-it">santorini</h3>
+                            <h3 class="hover-it">MULTI ACTIVE PERU II - VINICUNCA</h3>
                               <div class="rate">
                                 <span class="fa fa-star color-yellow"></span>
                                 <span class="fa fa-star color-yellow"></span>
@@ -154,7 +154,7 @@
                       <div class="tour-layer delay-1"></div>
                       <div class="tour-caption">
                          <div class="vertical-align">
-                            <h3 class="hover-it">paros</h3>
+                            <h3 class="hover-it">RELAIS & CHATEAUX</h3>
                               <div class="rate">
                                 <span class="fa fa-star color-yellow"></span>
                                 <span class="fa fa-star color-yellow"></span>
@@ -189,7 +189,7 @@
                       <div class="tour-layer delay-1"></div>
                       <div class="tour-caption">
                          <div class="vertical-align">
-                            <h3 class="hover-it">kythira</h3>
+                            <h3 class="hover-it">JEWELS OF PERU</h3>
                               <div class="rate">
                                 <span class="fa fa-star color-yellow"></span>
                                 <span class="fa fa-star color-yellow"></span>
@@ -224,7 +224,7 @@
                       <div class="tour-layer delay-1"></div>
                       <div class="tour-caption">
                          <div class="vertical-align">
-                            <h3 class="hover-it">corfu</h3>
+                            <h3 class="hover-it">THROUGH THE FLAVORS OF PERU</h3>
                               <div class="rate">
                                 <span class="fa fa-star color-yellow"></span>
                                 <span class="fa fa-star color-yellow"></span>
@@ -245,7 +245,7 @@
                                   <span class="font-style-2 color-grey-4">July<strong class="color-white"> 19th</strong> to July<strong class="color-white"> 26th</strong></span>
                             </div>
                            </div>   
-                            <a href="#" class="c-button bg-aqua hv-transparent b-50 fr"><img src="assets/public/img/flag_icon.png" alt=""><span>view more</span></a>
+                            <a href="en/tour/through-the-flavors-of-peru" class="c-button bg-aqua hv-transparent b-50 fr"><img src="assets/public/img/flag_icon.png" alt=""><span>view more</span></a>
                          </div>
                       </div>
                     </div>
