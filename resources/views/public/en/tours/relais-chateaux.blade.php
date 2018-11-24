@@ -1,24 +1,23 @@
 @extends('public.en.layouts.master')
 
 @section('content')
- <div class="inner-banner style-6">
-  <img class="center-image" src="/assets/public/img/detail/bg_4.jpg" alt="">
-  <div class="vertical-align">
-    <div class="container">
-      <div class="row">
-        <div class="col-xs-12 col-md-8 col-md-offset-2">
-            <ul class="banner-breadcrumb color-white clearfix">
-              <li><a class="link-blue-2" href="#">home</a> /</li>
-              <li><a class="link-blue-2" href="#">flights</a> /</li>
-              <li><span>detail</span></li>
-            </ul>
-            <h2 class="color-white">flights for you</h2>
-          </div>
-      </div>
+<div class="inner-banner style-6">
+    <img class="center-image" src="/assets/public/img/detail/bg_4.jpg" alt="">
+    <div class="vertical-align">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-md-8 col-md-offset-2">
+                    <ul class="banner-breadcrumb color-white clearfix">
+                       <li><a class="link-blue-2" href="#">home</a> /</li>
+                       <li><a class="link-blue-2" href="#">flights</a> /</li>
+                       <li><span>detail</span></li>
+                    </ul>
+                    <h2 class="color-white">flights for you</h2>
+                </div>
+            </div>
+        </div>
     </div>
-  </div>
 </div>
-
 
  <!-- DETAIL WRAPPER -->
 <div class="detail-wrapper">
@@ -282,78 +281,85 @@
                         </div>            
           </div>         
           </div>
-          <div class="col-xs-12 col-md-4">
-            <div class="right-sidebar">
-             
-              <div class="detail-block bg-dr-blue">
-
+    <!--RIGHT SIDEBAR-->
+    <div class="col-xs-12 col-md-4">
+        <div class="right-sidebar">
+            <!--DETALLES DEL TOUR-->
+            <div class="detail-block bg-dr-blue">
                 <h4 class="color-white">details</h4>
                 <div class="details-desc">
-              <p class="color-grey-9">Category:  <span class="color-white">hotels</span></p>
-              <p class="color-grey-9">price: <span class="color-white">$500 / person</span></p>
-              <p class="color-grey-9">location: <span class="color-white">paris, france</span></p>
-              <p class="color-grey-9">date: <span class="color-white">july 19th to july 29th</span></p>
-              <p class="color-pink">FLIGHT TYPE: <span class="color-white">ECONOMY</span></p>
-              <p class="color-pink">FARE TYPE: <span class="color-white">REFUNDABLE</span></p>
-              <p class="color-pink">CANCELLATION: <span class="color-white">$78 / PERSON</span></p>
-              <p class="color-pink">FLIGHT CHANGE: <span class="color-white">$53 / PERSON</span></p>
-              <p class="color-pink">SEATS & BAGGAGE: <span class="color-white">EXTRA CHARGE</span></p>
-              <p class="color-pink">INFLIGHT FEATURES: <span class="color-white">AVAILABLE</span></p>
-             
+                    <p class="color-grey-9">Category:  <span class="color-white">hotels</span></p>
+                    <p class="color-grey-9">price: <span class="color-white">$500 / person</span></p>
+                    <p class="color-grey-9">location: <span class="color-white">paris, france</span></p>
+                    <p class="color-grey-9">date: <span class="color-white">july 19th to july 29th</span></p>
+                    <p class="color-pink">FLIGHT TYPE: <span class="color-white">ECONOMY</span></p>
+                    <p class="color-pink">FARE TYPE: <span class="color-white">REFUNDABLE</span></p>
+                    <p class="color-pink">CANCELLATION: <span class="color-white">$78 / PERSON</span></p>
+                    <p class="color-pink">FLIGHT CHANGE: <span class="color-white">$53 / PERSON</span></p>
+                    <p class="color-pink">SEATS & BAGGAGE: <span class="color-white">EXTRA CHARGE</span></p>
+                    <p class="color-pink">INFLIGHT FEATURES: <span class="color-white">AVAILABLE</span></p>
+                </div>
+                <div class="details-btn">
+                  <a href="#" class="c-button b-40 bg-tr-1 hv-white"><span>view on map</span></a>
+                  <a href="#" class="c-button b-40 bg-white hv-transparent"><span>book now</span></a>
+                </div>
             </div>
-            <div class="details-btn">
-              <a href="#" class="c-button b-40 bg-tr-1 hv-white"><span>view on map</span></a>
-              <a href="#" class="c-button b-40 bg-white hv-transparent"><span>book now</span></a>
-            </div>
-              </div>
 
-          <div class="popular-tours bg-grey-2">
-            <h4 class="color-dark-2">popular tours</h4>
-            <div class="hotel-small style-2 clearfix">
-              <a class="hotel-img black-hover" href="#">
-                <img class="img-responsive radius-3" src="/assets/public/img/detail/hotel_small_1.jpg" alt="">
-                <div class="tour-layer delay-1"></div>                    
-              </a>
-              <div class="hotel-desc">
-                  <h5><span class="color-dark-2">from <strong>$273</strong></span></h5>
-                  <h4>bristol Hotel</h4>
-                <div class="hotel-loc">2 Place de la Sans Défense, Puteaux, Paris, France.</div>
-              </div>
+            <!-- TOURS POPULARES-->    
+            <div class="popular-tours bg-grey-2">
+                <h4 class="color-dark-2">popular tours</h4>
+                <div class="hotel-small style-2 clearfix">
+                    <a class="hotel-img black-hover" href="#">
+                    <img class="img-responsive radius-3" src="/assets/public/img/detail/hotel_small_1.jpg" alt="">
+                    <div class="tour-layer delay-1"></div>                    
+                    </a>
+                    <div class="hotel-desc">
+                        <h5><span class="color-dark-2">from <strong>$273</strong></span></h5>
+                        <h4>bristol Hotel</h4>
+                        <div class="hotel-loc">2 Place de la Sans Défense, Puteaux, Paris, France.</div>
+                    </div>
+                </div>
+                <div class="hotel-small style-2 clearfix">
+                    <a class="hotel-img black-hover" href="#">
+                    <img class="img-responsive radius-3" src="/assets/public/img/detail/hotel_small_2.jpg" alt="">
+                    <div class="tour-layer delay-1"></div>                    
+                    </a>
+                    <div class="hotel-desc">
+                        <h5><span class="color-dark-2">from <strong>$273</strong></span></h5>
+                        <h4>bristol Hotel</h4>
+                        <div class="hotel-loc">2 Place de la Sans Défense, Puteaux, Paris, France.</div>
+                    </div>
+                </div>
+                <div class="hotel-small style-2 clearfix">
+                    <a class="hotel-img black-hover" href="#">
+                    <img class="img-responsive radius-3" src="/assets/public/img/detail/hotel_small_3.jpg" alt="">
+                    <div class="tour-layer delay-1"></div>                    
+                    </a>
+                    <div class="hotel-desc">
+                        <h5><span class="color-dark-2">from <strong>$273</strong></span></h5>
+                        <h4>bristol Hotel</h4>
+                        <div class="hotel-loc">2 Place de la Sans Défense, Puteaux, Paris, France.</div>
+                    </div>
+                </div>                      
             </div>
-            <div class="hotel-small style-2 clearfix">
-              <a class="hotel-img black-hover" href="#">
-                <img class="img-responsive radius-3" src="/assets/public/img/detail/hotel_small_2.jpg" alt="">
-                <div class="tour-layer delay-1"></div>                    
-              </a>
-              <div class="hotel-desc">
-                  <h5><span class="color-dark-2">from <strong>$273</strong></span></h5>
-                  <h4>bristol Hotel</h4>
-                <div class="hotel-loc">2 Place de la Sans Défense, Puteaux, Paris, France.</div>
-              </div>
-            </div>
-            <div class="hotel-small style-2 clearfix">
-              <a class="hotel-img black-hover" href="#">
-                <img class="img-responsive radius-3" src="/assets/public/img/detail/hotel_small_3.jpg" alt="">
-                <div class="tour-layer delay-1"></div>                    
-              </a>
-              <div class="hotel-desc">
-                  <h5><span class="color-dark-2">from <strong>$273</strong></span></h5>
-                  <h4>bristol Hotel</h4>
-                <div class="hotel-loc">2 Place de la Sans Défense, Puteaux, Paris, France.</div>
-              </div>
-            </div>                      
-          </div>
-
-                                          
-            </div>            
-          </div>
-        </div>
+        </div>            
+    </div>
+</div>
         
 
     <!-- contacto --> 
+        <div class="row" style="margin-top: -100px;">
+            <div class="col-xs-12 col-sm-8 col-sm-offset-2">
+                <div class="second-title">
+                   
+                    <h2>get in touch</h2>
+                </div>
+            </div>
+        </div>
     <div class="row" style="margin-top: -100px;">
       <div class="col-xs-12 col-sm-8">
         <form class="contact-form" action="#">
+
           <div class="row">
             <div class="col-xs-12 col-sm-6">
               <div class="input-style-1 type-2 color-2">
@@ -415,112 +421,112 @@
       </div>
     </div><br><br>
 <!--     fin contacto-->
-<!-- toures relacionados -->
+<!-- tours relacionados -->
 <div class="may-interested padd-90">
-          <div class="row">
-            <div class="col-mob-12 col-xs-6 col-sm-6 col-md-3">
-              <div class="hotel-item">
-                 <div class="radius-top">
-                   <img src="/assets/public/img/home_3/pop_hotel_1.jpg" alt="">
-                     <div class="price price-s-1">$273</div>
-                 </div>
-                 <div class="title clearfix">
-                     <h4><b>royal Hotel</b></h4>
-                         <div class="rate-wrap">
-                          <div class="rate">
-                <span class="fa fa-star color-yellow"></span>
-                <span class="fa fa-star color-yellow"></span>
-                <span class="fa fa-star color-yellow"></span>
-                <span class="fa fa-star color-yellow"></span>
-                <span class="fa fa-star color-yellow"></span>
+    <div class="row">
+        <div class="col-mob-12 col-xs-6 col-sm-6 col-md-3">
+            <div class="hotel-item">
+                <div class="radius-top">
+                    <img src="/assets/public/img/tour/jewels/1.jpg" alt="">
+                    <div class="price price-s-1">$273</div>
                 </div>
-                  <i>485 rewies</i> 
-                         </div>  
-                 <span class="f-14 color-dark-2">2 Place de la Sans Défense, Puteaux</span>
-                 <p class="f-14">Nunc cursus libero purus ac congue arcu cursus ut sed vitae pulvinar massa idporta nequetiam.</p>
-                 <a href="#" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
-                 <a href="#" class="c-button color-dr-blue hv-o b-50 fr"><img src="/assets/public/img/loc_icon_small_drak.png" alt="">view on map</a>
-                 </div>
-              </div>            
-            </div>
-            <div class="col-mob-12 col-xs-6 col-sm-6 col-md-3">
-                <div class="hotel-item">
-                   <div class="radius-top">
-                     <img src="/assets/public/img/home_3/pop_hotel_2.jpg" alt="">
-                       <div class="price price-s-1">$273</div>
-                   </div>
-                   <div class="title clearfix">
-                       <h4><b>sheraton Hotel</b></h4>
-                           <div class="rate-wrap">
-                            <div class="rate">
-                  <span class="fa fa-star color-yellow"></span>
-                  <span class="fa fa-star color-yellow"></span>
-                  <span class="fa fa-star color-yellow"></span>
-                  <span class="fa fa-star color-yellow"></span>
-                  <span class="fa fa-star color-yellow"></span>
-                  </div>
-                    <i>485 rewies</i> 
-                           </div>  
-                   <span class="f-14 color-dark-2">2 Place de la Sans Défense, Puteaux</span>
-                   <p class="f-14">Nunc cursus libero purus ac congue arcu cursus ut sed vitae pulvinar massa idporta nequetiam.</p>
-                   <a href="#" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
-                   <a href="#" class="c-button color-dr-blue hv-o b-50 fr"><img src="/assets/public/img/loc_icon_small_drak.png" alt="">view on map</a>
-                   </div>
-                </div>            
-            </div>
-            <div class="col-mob-12 col-xs-6 col-sm-6 col-md-3">
-                <div class="hotel-item">
-                   <div class="radius-top">
-                     <img src="/assets/public/img/home_3/pop_hotel_3.jpg" alt="">
-                       <div class="price price-s-1">$273</div>
-                   </div>
-                   <div class="title clearfix">
-                       <h4><b>royal Hotel</b></h4>
-                           <div class="rate-wrap">
-                            <div class="rate">
-                  <span class="fa fa-star color-yellow"></span>
-                  <span class="fa fa-star color-yellow"></span>
-                  <span class="fa fa-star color-yellow"></span>
-                  <span class="fa fa-star color-yellow"></span>
-                  <span class="fa fa-star color-yellow"></span>
-                  </div>
-                    <i>485 rewies</i> 
-                           </div>  
-                   <span class="f-14 color-dark-2">2 Place de la Sans Défense, Puteaux</span>
-                   <p class="f-14">Nunc cursus libero purus ac congue arcu cursus ut sed vitae pulvinar massa idporta nequetiam.</p>
-                   <a href="#" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
-                   <a href="#" class="c-button color-dr-blue hv-o b-50 fr"><img src="/assets/public/img/loc_icon_small_drak.png" alt="">view on map</a>
-                   </div>
-                </div>            
-            </div>
-            <div class="col-mob-12 col-xs-6 col-sm-6 col-md-3">
-                <div class="hotel-item">
-                   <div class="radius-top">
-                     <img src="/assets/public/img/home_3/pop_hotel_4.jpg" alt="">
-                       <div class="price price-s-1">$273</div>
-                   </div>
-                   <div class="title clearfix">
-                       <h4><b>sheraton Hotel</b></h4>
-                           <div class="rate-wrap">
-                            <div class="rate">
-                  <span class="fa fa-star color-yellow"></span>
-                  <span class="fa fa-star color-yellow"></span>
-                  <span class="fa fa-star color-yellow"></span>
-                  <span class="fa fa-star color-yellow"></span>
-                  <span class="fa fa-star color-yellow"></span>
-                  </div>
-                    <i>485 rewies</i> 
-                           </div>  
-                   <span class="f-14 color-dark-2">2 Place de la Sans Défense, Puteaux</span>
-                   <p class="f-14">Nunc cursus libero purus ac congue arcu cursus ut sed vitae pulvinar massa idporta nequetiam.</p>
-                   <a href="#" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
-                   <a href="#" class="c-button color-dr-blue hv-o b-50 fr"><img src="/assets/public/img/loc_icon_small_drak.png" alt="">view on map</a>
-                   </div>
-                </div>          
-            </div>                                
-          </div>
+                <div class="title clearfix">
+                    <h4><b>JEWELS OF THE SOUTH BELMOND TRENES</b></h4>
+                    <div class="rate-wrap">
+                        <div class="rate">
+                            <span class="fa fa-star color-yellow"></span>
+                            <span class="fa fa-star color-yellow"></span>
+                            <span class="fa fa-star color-yellow"></span>
+                            <span class="fa fa-star color-yellow"></span>
+                            <span class="fa fa-star color-yellow"></span>
+                        </div>
+                        <i>485 rewies</i> 
+                    </div>  
+                    <span class="f-14 color-dark-2">2 Place de la Sans Défense, Puteaux</span>
+                    <p class="f-14">Nunc cursus libero purus ac congue arcu cursus ut sed vitae pulvinar massa idporta nequetiam.</p>
+                    <a href="/en/tour/jewels-of-the-south-belmond-trenes" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
+                    <a href="#" class="c-button color-dr-blue hv-o b-50 fr"><img src="/assets/public/img/loc_icon_small_drak.png" alt="">view on map</a>
+                </div>
+            </div>            
         </div>
-<!-- fin tores relacionados  -->
+        <div class="col-mob-12 col-xs-6 col-sm-6 col-md-3">
+            <div class="hotel-item">
+                <div class="radius-top">
+                    <img src="/assets/public/img/tour/vinicunca/1.jpg" alt="">
+                    <div class="price price-s-1">$273</div>
+                </div>
+                <div class="title clearfix">
+                    <h4><b>MULTI ACTIVE PERU II - VINICUNCA</b></h4>
+                    <div class="rate-wrap">
+                        <div class="rate">
+                            <span class="fa fa-star color-yellow"></span>
+                            <span class="fa fa-star color-yellow"></span>
+                            <span class="fa fa-star color-yellow"></span>
+                            <span class="fa fa-star color-yellow"></span>
+                            <span class="fa fa-star color-yellow"></span>
+                        </div>
+                        <i>485 rewies</i> 
+                    </div>  
+                    <span class="f-14 color-dark-2">2 Place de la Sans Défense, Puteaux</span>
+                    <p class="f-14">Nunc cursus libero purus ac congue arcu cursus ut sed vitae pulvinar massa idporta nequetiam.</p>
+                    <a href="/en/tour/multi-active-peru-ii-vinicunca" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
+                    <a href="#" class="c-button color-dr-blue hv-o b-50 fr"><img src="/assets/public/img/loc_icon_small_drak.png" alt="">view on map</a>
+                </div>
+            </div>            
+        </div>
+        <div class="col-mob-12 col-xs-6 col-sm-6 col-md-3">
+            <div class="hotel-item">
+                <div class="radius-top">
+                    <img src="/assets/public/img/tour/jewels-of-peru/1.jpg" alt="">
+                    <div class="price price-s-1">$273</div>
+                </div>
+                <div class="title clearfix">
+                    <h4><b>JEWELS OF PERU</b></h4>
+                    <div class="rate-wrap">
+                        <div class="rate">
+                            <span class="fa fa-star color-yellow"></span>
+                            <span class="fa fa-star color-yellow"></span>
+                            <span class="fa fa-star color-yellow"></span>
+                            <span class="fa fa-star color-yellow"></span>
+                            <span class="fa fa-star color-yellow"></span>
+                        </div>
+                        <i>485 rewies</i> 
+                    </div>  
+                    <span class="f-14 color-dark-2">2 Place de la Sans Défense, Puteaux</span>
+                    <p class="f-14">Nunc cursus libero purus ac congue arcu cursus ut sed vitae pulvinar massa idporta nequetiam.</p>
+                    <a href="/en/tour/jewels-of-peru" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
+                    <a href="#" class="c-button color-dr-blue hv-o b-50 fr"><img src="/assets/public/img/loc_icon_small_drak.png" alt="">view on map</a>
+                </div>
+            </div>            
+        </div>
+        <div class="col-mob-12 col-xs-6 col-sm-6 col-md-3">
+            <div class="hotel-item">
+                <div class="radius-top">
+                    <img src="/assets/public/img/tour/through-the-flavors-of-peru/1.jpg" alt="">
+                     <div class="price price-s-1">$273</div>
+                </div>
+                <div class="title clearfix">
+                    <h4><b>THROUGH THE FLAVORS OF PERU</b></h4>
+                    <div class="rate-wrap">
+                        <div class="rate">
+                            <span class="fa fa-star color-yellow"></span>
+                            <span class="fa fa-star color-yellow"></span>
+                            <span class="fa fa-star color-yellow"></span>
+                            <span class="fa fa-star color-yellow"></span>
+                            <span class="fa fa-star color-yellow"></span>
+                        </div>
+                        <i>485 rewies</i> 
+                    </div>  
+                    <span class="f-14 color-dark-2">2 Place de la Sans Défense, Puteaux</span>
+                    <p class="f-14">Nunc cursus libero purus ac congue arcu cursus ut sed vitae pulvinar massa idporta nequetiam.</p>
+                    <a href="/en/tour/through-the-flavors-of-peru" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
+                    <a href="#" class="c-button color-dr-blue hv-o b-50 fr"><img src="/assets/public/img/loc_icon_small_drak.png" alt="">view on map</a>
+                </div>
+            </div>          
+        </div>                                
+    </div>
+</div>
+<!-- fin tours relacionados  -->
   </div>
 </div>
 @endsection

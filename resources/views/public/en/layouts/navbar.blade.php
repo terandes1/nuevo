@@ -26,15 +26,15 @@
 					<li class="type-1 active">
 						<a href="#inicio">Inicio<span class="fa fa-angle-down"></span></a>
 					</li>
-					<li class="type-1"><a href="#tours">Tours<span class="fa fa-angle-down"></span></a>
+					<li class="type-1"><a href="/#tours">Tours<span class="fa fa-angle-down"></span></a>
 					</li>
-					<li class="type-1"><a href="#galeria">Galeria<span class="fa fa-angle-down"></span></a>
+					<li class="type-1"><a href="/#galeria">Galeria<span class="fa fa-angle-down"></span></a>
 					
 					</li>
-					<li class="type-1"><a href="#nosotros">Nosotros<span class="fa fa-angle-down"></span></a>
+					<li class="type-1"><a href="/#nosotros">Nosotros<span class="fa fa-angle-down"></span></a>
 						
 					</li>
-                    <li class="type-1"><a href="#contacto">Contacto<span class="fa fa-angle-down"></span></a>
+                    <li class="type-1"><a href="/#contacto">Contacto<span class="fa fa-angle-down"></span></a>
 						
 					</li>
 			  	</ul>
