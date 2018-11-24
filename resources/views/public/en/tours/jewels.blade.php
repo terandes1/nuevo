@@ -27,7 +27,7 @@
       <div class="row">
         <div class="col-xs-12 col-sm-8">
           <div class="detail-category color-grey-3"></div>
-          <h2 class="detail-title color-dark-2">paris International Hotel</h2>
+          <h2 class="detail-title color-dark-2">Jewels of the South</h2>
           <div class="detail-rate rate-wrap clearfix">
                 <div class="rate">
               <span class="fa fa-star color-yellow"></span>
@@ -58,22 +58,22 @@
             <div class="swiper-container thumbnails-preview" data-autoplay="0" data-loop="1" data-speed="500" data-center="0" data-slides-per-view="1">
                       <div class="swiper-wrapper">
                           <div class="swiper-slide active" data-val="0">
-                             <img class="img-responsive img-full" src="/assets/public/img/cars/gal_1_b.jpg" alt="">
+                             <img class="img-responsive img-full" src="/assets/public/img/tour/jewels/1.jpg" alt="">
                           </div>
                           <div class="swiper-slide" data-val="1">
-                             <img class="img-responsive img-full" src="/assets/public/img/cars/gal_2_b.jpg" alt="">
+                             <img class="img-responsive img-full" src="/assets/public/img/tour/jewels/2.jpg" alt="">
                           </div>
                           <div class="swiper-slide" data-val="2">
-                             <img class="img-responsive img-full" src="/assets/public/img/cars/gal_3_b.jpg" alt="">
+                             <img class="img-responsive img-full" src="/assets/public/img/tour/jewels/3.jpg" alt="">
                           </div>
                           <div class="swiper-slide" data-val="3">
-                             <img class="img-responsive img-full" src="/assets/public/img/cars/gal_4_b.jpg" alt="">     
+                             <img class="img-responsive img-full" src="/assets/public/img/tour/jewels/4.jpg" alt="">     
                           </div>
                           <div class="swiper-slide" data-val="4">
-                             <img class="img-responsive img-full" src="/assets/public/img/cars/gal_5_b.jpg" alt="">            
+                             <img class="img-responsive img-full" src="/assets/public/img/tour/jewels/5.jpg" alt="">            
                           </div>
                           <div class="swiper-slide" data-val="5">
-                             <img class="img-responsive img-full" src="/assets/public/img/cars/gal_6_b.jpg" alt="">            
+                             <img class="img-responsive img-full" src="/assets/public/img/tour/jewels/6.jpg" alt="">            
                           </div>
                         </div>
                       <div class="pagination pagination-hidden poin-style-1"></div>
@@ -86,22 +86,22 @@
                   data-add-slides="5">
                       <div class="swiper-wrapper">
                 <div class="swiper-slide current active" data-val="0">
-                  <img class="img-responsive img-full" src="/assets/public/img/cars/gal_1_s.jpg" alt="">
+                  <img class="img-responsive img-full" src="/assets/public/img/tour/jewels/1_1.jpg" alt="">
                 </div>
                 <div class="swiper-slide" data-val="1">
-                  <img class="img-responsive img-full" src="/assets/public/img/cars/gal_2_s.jpg" alt="">
+                  <img class="img-responsive img-full" src="/assets/public/img/tour/jewels/2_2.jpg" alt="">
                 </div>
                 <div class="swiper-slide" data-val="2">
-                  <img class="img-responsive img-full" src="/assets/public/img/cars/gal_3_s.jpg" alt="">
+                  <img class="img-responsive img-full" src="/assets/public/img/tour/jewels/3_3.jpg" alt="">
                 </div>
                 <div class="swiper-slide" data-val="3">
-                  <img class="img-responsive img-full" src="/assets/public/img/cars/gal_4_s.jpg" alt="">
+                  <img class="img-responsive img-full" src="/assets/public/img/tour/jewels/4_4.jpg" alt="">
                 </div>
                 <div class="swiper-slide" data-val="4">
-                  <img class="img-responsive img-full" src="/assets/public/img/cars/gal_5_s.jpg" alt="">
+                  <img class="img-responsive img-full" src="/assets/public/img/tour/jewels/5_5.jpg" alt="">
                 </div>
                 <div class="swiper-slide" data-val="5">
-                  <img class="img-responsive img-full" src="/assets/public/img/cars/gal_6_s.jpg" alt="">
+                  <img class="img-responsive img-full" src="/assets/public/img/tour/jewels/6_6.jpg" alt="">
                 </div>
               </div>
               <div class="pagination hidden"></div>
