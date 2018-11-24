@@ -577,44 +577,37 @@
         </div>
         <div class="row">
             <div class="col-xs-12 col-sm-8">
-                <form class="contact-form">
+                  {!! Form::open(['route' => ['contacto-informacion.store'] , 'method' => 'POST', 'class' => 'contact-form','id' => "formEnvio"]) !!}                   
                     <div class="row">
                         <div class="col-xs-12 col-sm-6">
                             <div class="input-style-1 type-2 color-2">
-                                <input type="text" required="" placeholder="Enter your name">
+                                <input type="text" required="" id='name' name='name' placeholder="Enter your name">
                             </div>
                         </div>
                         <div class="col-xs-12 col-sm-6">
                             <div class="input-style-1 type-2 color-2">
-                                <input type="text" required="" placeholder="Enter your email">
+                                <input type="text" required="" id='email' name='email' placeholder="Enter your email">
                             </div>
                         </div>
                         <div class="col-xs-12 col-sm-6">
                             <div class="input-style-1 type-2 color-2">
-                                <input type="text" required="" placeholder="Subject">
+                                <input type="text" required="" id='subject' name='subject' placeholder="Subject">
                             </div>
                         </div>  
                         <div class="col-xs-12 col-sm-6">
-                            <div class="drop-wrap drop-wrap-s-3 drop-wrap-s-5 color-2">
-                                <div class="drop">
-                                    <b>Department</b>
-                                    <a href="#" class="drop-list"><i class="fa fa-angle-down"></i></a>
-                                    <span>
-                                        <a href="#">Department 1</a>
-                                        <a href="#">Department 1</a>
-                                        <a href="#">Department 3</a>
-                                        <a href="#">Department 4</a>
-                                        <a href="#">Department 5</a>
-                                    </span>
-                                </div>
-                            </div>                      
-                        </div>
+                            <div class="input-style-1 type-2 color-2">
+                                <input type="text" required="" id='telefono' name='telefono' placeholder="telefono">
+                            </div>
+                        </div>  
+       {!! NoCaptcha::renderJs() !!}
+          {!! NoCaptcha::display() !!}
+                  
                         <div class="col-xs-12">
-                            <textarea class="area-style-1 color-1" required="" placeholder="Enter your comment"></textarea>
-                            <button type="submit" class="c-button bg-blue-2 hv-blue-2-o"><span>submit comment</span></button>
+                            <textarea class="area-style-1 color-1" required="" id="mensaje" name='mensaje' placeholder="Enter your comment"></textarea>
+                            <button type="submit" class="c-button bg-blue-2 hv-blue-2-o" id="enviar"><span>submit comment</span></button>
                         </div>
-                    </div>                  
-                </form>
+                    </div>        
+                    {!! Form::close() !!}        
             </div>
             <div class="col-xs-12 col-sm-4">
                 <div class="contact-about">
@@ -689,4 +682,26 @@
         <div class="pagination pagination-hidden"></div>
     </div>  
 </div> 
+@endsection
+
+@section('script')
+<script type="text/javascript">
+ $("#enviar").click(function (e) {
+
+        e.preventDefault();
+        var data = $('#formEnvio').serialize();
+       $.ajax({
+                 url:'{{ route('contacto') }}',
+                     type: 'POST',
+                     data:data,
+                 success: function(data) {
+                      console.log("hola");
+                },
+                 error:function(data){
+                   
+                }
+            });
+       
+    });
+</script>
 @endsection
