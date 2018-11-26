@@ -21,213 +21,206 @@
 
  <!-- DETAIL WRAPPER -->
 <div class="detail-wrapper">
-  <div class="container">
-    <div class="detail-header">
-      <div class="row">
-        <div class="col-xs-12 col-sm-8">
-          <div class="detail-category color-grey-3"></div>
-          <h2 class="detail-title color-dark-2">A RELAIS & CHATEAUX EXPERIENCE OF PERU</h2>
-          <div class="detail-rate rate-wrap clearfix">
-                <div class="rate">
-              <span class="fa fa-star color-yellow"></span>
-              <span class="fa fa-star color-yellow"></span>
-              <span class="fa fa-star color-yellow"></span>
-              <span class="fa fa-star color-yellow"></span>
-              <span class="fa fa-star color-yellow"></span>
+    <div class="container">
+        <div class="detail-header">
+            <div class="row">
+                <div class="col-xs-12 col-sm-8">
+                    <div class="detail-category color-grey-3"></div>
+                    <h2 class="detail-title color-dark-2">A RELAIS & CHATEAUX EXPERIENCE OF PERU</h2>
+                    <div class="detail-rate rate-wrap clearfix">
+                        <div class="rate">
+                            <span class="fa fa-star color-yellow"></span>
+                            <span class="fa fa-star color-yellow"></span>
+                            <span class="fa fa-star color-yellow"></span>
+                            <span class="fa fa-star color-yellow"></span>
+                            <span class="fa fa-star color-yellow"></span>
+                        </div>
+                        <i>485 Rewies</i> 
+                    </div>
+                </div>
+                <!-- TELEFONO Y CORREO -->    
+                <div class="col-xs-12 col-sm-4">
+                    <div class="help-contact bg-grey-2">
+                        <a class="help-phone color-dark-2 link-dr-blue" href="tel:5184247277"><img src="/assets/public/img/detail/phone24-dark.png" alt="">51 84 247277</a>
+                        <a class="help-mail color-dark-2 link-dr-blue" href="mailto:terandes@terandes.com"><img src="/assets/public/img/detail/letter-dark.png" alt="">terandes@terandes.com</a>
+                    </div> 
+                </div>
             </div>
-                <i>485 Rewies</i> 
-              </div>
-          </div>
-          <div class="col-xs-12 col-sm-4">
-            
-
-          <div class="help-contact bg-grey-2">
-            
-            <a class="help-phone color-dark-2 link-dr-blue" href="tel:0200059600"><img src="/assets/public/img/detail/phone24-dark.png" alt="">020 00 59 600</a>
-            <a class="help-mail color-dark-2 link-dr-blue" href="mailto:let’s_travel@world.com"><img src="/assets/public/img/detail/letter-dark.png" alt="">let’s_travel@world.com</a>
-          </div> 
-
-          </div>
-          </div>
         </div>
         <div class="row padd-90">
-          <div class="col-xs-12 col-md-8">
-            <div class="detail-content color-1">
-                      <div class="detail-top slider-wth-thumbs style-1 arrows">
-            <div class="swiper-container thumbnails-preview" data-autoplay="0" data-loop="1" data-speed="500" data-center="0" data-slides-per-view="1">
-                      <div class="swiper-wrapper">
-                          <div class="swiper-slide active" data-val="0">
-                             <img class="img-responsive img-full" src="/assets/public/img/tour/relais-chateaux/1.jpg" alt="">
-                          </div>
-                          <div class="swiper-slide" data-val="1">
-                             <img class="img-responsive img-full" src="/assets/public/img/tour/relais-chateaux/2.jpg" alt="">
-                          </div>
-                          <div class="swiper-slide" data-val="2">
-                             <img class="img-responsive img-full" src="/assets/public/img/tour/relais-chateaux/3.jpg" alt="">
-                          </div>
-                          <div class="swiper-slide" data-val="3">
-                             <img class="img-responsive img-full" src="/assets/public/img/tour/relais-chateaux/4.jpg" alt="">     
-                          </div>
-                          <div class="swiper-slide" data-val="4">
-                             <img class="img-responsive img-full" src="/assets/public/img/tour/relais-chateaux/5.jpg" alt="">            
-                          </div>
-                          <div class="swiper-slide" data-val="5">
-                             <img class="img-responsive img-full" src="/assets/public/img/tour/relais-chateaux/6.jpg" alt="">            
-                          </div>
-                        </div>
-                      <div class="pagination pagination-hidden poin-style-1"></div>
-                <div class="arrow-wrapp arr-s-3">
-                <div class="swiper-arrow-left sw-arrow"><span class="fa fa-angle-left"></span></div>
-                <div class="swiper-arrow-right sw-arrow"><span class="fa fa-angle-right"></span></div>
-              </div>
-                  </div>
-                  <div class="swiper-container thumbnails" data-autoplay="0" data-loop="0" data-speed="500" data-slides-per-view="responsive" data-xs-slides="3" data-sm-slides="5" data-md-slides="5" data-lg-slides="5" 
-                  data-add-slides="5">
-                      <div class="swiper-wrapper">
-                <div class="swiper-slide current active" data-val="0">
-                  <img class="img-responsive img-full" src="/assets/public/img/tour/relais-chateaux/1_1.jpg" alt="">
-                </div>
-                <div class="swiper-slide" data-val="1">
-                  <img class="img-responsive img-full" src="/assets/public/img/tour/relais-chateaux/2_2.jpg" alt="">
-                </div>
-                <div class="swiper-slide" data-val="2">
-                  <img class="img-responsive img-full" src="/assets/public/img/tour/relais-chateaux/3_3.jpg" alt="">
-                </div>
-                <div class="swiper-slide" data-val="3">
-                  <img class="img-responsive img-full" src="/assets/public/img/tour/relais-chateaux/4_4.jpg" alt="">
-                </div>
-                <div class="swiper-slide" data-val="4">
-                  <img class="img-responsive img-full" src="/assets/public/img/tour/relais-chateaux/5_5.jpg" alt="">
-                </div>
-                <div class="swiper-slide" data-val="5">
-                  <img class="img-responsive img-full" src="/assets/public/img/tour/relais-chateaux/6_6.jpg" alt="">
-                </div>
-              </div>
-              <div class="pagination hidden"></div>
-            </div>
-          </div>  
-
-        
-                             
-        </div>    
-        <div class="detail-content-block">
-                        <div class="simple-tab color-1 tab-wrapper">
-                            <div class="tab-nav-wrapper">
-                                <div  class="nav-tab  clearfix">
-                                    <div class="nav-tab-item active">
-                                        Description
-                                    </div>
-                                    <div class="nav-tab-item">
-                                        Availability
-                                    </div>
-                                    <div class="nav-tab-item">
-                                        Amenities
-                                    </div>
-                                    <div class="nav-tab-item">
-                                        Reviews
-                                    </div>
-                                    <div class="nav-tab-item">
-                                        Write a Review
-                                    </div>                          
+            <div class="col-xs-12 col-md-8">
+                <div class="detail-content color-1">
+                    <div class="detail-top slider-wth-thumbs style-1 arrows">
+                        <div class="swiper-container thumbnails-preview" data-autoplay="0" data-loop="1" data-speed="500" data-center="0" data-slides-per-view="1">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide active" data-val="0">
+                                <img class="img-responsive img-full" src="/assets/public/img/tour/relais-chateaux/1.jpg" alt="">
+                                </div>
+                                <div class="swiper-slide" data-val="1">
+                                    <img class="img-responsive img-full" src="/assets/public/img/tour/relais-chateaux/2.jpg" alt="">
+                                </div>
+                                <div class="swiper-slide" data-val="2">
+                                    <img class="img-responsive img-full" src="/assets/public/img/tour/relais-chateaux/3.jpg" alt="">
+                                </div>
+                                <div class="swiper-slide" data-val="3">
+                                    <img class="img-responsive img-full" src="/assets/public/img/tour/relais-chateaux/4.jpg" alt="">     
+                                </div>
+                                <div class="swiper-slide" data-val="4">
+                                    <img class="img-responsive img-full" src="/assets/public/img/tour/relais-chateaux/5.jpg" alt="">            
+                                </div>
+                                <div class="swiper-slide" data-val="5">
+                                    <img class="img-responsive img-full" src="/assets/public/img/tour/relais-chateaux/6.jpg" alt="">            
                                 </div>
                             </div>
-                            <div class="tabs-content clearfix">
-                                <div class="tab-info active">
-                                  <div class="detail-content-block">
-                      <div class="accordion style-2">
-                          <div class="acc-panel">
-                              <div class="acc-title"><span class="acc-icon"></span>How can I manage Instant Book settings?</div>
-                              <div class="acc-body">
-                  <h5>metus Aenean eget massa</h5>
-                  <p>Mauris posuere diam at enim malesuada, ac malesuada erat auctor. Ut porta mattis tellus eu sagittis. Nunc maximus ipsum a mattis dignissim. Suspendisse id pharetra lacus, et hendrerit mi. Praesent at vestibulum tortor. Ut porta mattis tellus eu sagittis. Nunc maximus ipsum a mattis dignissim.</p>
-                  <div class="row">
-                    <div class="col-xs-12 col-sm-6">
-                      <ul>
-                        <li>Shopping history</li>
-                        <li>Hot offers according your settings</li>
-                        <li>Multi-product search</li>
-                        <li>Opportunity to share with friends</li>
-                        <li>User-friendly interface</li>
-                      </ul>
-                    </div>
-                    <div class="col-xs-12 col-sm-6">
-                      <ul>
-                        <li>Shopping history</li>
-                        <li>Hot offers according your settings</li>
-                        <li>Multi-product search</li>
-                        <li>Opportunity to share with friends</li>
-                        <li>User-friendly interface</li>
-                      </ul>                 
-                    </div>
-                  </div>
-                              </div>
-                          </div>
-                          <div class="acc-panel">
-                              <div class="acc-title"><span class="acc-icon"></span>How do I list multiple rooms?</div>
-                              <div class="acc-body">
-                  <h5>metus Aenean eget massa</h5>
-                  <p>Mauris posuere diam at enim malesuada, ac malesuada erat auctor. Ut porta mattis tellus eu sagittis. Nunc maximus ipsum a mattis dignissim. Suspendisse id pharetra lacus, et hendrerit mi. Praesent at vestibulum tortor. Ut porta mattis tellus eu sagittis. Nunc maximus ipsum a mattis dignissim.</p>
-                  <div class="row">
-                    <div class="col-xs-12 col-sm-6">
-                      <ul>
-                        <li>Shopping history</li>
-                        <li>Hot offers according your settings</li>
-                        <li>Multi-product search</li>
-                        <li>Opportunity to share with friends</li>
-                        <li>User-friendly interface</li>
-                      </ul>
-                    </div>
-                    <div class="col-xs-12 col-sm-6">
-                      <ul>
-                        <li>Shopping history</li>
-                        <li>Hot offers according your settings</li>
-                        <li>Multi-product search</li>
-                        <li>Opportunity to share with friends</li>
-                        <li>User-friendly interface</li>
-                      </ul>                 
-                    </div>
-                  </div>
-                              </div>
-                          </div>
-                          <div class="acc-panel">
-                              <div class="acc-title"><span class="acc-icon"></span>How do I use my calendar?</div>
-                              <div class="acc-body">
-                  <h5>metus Aenean eget massa</h5>
-                  <p>Mauris posuere diam at enim malesuada, ac malesuada erat auctor. Ut porta mattis tellus eu sagittis. Nunc maximus ipsum a mattis dignissim. Suspendisse id pharetra lacus, et hendrerit mi. Praesent at vestibulum tortor. Ut porta mattis tellus eu sagittis. Nunc maximus ipsum a mattis dignissim.</p>
-                  <div class="row">
-                    <div class="col-xs-12 col-sm-6">
-                      <ul>
-                        <li>Shopping history</li>
-                        <li>Hot offers according your settings</li>
-                        <li>Multi-product search</li>
-                        <li>Opportunity to share with friends</li>
-                        <li>User-friendly interface</li>
-                      </ul>
-                    </div>
-                    <div class="col-xs-12 col-sm-6">
-                      <ul>
-                        <li>Shopping history</li>
-                        <li>Hot offers according your settings</li>
-                        <li>Multi-product search</li>
-                        <li>Opportunity to share with friends</li>
-                        <li>User-friendly interface</li>
-                      </ul>                 
-                    </div>
-                  </div>
-                              </div>
-                          </div>                                                                                                                        
-                      </div>                      
-          </div> 
+                            <div class="pagination pagination-hidden poin-style-1"></div>
+                            <div class="arrow-wrapp arr-s-3">
+                                <div class="swiper-arrow-left sw-arrow"><span class="fa fa-angle-left"></span></div>
+                                <div class="swiper-arrow-right sw-arrow"><span class="fa fa-angle-right"></span></div>
+                            </div>
+                        </div>
+                        <div class="swiper-container thumbnails" data-autoplay="0" data-loop="0" data-speed="500" data-slides-per-view="responsive" data-xs-slides="3" data-sm-slides="5" data-md-slides="5" data-lg-slides="5"              data-add-slides="5">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide current active" data-val="0">
+                                    <img class="img-responsive img-full" src="/assets/public/img/tour/relais-chateaux/1_1.jpg" alt="">
+                                </div>
+                                <div class="swiper-slide" data-val="1">
+                                    <img class="img-responsive img-full" src="/assets/public/img/tour/relais-chateaux/2_2.jpg" alt="">
+                                </div>
+                                <div class="swiper-slide" data-val="2">
+                                    <img class="img-responsive img-full" src="/assets/public/img/tour/relais-chateaux/3_3.jpg" alt="">
+                                </div>
+                                <div class="swiper-slide" data-val="3">
+                                    <img class="img-responsive img-full" src="/assets/public/img/tour/relais-chateaux/4_4.jpg" alt="">
+                                </div>
+                                <div class="swiper-slide" data-val="4">
+                                    <img class="img-responsive img-full" src="/assets/public/img/tour/relais-chateaux/5_5.jpg" alt="">
+                                </div>
+                                <div class="swiper-slide" data-val="5">
+                                    <img class="img-responsive img-full" src="/assets/public/img/tour/relais-chateaux/6_6.jpg" alt="">
+                                </div>
+                            </div>
+                            <div class="pagination hidden"></div>
+                        </div>
+                    </div>  
+                </div>    
+                <div class="detail-content-block">
+                    <div class="simple-tab color-1 tab-wrapper">
+                        <div class="tab-nav-wrapper">
+                            <div  class="nav-tab  clearfix">
+                                <div class="nav-tab-item active">
+                                    Description
+                                </div>
+                                <div class="nav-tab-item">
+                                    Availability
+                                </div>
+                                <div class="nav-tab-item">
+                                    Amenities
+                                </div>
+                                <div class="nav-tab-item">
+                                    Reviews
+                                </div>
+                                <div class="nav-tab-item">
+                                        Write a Review
+                                </div>                          
+                            </div>
+                        </div>
+                        <div class="tabs-content clearfix">
+                            <div class="tab-info active">
+                                <div class="detail-content-block">
+                                    <div class="accordion style-2">
+                                        <div class="acc-panel">
+                                            <div class="acc-title"><span class="acc-icon"></span>How can I manage Instant Book settings?</div>
+                                            <div class="acc-body">
+                                              <h5>metus Aenean eget massa</h5>
+                                              <p>Mauris posuere diam at enim malesuada, ac malesuada erat auctor. Ut porta mattis tellus eu sagittis. Nunc maximus ipsum a mattis dignissim. Suspendisse id pharetra lacus, et hendrerit mi. Praesent at vestibulum tortor. Ut porta mattis tellus eu sagittis. Nunc maximus ipsum a mattis dignissim.</p>
+                                              <div class="row">
+                                                <div class="col-xs-12 col-sm-6">
+                                                  <ul>
+                                                    <li>Shopping history</li>
+                                                    <li>Hot offers according your settings</li>
+                                                    <li>Multi-product search</li>
+                                                    <li>Opportunity to share with friends</li>
+                                                    <li>User-friendly interface</li>
+                                                  </ul>
+                                                </div>
+                                                <div class="col-xs-12 col-sm-6">
+                                                  <ul>
+                                                    <li>Shopping history</li>
+                                                    <li>Hot offers according your settings</li>
+                                                    <li>Multi-product search</li>
+                                                    <li>Opportunity to share with friends</li>
+                                                    <li>User-friendly interface</li>
+                                                  </ul>                 
+                                                </div>
+                                              </div>
+                                            </div>
+                                        </div>
+                                        <div class="acc-panel">
+                                            <div class="acc-title"><span class="acc-icon"></span>How do I list multiple rooms?</div>
+                                                <div class="acc-body">
+                                                    <h5>metus Aenean eget massa</h5>
+                                                    <p>Mauris posuere diam at enim malesuada, ac malesuada erat auctor. Ut porta mattis tellus eu sagittis. Nunc maximus ipsum a mattis dignissim. Suspendisse id pharetra lacus, et hendrerit mi. Praesent at vestibulum tortor. Ut porta mattis tellus eu sagittis. Nunc maximus ipsum a mattis dignissim.</p>
+                                                    <div class="row">
+                                                        <div class="col-xs-12 col-sm-6">
+                                                          <ul>
+                                                            <li>Shopping history</li>
+                                                            <li>Hot offers according your settings</li>
+                                                            <li>Multi-product search</li>
+                                                            <li>Opportunity to share with friends</li>
+                                                            <li>User-friendly interface</li>
+                                                          </ul>
+                                                        </div>
+                                                        <div class="col-xs-12 col-sm-6">
+                                                          <ul>
+                                                            <li>Shopping history</li>
+                                                            <li>Hot offers according your settings</li>
+                                                            <li>Multi-product search</li>
+                                                            <li>Opportunity to share with friends</li>
+                                                            <li>User-friendly interface</li>
+                                                          </ul>                 
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        <div class="acc-panel">
+                                            <div class="acc-title"><span class="acc-icon"></span>How do I use my calendar?</div>
+                                            <div class="acc-body">
+                                                <h5>metus Aenean eget massa</h5>
+                                                <p>Mauris posuere diam at enim malesuada, ac malesuada erat auctor. Ut porta mattis tellus eu sagittis. Nunc maximus ipsum a mattis dignissim. Suspendisse id pharetra lacus, et hendrerit mi. Praesent at vestibulum tortor. Ut porta mattis tellus eu sagittis. Nunc maximus ipsum a mattis dignissim.</p>
+                                                <div class="row">
+                                                    <div class="col-xs-12 col-sm-6">
+                                                      <ul>
+                                                        <li>Shopping history</li>
+                                                        <li>Hot offers according your settings</li>
+                                                        <li>Multi-product search</li>
+                                                        <li>Opportunity to share with friends</li>
+                                                        <li>User-friendly interface</li>
+                                                      </ul>
+                                                    </div>
+                                                    <div class="col-xs-12 col-sm-6">
+                                                      <ul>
+                                                        <li>Shopping history</li>
+                                                        <li>Hot offers according your settings</li>
+                                                        <li>Multi-product search</li>
+                                                        <li>Opportunity to share with friends</li>
+                                                        <li>User-friendly interface</li>
+                                                      </ul>                 
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>                                           
+                                    </div>                      
+                                </div> 
                                 </div>
                                 <div class="tab-info"> 
                                   <h3>General Information About tour</h3>
                                   <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque ac turpis egestas, varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
                                   <ul>
                                     <li>Shopping history</li>
-                    <li>Hot offers according your settings</li>
-                    <li>Multi-product search</li>
-                    <li>Opportunity to share with friends</li>
-                  </ul>                                 
+                                    <li>Hot offers according your settings</li>
+                                    <li>Multi-product search</li>
+                                    <li>Opportunity to share with friends</li>
+                                  </ul>                                 
                                   <h4>interesting for you</h4>
                                   <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus.</p>
                   <h3>you need to know</h3>
@@ -279,8 +272,8 @@
                                 </div>     
                             </div>
                         </div>            
-          </div>         
-          </div>
+                </div>         
+            </div>
     <!--RIGHT SIDEBAR-->
     <div class="col-xs-12 col-md-4">
         <div class="right-sidebar">

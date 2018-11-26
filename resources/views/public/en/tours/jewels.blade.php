@@ -42,7 +42,7 @@
                 <div class="col-xs-12 col-sm-4">
                     <div class="help-contact bg-grey-2">
                         <a class="help-phone color-dark-2 link-dr-blue" href="tel:5184247277"><img src="/assets/public/img/detail/phone24-dark.png" alt="">51 84 247277</a>
-                        <a class="help-mail color-dark-2 link-dr-blue" href="mailto:let’s_travel@world.com"><img src="/assets/public/img/detail/letter-dark.png" alt="">let’s_travel@world.com</a>
+                        <a class="help-mail color-dark-2 link-dr-blue" href="mailto:terandes@terandes.com"><img src="/assets/public/img/detail/letter-dark.png" alt="">terandes@terandes.com</a>
                     </div> 
                 </div>
             </div>
