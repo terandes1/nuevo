@@ -84,15 +84,15 @@
     	  	<div class="row">
     	  		<div class="col-md-12">
     	  		    <div class="copyright">
-						<span>&copy; Copyrights © 2018 Terandes. Todos los derechos reservados</span>
+						<span>&copy; Copyrights © 2018 Terandes.All rights reserved</span>
 					</div>
-    	  			<ul>
+    	  			<!-- <ul>
 						<li><a class="link-aqua" href="#inicio">Inicio </a></li>
 						<li><a class="link-aqua" href="#tours">Tours</a></li>
 						<li><a class="link-aqua" href="#galeria">Galeria </a></li>
 						<li><a class="link-aqua" href="#nosotros">Nosotros</a></li>
 						<li><a class="link-aqua" href="#contacto">Contacto</a></li>
-					</ul>
+					</ul> -->
     	  		</div>
     	  	</div>
     	  </div>

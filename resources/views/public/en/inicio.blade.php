@@ -565,7 +565,7 @@
 </div> 
 <!-- fin nosotros -->
   <!--contacto-->   
-    <div class="main-wraper bg-grey-2 padd-90">
+<div class="main-wraper bg-grey-2 padd-90">
     <div class="container" id="contacto">
             <div class="row">
                 <div class="col-xs-12 col-sm-8 col-sm-offset-2">
@@ -586,9 +586,8 @@
         <div class="row">
             <div class="col-xs-12 col-sm-8 col-sm-offset-2">
                 <div class="second-title">
-                    <h4 class="subtitle color-dark-2-light">our partners</h4>
+                    <h4 class="subtitle color-dark-2-light">partners</h4>
                     <h2>Our Inveastors Relations</h2>
-                    <p class="color-grey">Curabitur nunc erat, consequat in erat ut, congue bibendum nulla. Suspendisse id tor.</p>
                 </div>
             </div>
         </div>                      
@@ -597,34 +596,29 @@
         <div class="swiper-wrapper">
             <div class="swiper-slide">
                 <div class="partner-entry">
-                    <a href="#"><img class="img-responsive" src="assets/public//img/home_7/partner_1.png" alt=""></a>
+                    <a href="http://www.illapa.com/" target="_blank"><img class="img-responsive" src="assets/public/img/socios/illapaA.jpg" alt=""></a>
                 </div>
             </div>
             <div class="swiper-slide text-center">
                 <div class="partner-entry">
-                    <a href="#"><img class="img-responsive" src="assets/public/img/home_7/partner_2.png" alt=""></a>
+                    <a href="https://www.terandes.com/fr" target="_blank" ><img class="img-responsive"  style="height: 60px;" src="assets/public/img/socios/logo.png" alt=""></a>
                 </div>          
             </div>
             <div class="swiper-slide text-center">
                 <div class="partner-entry">
-                    <a href="#"><img class="img-responsive" src="assets/public/img/home_7/partner_3.png" alt=""></a>
+                    <a href="https://www.turismorural.com.pe/es" target="_blank"  ><img class="img-responsive"  style="height: 60px;" src="assets/public/img/socios/rural.png" alt=""></a>
                 </div>          
             </div>
             <div class="swiper-slide text-center">
                 <div class="partner-entry">
-                    <a href="#"><img class="img-responsive" src="assets/public/img/home_7/partner_4.png" alt=""></a>
+                    <a href="https://www.patronatomachupicchu.org/"   target="_blank" ><img class="img-responsive"  style="height: 60px;" src="assets/public/img/socios/patronato.png" alt=""></a>
                 </div>          
             </div>
             <div class="swiper-slide text-center">
                 <div class="partner-entry">
-                    <a href="#"><img class="img-responsive" src="assets/public/img/home_7/partner_5.png" alt=""></a>
+                    <a href="http://illapatransportes.com/"  target="_blank"  ><img class="img-responsive"  style="height: 60px;" src="assets/public/img/socios/illapaT.png" alt=""></a>
                 </div>          
-            </div>
-            <div class="swiper-slide text-center">
-                <div class="partner-entry">
-                    <a href="#"><img class="img-responsive" src="assets/public/img/home_7/partner_6.png" alt=""></a>
-                </div>          
-            </div>                      
+            </div>                     
         </div>
         <div class="pagination pagination-hidden"></div>
     </div>  
