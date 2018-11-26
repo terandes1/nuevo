@@ -14,6 +14,9 @@
 Route::get('/', function () {
     return view('public.en.inicio');
 });
+Route::get('/en', function () {
+    return view('public.en.inicio');
+});
 // Route::get('/tour/{details?}', function () {
 //     return view('public.es.tour_details');
 // });

@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Mail\mailContacto;
 use Illuminate\Support\Facades\Mail;
-
+use App\Http\Requests\validarContacto;
 class contactoController extends Controller
 {
     /**
@@ -84,7 +84,7 @@ class contactoController extends Controller
         //
     }
 
-    public function contacto(Request $request)
+    public function contacto(validarContacto $request)
     {
 
         
