@@ -13,7 +13,7 @@
                        <li><a class="link-blue-2" href="#">flights</a> /</li>
                        <li><span>detail</span></li>
                     </ul> -->
-                    <h2 class="color-white">Jewels of Cusco</h2>
+                    <h2 class="color-white">Wonders of Peru in family</h2>
                     
                 </div>
             </div>
@@ -29,7 +29,7 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-8">
                     <div class="detail-category color-grey-3"></div>
-                    <h2 class="detail-title color-dark-2">Jewels of Cusco</h2>
+                    <h2 class="detail-title color-dark-2">Wonders of Peru in family</h2>
                     <div class="detail-rate rate-wrap clearfix">
                         <div class="rate">
                         <span class="fa fa-star color-yellow"></span>
@@ -41,8 +41,8 @@
                     <i>485 Rewies</i> 
                    </div>
                 <p style="text-align: justify;">
-                    Jewels of Cusco offers you a set of must-see destinations, Lima, Cusco, the Sacred Valley and Machu Picchu in ten days, staying at the best accommodations with a unique sense of style and distinction. Discover the city of Kings, Lima, accompanied by our guide who will give you insights about the capital, moving from its fascinating past towards the present. Discover the most beautiful sites of the Sacred Valley. Enjoy the comfort of a train ride to Machu Picchu, hike along a portion of the Inca trail and marvel your senses with the amazing natural scenery that will surround you and once you reach the lost citadel, explore and admire it with plenty of time. In Cusco, stroll around its colonial streets combined with incredible Inca constructions and let the city fascinate you. 
-                    This program can be customized according to your interests, needs and travel style. Please, feel free to contact us and personalize your holiday. 
+                    Wonders of Peru in Family is an ideal travel program to enjoy twelve days exploring the most beautiful places in Lima, Paracas, Nazca, Cusco, the Sacred Valley and Machu Picchu, staying at the best selection of accommodations, all of them with a unique sense of style and distinction. Discover the city of Kings, Lima, accompanied by our guide who will give you insights about the capital and its treasures, moving from its fascinating past towards the present. Explore Ballestas Islands and its incredible fauna, the National reserve of Paracas and fly over the mysterious Nazca lines. Fly through the Andes to Cusco and discover the most beautiful sites of the Sacred Valley. Enjoy the comfort of a train ride to Machu Picchu, marvel your senses with the amazing natural scenery that will surround you and once you reach the lost citadel, explore and admire it with plenty of time. In Cusco, stroll around its colonial streets combined with incredible Inca constructions and let the city fascinate you. 
+                    This program can be customized according to your interests, needs and travel style. Please, feel free to contact us and personalize your holiday.
                 </p>
                 </div>
                 <!-- TELEFONO Y CORREO -->    
@@ -64,22 +64,19 @@
                         <div class="swiper-container thumbnails-preview" data-autoplay="0" data-loop="1" data-speed="500" data-center="0" data-slides-per-view="1">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide active" data-val="0">
-                                    <img class="img-responsive img-full" src="/assets/public/img/tour/jewels-of-peru/1.jpg" alt="">
+                                    <img class="img-responsive img-full" src="/assets/public/img/tour/wonders-of-peru-in-family/1.jpg" alt="">
                                 </div>
                                 <div class="swiper-slide" data-val="1">
-                                    <img class="img-responsive img-full" src="/assets/public/img/tour/jewels-of-peru/2.jpg" alt="">
+                                    <img class="img-responsive img-full" src="/assets/public/img/tour/wonders-of-peru-in-family/2.jpg" alt="">
                                 </div>
                                 <div class="swiper-slide" data-val="2">
-                                    <img class="img-responsive img-full" src="/assets/public/img/tour/jewels-of-peru/3.jpg" alt="">
+                                    <img class="img-responsive img-full" src="/assets/public/img/tour/wonders-of-peru-in-family/3.jpg" alt="">
                                 </div>
                                 <div class="swiper-slide" data-val="3">
-                                    <img class="img-responsive img-full" src="/assets/public/img/tour/jewels-of-peru/4.jpg" alt="">     
+                                    <img class="img-responsive img-full" src="/assets/public/img/tour/wonders-of-peru-in-family/4.jpg" alt="">     
                                 </div>
                                 <div class="swiper-slide" data-val="4">
-                                    <img class="img-responsive img-full" src="/assets/public/img/tour/jewels-of-peru/5.jpg" alt="">            
-                                </div>
-                                <div class="swiper-slide" data-val="5">
-                                    <img class="img-responsive img-full" src="/assets/public/img/tour/jewels-of-peru/6.jpg" alt="">            
+                                    <img class="img-responsive img-full" src="/assets/public/img/tour/wonders-of-peru-in-family/5.jpg" alt="">            
                                 </div>
                             </div>
                             <div class="pagination pagination-hidden poin-style-1"></div>
@@ -91,22 +88,19 @@
                         <div class="swiper-container thumbnails" data-autoplay="0" data-loop="0" data-speed="500" data-slides-per-view="responsive" data-xs-slides="3" data-sm-slides="5" data-md-slides="5" data-lg-slides="5"                   data-add-slides="5">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide current active" data-val="0">
-                                   <img class="img-responsive img-full" src="/assets/public/img/tour/jewels-of-peru/1_1.jpg" alt="">
+                                   <img class="img-responsive img-full" src="/assets/public/img/tour/wonders-of-peru-in-family/1_1.jpg" alt="">
                                 </div>
                                 <div class="swiper-slide" data-val="1">
-                                   <img class="img-responsive img-full" src="/assets/public/img/tour/jewels-of-peru/2_2.jpg" alt="">
+                                   <img class="img-responsive img-full" src="/assets/public/img/tour/wonders-of-peru-in-family/2_2.jpg" alt="">
                                 </div>
                                 <div class="swiper-slide" data-val="2">
-                                   <img class="img-responsive img-full" src="/assets/public/img/tour/jewels-of-peru/3_3.jpg" alt="">
+                                   <img class="img-responsive img-full" src="/assets/public/img/tour/wonders-of-peru-in-family/3_3.jpg" alt="">
                                 </div>
                                 <div class="swiper-slide" data-val="3">
-                                   <img class="img-responsive img-full" src="/assets/public/img/tour/jewels-of-peru/4_4.jpg" alt="">
+                                   <img class="img-responsive img-full" src="/assets/public/img/tour/wonders-of-peru-in-family/4_4.jpg" alt="">
                                 </div>
                                 <div class="swiper-slide" data-val="4">
-                                   <img class="img-responsive img-full" src="/assets/public/img/tour/jewels-of-peru/5_5.jpg" alt="">
-                                </div>
-                                <div class="swiper-slide" data-val="5">
-                                   <img class="img-responsive img-full" src="/assets/public/img/tour/jewels-of-peru/6_6.jpg" alt="">
+                                   <img class="img-responsive img-full" src="/assets/public/img/tour/wonders-of-peru-in-family/5_5.jpg" alt="">
                                 </div>
                             </div>
                             <div class="pagination hidden"></div>
@@ -141,9 +135,9 @@
                                 <div class="acc-panel">
                                     <div class="acc-title"><span class="acc-icon"></span>Day 1. – Arrival in Lima.</div>
                                     <div class="acc-body">
-                                        <p style="text-align: justify; color: black">Welcome to the land of the Incas.
-                                        Your Peru luxury holiday is on the go. 
-                                        As you go through arrivals at the airport in Lima, we will be waiting for you – just look for our representative who will be with a signboard with your name on it. We will take you to your hotel and assist with the check-in procedure. There is nothing better than a time to freshen up and relax to recover from the flight, so we will leave you to rest.
+                                        <p style="text-align: justify; color: black">
+                                        Welcome to the land of the Incas.
+                                        Your Peru luxury holiday is on the go. As you go through arrivals at the airport in Lima, we will be waiting for you – just look for our sign with your name on it. We will take you to your hotel and assist with the check-in procedure. There is nothing better than a time to freshen up and relax to recover from the flight, so we will leave you to rest.
                                         Overnight in Lima.
                                         </p>
                                     </div>
@@ -151,106 +145,140 @@
                                 <div class="acc-panel">
                                     <div class="acc-title"><span class="acc-icon"></span>Day 2. - Lima city highlights</div>
                                     <div class="acc-body">
-                                        <p style="text-align: justify; color: black">Private Tour around Lima´s Best Highlights.
-                                        After enjoying breakfast in your hotel, you will have the morning at leisure; you can either enjoy all the comforts of your hotel or explore the vibrant downtown of Miraflores.
-                                        By noon, we will pick you up from your hotel to take you to Pueblo Libre neighborhood, home for the Larco Herrera Museum. On your arrival to this site, first, you will enjoy a delicious lunch right on the vine-covered terrace of the Museum’s café, after lunch, you are going start exploring the exhibit accompanied by your guide. This is a fascinating place houses the country’s largest and most representative collection of pre-Columbian artifacts (including extensive gold and silver collections, and a very special and peculiar collection of erotic ceramics), here you are going to have a unique open access to their exquisitely catalogued storage area; this museum is the perfect introduction to Peru’s multi-faceted cultural history. 
-                                        We will continue the tour driving to the heart of Peru’s “City of Kings”. Here you are going to see the Plaza Mayor; the square shows beautiful examples of colonial and republican architecture in the surrounding houses. You will see the Government’s palace from the outside and you will visit the Cathedral of Lima. You will continue your tour heading to the Convent of San Francisco; this religious building is interesting because subterranean catacombs are one of the main attractions. We are going to finish the tour visiting the Casa Aliaga, which is the oldest western hemisphere’s mansion; this historic house is still inhabited and under the property of the 17th generation of the Aliaga family.
-                                        At the end of the tour, we will take you back to your hotel; your guide will provide you some suggestions of places to see and dine within a walking distance from your hotel.
-                                        Overnight in Lima.
+                                        <p style="text-align: justify; color: black">
+                                            Private Tour around Lima´s Best Highlights.
+                                            After enjoying breakfast in your hotel, you will have the morning at leisure; you can either enjoy all the comforts of your hotel or explore the vibrant downtown of Miraflores.
+                                            By noon, we will pick you up from your hotel to take you to Pueblo Libre neighborhood, home for the Larco Herrera Museum. On your arrival to this site, first, you will enjoy a delicious lunch right on the vine-covered terrace of the Museum’s café, after lunch, you are going start exploring the exhibit accompanied by your guide. This is a fascinating place houses the country’s largest and most representative collection of pre-Columbian artifacts (including extensive gold and silver collections, and a very special and peculiar collection of erotic ceramics), here you are going to have a unique open access to their exquisitely catalogued storage area; this museum is the perfect introduction to Peru’s multi-faceted cultural history. 
+                                            We will continue the tour driving to the heart of Peru’s “City of Kings”. Here you are going to see the Plaza Mayor; the square shows beautiful examples of colonial and republican architecture in the surrounding houses. You will see the Government’s palace from the outside and you will visit the Cathedral of Lima. You will continue your tour heading to the Convent of San Francisco; this religious building is interesting because subterranean catacombs are one of the main attractions. We are going to finish the tour visiting the Casa Aliaga, which is the oldest western hemisphere’s mansion; this historic house is still inhabited and under the property of the 17th generation of the Aliaga family.
+                                            At the end of the tour, we will take you back to your hotel; your guide will provide you some suggestions of places to see and dine within a walking distance from your hotel.
+                                            Overnight in Lima.
                                         </p>
                                     </div>
                                 </div>
                                 <div class="acc-panel">
-                                    <div class="acc-title"><span class="acc-icon"></span>Day 3. - Lima Cusco Sacred Valley.</div>
+                                    <div class="acc-title"><span class="acc-icon"></span>Day 3. - Lima - Paracas.</div>
                                     <div class="acc-body">
-                                        <p style="text-align: justify; color: black">Flight to Cusco and transfer to the Sacred Valley.
-                                        After breakfast in your hotel, we will take you to the airport for your morning flight to Cusco. As you start your flight, do not miss the stunning views of the landscapes, moving from the arid desert along the coast, towards the snow-capped mountains of the Andes.
-                                        On your arrival, our representative will be waiting at the airport of Cusco to take you to the Sacred Valley, where you can easily acclimatize and adjust to the elevation change. 
-                                        The Sacred valley is located just an hour away from Cusco, the Sacred Valley is simply another world: cattle, showing cows and sheep grazing by the roadside, old farming terraces on the hillside that nowadays are still in use and impossibly steep peaks rising in the distance. En route, we will stop the center of South American Camelids of Awanakancha and its Living Museum, here you can marvel and admire weavers at work, sharing the beauty of their textile tradition and there will be a unique opportunity to see and feed llamas, alpacas, vicuñas and other Andean camelids.
-                                        After lunch, we will continue our way to the hotel where you will spend the rest of the day.
-                                        Overnight Sacred Valley.
+                                        <p style="text-align: justify; color: black">Morning transfer by car to visit the national Reserve of Paracas. 
+                                        The protected reserve covers 3350 square kilometers, divided in 65% of sea and 35% of dry land and islands. It is considered as one of the richest and most uncommon ecosystems in the world. The attraction is not only the wildlife but also the beauty of the ocean and desert landscapes.
+                                        Established in 1975, it is the oldest marine reserve in Peru, and in addition to the biological areas, the reserve protects prehistoric sites of the Paracas culture and other ancient civilizations. Near the entrance of the reserve is the Interpretation Center of the National Reserve and the Julio C Tello Museum, this place was named after the archeologist who made major discoveries about the ancient Paracas culture, like the elegant pieces buried with the mummified remains of the Paracas elite. Guided tour through this pristine and unique natural reserve, visit the Mirador de Flamencos and see flamingoes eating at the shore; continue your adventure towards to learn about all the fauna in the reserve, here you can see skeletons of whales, sea lions, and penguins  Return to your hotel for lunch.
+                                        Overnight at Libertador Paracas Hotel.
                                         </p>
                                     </div>
                                 </div>
                                 <div class="acc-panel">
-                                    <div class="acc-title"><span class="acc-icon"></span>Day 4. - Pisac – Sarapampa Hacienda.</div>
+                                    <div class="acc-title"><span class="acc-icon"></span>Day 4. - Ballestas Islands and Fly over the Nazca lines.</div>
                                     <div class="acc-body">
-                                        <p style="text-align: justify; color: black">We will arrive to Pisac where we will spend some time strolling around the local market that shows its colorful textiles, all kinds of dyes, cutlery, ceramics and its vast variety of fresh vegetables; it seems that this place holds something to please everyone.
-                                        Our visit will continue towards the Inca site located just on top of the mountain that overlooks the town. We will visit its impressive constructions and enjoy the views of the surroundings.
-                                        After our visit to Pisac, we will drive to a nice hacienda where we will have lunch and learn about the special white corn from the Sacred Valley. 
-                                        In the afternoon, we will head to visit the Inkariy Museum, a fantastic place where we will immerse into the origins of the Peruvian culture. 
-                                        Overnight in the Sacred Valley.
+                                        <p style="text-align: justify; color: black">Tour to the Islands of Ballestas and Overflight of Nazca Lines
+                                        Morning boat excursion to the Ballestas islands, depart from the boat dock in Paracas at 8:00 am for your visit to the Ballestas Islands archipelago. As you cruise west from the tiny beach town of Paracas, you cannot miss the Candelabra geoglyph, a 150 m high and 50 m wide figure of a candlestick etched into the mountain, rumored to have been an ancient guide for sailors or a connection to the Nazca lines. Ballestas islands is an excellent opportunity to see large families of over 100 sea lions sleeping on the shores, basking in the sun on the rocks or some barking loudly in efforts to protect their territory.  Spot cormorants, the Peruvian booby and Peruvian pelican as well as other impressive varieties of sea bird species and Humboldt penguins nesting together in small groups. Watch the waters for dolphins. Apart from the abundant marine and bird life found here, the Ballestas Islands are also very well known for the guano (seabird droppings) deposited on the island over thousands of years which creates a natural reserve of nitrogen-rich fertilizer over 50 meters deep in some areas.  The guano came to be Peru's number 1 export in the mid-19th century however today the extraction of guano has been regulated to happen every 10 years. Then we will return to Paracas dock.  Upon arrival at 10:00 am, you will have some time to take photos of the friendly pelicans that hang out on the shoreline beside the dock. Then we will transfer you to Pisco Regional Airport. Our staff will assist you with the check-in procedure, once we finish with it; you will get into a Cessna Grand Caravan, which comfortably sets 12 passengers to enjoy a thrilling 90-minute flight over the Nazca Lines, with the chance to see 12 of the most popular Nazca Lines.
+                                        After the flight over the lines, we will take you back to your hotel where you will have lunch.
+                                        The afternoon will be at leisure, you may opt to relax and enjoy the comfort of your hotel.
+                                        Overnight at Libertador Paracas Hotel.
                                         </p>
                                     </div>
                                 </div>  
                                 <div class="acc-panel">
-                                    <div class="acc-title"><span class="acc-icon"></span>Day 5. - Ollantaytambo & Chinchero.</div>
+                                    <div class="acc-title"><span class="acc-icon"></span>Day 5. – Lima - Cusco - Sacred Valley.</div>
                                     <div class="acc-body">
-                                        <p style="text-align: justify;color: black">Tour to the Inca site of Ollantaytambo and to the town of weavers of Chinchero.
-                                        This morning, after breakfast, we will start our tour; first, we will drive to visit the Inca complex of Ollantaytambo.  it is a charming town characterized by its cobblestone streets and beautiful stone houses with big interior courtyards and the unusual trapezoidal doors that retain the traditional Inca urban planning. The streets in this town have water canals running down towards the farming lands and the river.
-                                        The fortress is located on top of the mountain that overlooks the town; it has a religious area with an impressive stonework and in the lower part, there is a section of wide terraces.
-                                            Lunch at Wayra Restaurant.
-                                        After lunch, we will head towards Chinchero, a town of Inca origin that is famous for the extraordinary beauty and quality of its textiles and for its fair where local people dress in traditional colorful outfits and travel down from their villages to trade their goods. Accompanied by your guide you will visit this picturesque town; here you will meet local weavers in their workshop; you will have a chance to see and share time learning the basics of traditional weaving. All the weavers of Chinchero area are proud of their textile tradition and they are working hard to keep the legacy alive, passing it to the young members of their communities. 
-                                        Overnight Sacred Valley.
+                                        <p style="text-align: justify;color: black">
+                                        Flight to Cusco and transfer to Urubamba in the Sacred Valley.
+                                        This morning will be at leisure, so you can relax in your hotel until we meet you to transfer you to the airport for the flight to Cusco.
+                                        Upon your arrival in Cusco airport, our representative will meet you and assist you with your transfer to the sacred Valley.
+                                        Overnight in the Sacred Valley.
                                         </p>
                                     </div>
                                 </div>
                                 <div class="acc-panel">
-                                    <div class="acc-title"><span class="acc-icon"></span>Day 6. - Short hike to Machu Picchu.</div>
+                                    <div class="acc-title"><span class="acc-icon"></span>Day 6.-Chinchero Maras Moray.</div>
                                     <div class="acc-body">
-                                        <p style="text-align: justify; color: black">Short Inca trail to the citadel of Machu Picchu. 
-                                        This morning, we will transfer you to Ollantaytambo station to board the Vistadome train to the starting point of the short Inca Trail, Km 104 of the route to Machu Picchu.
-                                        On our arrival, we will get ready to start the hike; we will go through the checkpoint and cross a bridge over the Urubamba River. We are going to start visiting the archaeological complex of Chachabamba, located not far away from the control point, then we will embark on an 8 km. ascending trail, which after about four hours will take us to the archaeological complex of Wiñaywayna. This is an impressive Inca complex made up of an agricultural center with numerous terraces, a religious sector and a urban sector. On the way up, we will have magnificent views of the Urubamba River valley and the Choquesuysuy archaeological complex located on the other side of the river; we will also see a beautiful waterfall located just a few minutes away from Wiñaywayna. We will continue our hike and climb to Intipunku or The Sun Gate. This will take an hour of hiking along a trail of flat stones on the edges of cliffs in the raincloud forest. Once we reach this point, we will have a fantastic view of the lost citadel of Machu Picchu. From Intipunku we will descend to Machu Picchu and then by bus to Aguas Calientes. 
-                                        For the hike, we will have a box lunch and an assistant (Porter) to help us with the food and water supply.
+                                        <p style="text-align: justify; color: black">
+                                        Visit to Moray, the saltpans of Maras and the town of weavers of Chinchero. 
+                                        After breakfast, we will continue our adventure with a trip to a nice highland spot, which is located not far away from the breathtaking Lake of Piuray. The village of Chinchero is well known because of its textile tradition, here you will have an opportunity to talk and interact with the weavers who will share some of their knowledge with you.
+                                        After visiting this place, our tour will continue with the visit of the enigmatic Inca ruins at Moray. From the upper part, these circular terraces look like an ancient amphitheater, though some experts believe they served as agricultural laboratories where the Incas could experiment with new farming techniques as well as a process of acclimatization of some plants. Of course, this is just one of the various theories, and even after many years of research and dozens of hypotheses, but still the true purpose of Moray remains as a mystery. This day, you are going to inspect the site yourself and have your own theories.
+                                        Depart from the intriguing Moray and continue to the small town of Maras, home of an old salt mine that dates from the Inca times. This place comprises thousands of milky pools, each set on its own terrace along the hillside, the saltpans are particularly surreal in appearance and incredibly photogenic. All these pans are owned individually and have been passed down through the local families since pre-Inca times.
+                                        Once we return from seeing the saltpans, we will have a set of activities to do in town, for the young members of the group; we will build kites or take a ceramic class.
+                                        Another option might be to take a bike ride in the surroundings of the community.
+                                        At the end of the day, we will drive you back to your hotel.
+                                        Overnight in the Sacred Valley.
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="acc-panel">
+                                    <div class="acc-title"><span class="acc-icon"></span>Day 7. - Pisac and Horseback riding.</div>
+                                    <div class="acc-body">
+                                        <p style="text-align: justify; color: black">
+                                        Morning excursion to Pisac to visit its ruins and market and a horseback ride tour.
+                                        Today, you are going to experience Peru’s fascinating combination of past and present. First, we will bring you to the impressive Inca ruins of Pisac, located on top of the mountain that overlooks the town, to explore its incredible constructions.
+                                        After walking around the old Inca site, we will descend to the town where we will visit the market, located in the main square of Pisac to witness its vibrant activity. The market shows its colorful textiles, all kinds of dyes, cutlery, ceramics and its vast variety of fresh vegetables; it seems that this place holds something to please everyone.
+                                        Lunch in Huayoccari.
+                                        After lunch, we will be ready for a horseback ride excursion in the surroundings of the hacienda. Before starting the adventure, we will have a safety briefing to be familiarized with the security protocol.   
+                                        Overnight in the Sacred Valley.
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="acc-panel">
+                                    <div class="acc-title"><span class="acc-icon"></span>Day 8.-Ollantaytambo Machu Picchu.</div>
+                                    <div class="acc-body">
+                                        <p style="text-align: justify; color: black">
+                                        Morning visit to Ollantaytambo and train ride to Machu Picchu.
+                                        This morning we will visit Ollantaytambo which is a charming Inca town characterized by its cobblestone streets and beautiful stone houses with big interior courtyards and the unusual trapezoidal doors that retain the traditional Inca urban planning. The streets in this town have water canals running down towards the farming lands and the river.
+                                        The fortress is located on top of the mountain that overlooks the town; it has a religious area with an impressive stonework. In the lower part, there is a section of wide terraces.
+                                        At the end of this visit, we will transfer you to the train station where you will board the train to Aguas Calientes.
+                                        The train ride is very scenic, you will enjoy beautiful landscapes and gradually you will witness the transition from the typical brown highland landscape to the incredible green of the raincloud forest. On your arrival, our representative will assist you to take your bags to the hotel where you will have lunch.
+                                        In the afternoon, you will take a bus to reach the top of the mountain where the site is located; here, accompanied by your guide you will have a tour of this incredible Inca site.
+                                        Return to your hotel.
                                         Overnight in Aguas Calientes.
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="acc-panel">
-                                    <div class="acc-title"><span class="acc-icon"></span>Day 7. - Machu Picchu Cusco.</div>
-                                    <div class="acc-body">
-                                        <p style="text-align: justify; color: black">Second visit to the Inca citadel.
-                                        This morning, accompanied by your guide, you will visit the incredible lost citadel of Machu Picchu. You will explore this fascinating Inca site from side to side, visiting its different sectors, enjoying astonishing views of the site and the surrounding scenery.
-                                        Buffet lunch at Sanctuary Lodge Hotel included.
-                                        Afternoon train return to Poroy. (Subject to availability, alternative station may be Ollantaytambo). On your arrival, our representative will be waiting for you at the train station to transfer you to your hotel.
-                                        Overnight in Cusco.
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="acc-panel">
-                                    <div class="acc-title"><span class="acc-icon"></span>Day 8.-Cusco city highlights.</div>
-                                    <div class="acc-body">
-                                        <p style="text-align: justify; color: black">Tour of the city.
-                                        This morning accompanied with your guide, you will explore the colonial streets and the squares of Cusco. You will immerse in the fascinating history of the Inca Capital. The first spot to visit will be the Santo Domingo church, a colonial temple that lays on top of the ancient Inca Temple of the Sun (Koricancha); then you will continue the tour heading towards the Cathedral of the city, located right in the main square – this is one of the most impressive exhibits of colonial art.
-                                        Continue walking through the beautiful streets of the traditional neighborhood of San Blas, which is well known for being the house of the most representative Masters of Arts in Cusco city, San Blas is considered the cradle of traditional Cusquenian art.  Then you are going to descent towards the hotel, en route you will pass by the famous 12-angled stone, whose image has been taken in many TV commercials.
-                                        After the tour, your guide will suggest you some restaurants where you can enjoy the flavor of the local cuisine.
-                                        The rest of the day will be at leisure, you can opt to continue exploring the city on your own or if you prefer, you can relax in your hotel.
-                                        Overnight in Cusco.
                                         </p>
                                     </div>
                                 </div> 
                                 <div class="acc-panel">
-                                    <div class="acc-title"><span class="acc-icon"></span>Day 9. - Cusco Southern Valley</div>
+                                    <div class="acc-title"><span class="acc-icon"></span>Day 9.-Machu Picchu or Optional Huayna Picchu hike - Cusco.</div>
                                     <div class="acc-body">
-                                        <p style="text-align: justify; color: black">Tour to Tipon – Pikillacta and Andahuaylillas.
-                                        This morning, after breakfast we will pick you up to start out tour towards the Southern valley, first, we will visit Tipon; an important archaeological site that holds numerous impressive terraces that are still being cultivated today. The most interesting part of the site is the irrigation system that still serves agricultural lands in the nearby areas. It consists of carved stone channels, precisely calculated and sometimes with almost vertical falls that all together constitute a hydraulic engineering masterpiece.
-                                        We will continue our visit heading to Pikillacta. The constructions of this pre-Inca town are composed of more than 700 structures including 200 departments (Kanchas), 504 storages (qolqas) and different buildings that probably gave shelter to a population of around ten thousand inhabitants. The city was constructed in a harmonious and symmetric way, in blocks with straight streets that embraced many sectors such as the administrative, ceremonial, urban, defensive and a road system. 
-                                        The inhabitants constructed the walls with a combination of mud and stone, all of them wide at the bottom and narrow at the upper part. Room walls and floors were also made with a kind of thick plaster showing the appearance of a white city.
-                                        Lunch in a Local restaurant.
-                                        Our last spot to visit is Andahuaylillas, considered as one of the most important attractions, here the church of San Pedro de Andahuaylillas is known and called the “Sistine Chapel of the Americas” due to the impressive quality of its art pieces and frescoes that decorate the walls. Built at the beginning of XVII century, the interior of the temple is decorated with murals of Luis Riaño (XVII, the paintings represent the path to glory and the path to hell. Besides, this church holds incredible treasures, like an impressive old organ, numerous canvases of the Academy of Cusco, silver work and baroque altars.
-                                        Afternoon return to your hotel.
+                                        <p style="text-align: justify; color: black">
+                                        Second visit to the site or hike to Huayna Picchu Mountain.
+                                        This morning, accompanied by your guide you will have a second exploration of the site to take pictures or a hike to the Huayna Picchu Mountain.( Please remember that hiking this mountain should be booked in advance due to the limited number of entrances).
+                                        Lunch at Machu Picchu Sanctuary Lodge.
+                                        Return to Aguas Calientes where you will board your train to Cusco.
+                                        On your arrival to the station, our representative will meet you to transfer you to the hotel.
                                         Overnight in Cusco.
                                         </p>
                                     </div>
                                 </div>
                                 <div class="acc-panel">
-                                    <div class="acc-title"><span class="acc-icon"></span>Day 10. - Cusco – Lima</div>
+                                    <div class="acc-title"><span class="acc-icon"></span>Day 10.-Cusco highlights and Hands on experience.</div>
                                     <div class="acc-body">
-                                        <p style="text-align: justify; color: black">Flight to Lima.
-                                        At the scheduled time, we will meet you in your hotel for your transfer to the airport.  Flight to Lima.
+                                        <p style="text-align: justify; color: black">
+                                        Tour of the city and San Blas clay ceramics workshop.
+                                        On this day, it will be time to immerse in the history and architectural beauty of Cusco, an amazing city that has a unique charm and captivates most travelers that come to visit. Discover Cusco and its secrets during a private city tour; accompanied by our expert guide, we will walk through the traditional streets of Cusco. As we get to explore our first site, our guide will provide us information about the history of these beautiful places. Our visit will take us to Santo Domingo church; a colonial religious building that lays on top of the ancient Inca temple of the sun. We will continue our tour visiting the Cathedral of Cusco, a place that is necessary in order to get a better understanding of the architecture and art changes that took place in the colonial period. Our next spot to visit will be the traditional neighborhood of San Blas, a well-known neighborhood, famous for being the house of the most representative Masters of Arts in Cusco city; San Blas is considered the cradle of traditional Cusquenian art.
+                                        Here, after exploring the place, we will have a ceramics workshop led by a local artist who will share with you the basics of the art.
+                                        We will have lunch in a restaurant in San Blas.
+                                        After lunch, we will take our way back to the hotel and, en route, we will pass by the famous 12-angled stone, whose image has been taken in many TV commercials.
+                                        Back in the hotel, your guide will give you some suggestions of places to visit and some restaurant options for dinner to continue enjoying the flavors of the local cuisine.
+                                        Overnight in Cusco.  
                                         </p>
                                     </div>
-                                </div>         
+                                </div>   
+                                <div class="acc-panel">
+                                    <div class="acc-title"><span class="acc-icon"></span>Day 11.-Nearby ruins and Awanakancha.</div>
+                                    <div class="acc-body">
+                                        <p style="text-align: justify; color: black">
+                                        Morning tour to Sacsayhuaman, Q’enko and Puca Pucara before visiting Awanakancha, the Center of South American camelids.
+                                        This morning, we will drive to the upper part where we are going to explore the most interesting sites constructed by the Incas in the proximity of the city. Our first site to visit will be Sacsayhuaman, an incredible megalithic construction that in the past was considered as a fortress, but recent excavations proved that it was a religious center. We will continue our explorations visiting Q’enko, a ceremonial place where we will see its labyrinth and a very particular structure similar to an amphitheater.
+                                        The tour will continue and we will visit the site of Puca Pucara, it is a small complex that was built as a checkpoint for the travelers who wanted to access to the Inca city of Cusco.
+                                        We will continue driving towards Awanacancha, a center of South American Camelids where you will have a chance to see and   different types of camelids such as llamas, alpacas, vicuñas and guanacos.
+                                        Return to the hotel.
+                                        Overnight in Cusco. 
+                                        </p>
+                                    </div>
+                                </div> 
+                                <div class="acc-panel">
+                                    <div class="acc-title"><span class="acc-icon"></span>Day 12. – Cusco - Lima</div>
+                                    <div class="acc-body">
+                                        <p style="text-align: justify; color: black">
+                                        Flight from Cusco to Lima.
+                                        At a scheduled time, we will transfer you to the airport for your flight back to Lima.
+                                        </p>
+                                    </div>
+                                </div>       
                             </div>                      
                         </div> 
                     </div>

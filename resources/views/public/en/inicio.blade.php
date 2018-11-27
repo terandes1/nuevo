@@ -69,7 +69,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="second-title">
-                        <h2>The Best Sea Tours</h2>
+                        <h2>The Best Luxury Tours</h2>
                           <p class="color-grey">Curabitur nunc erat, consequat in erat ut, congue bibendum nulla. Suspendisse id tor.</p>
                     </div>
                 </div>
@@ -78,7 +78,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                     <div class="radius-mask tour-block hover-aqua">
                       <div class="clip">
-                         <div class="bg bg-bg-chrome act" style="background-image:url(assets/public/img/home_1/sea_tour_img_1.jpg)">
+                         <div class="bg bg-bg-chrome act" style="background-image:url(assets/public/img/tour/jewels/1.jpg)">
                          </div>
                       </div>
                       <div class="tour-layer delay-1"></div>
@@ -113,7 +113,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                     <div class="radius-mask tour-block">
                       <div class="clip">
-                         <div class="bg bg-bg-chrome act" style="background-image:url(assets/public/img/home_1/sea_tour_img_2.jpg)">
+                         <div class="bg bg-bg-chrome act" style="background-image:url(assets/public/img/tour/vinicunca/1.jpg)">
                          </div>
                       </div>
                       <div class="tour-layer delay-1"></div>
@@ -148,7 +148,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                     <div class="radius-mask tour-block">
                       <div class="clip">
-                         <div class="bg bg-bg-chrome act" style="background-image:url(assets/public/img/home_1/sea_tour_img_3.jpg)">
+                         <div class="bg bg-bg-chrome act" style="background-image:url(assets/public/img/tour/relais-chateaux/1.jpg)">
                          </div>
                       </div>
                       <div class="tour-layer delay-1"></div>
@@ -183,13 +183,13 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                     <div class="radius-mask tour-block">
                       <div class="clip">
-                         <div class="bg bg-bg-chrome act" style="background-image:url(assets/public/img/home_1/sea_tour_img_4.jpg)">
+                         <div class="bg bg-bg-chrome act" style="background-image:url(assets/public/img/tour/jewels-of-peru/1.jpg)">
                          </div>
                       </div>
                       <div class="tour-layer delay-1"></div>
                       <div class="tour-caption">
                          <div class="vertical-align">
-                            <h3 class="hover-it">JEWELS OF PERU</h3>
+                            <h3 class="hover-it">JEWELS OF CUSCO</h3>
                               <div class="rate">
                                 <span class="fa fa-star color-yellow"></span>
                                 <span class="fa fa-star color-yellow"></span>
@@ -218,7 +218,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                     <div class="radius-mask tour-block">
                       <div class="clip">
-                         <div class="bg bg-bg-chrome act" style="background-image:url(assets/public/img/home_1/sea_tour_img_5.jpg)">
+                         <div class="bg bg-bg-chrome act" style="background-image:url(assets/public/img/tour/through-the-flavors-of-peru/1.jpg)">
                          </div>
                       </div>
                       <div class="tour-layer delay-1"></div>
@@ -253,13 +253,13 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                     <div class="radius-mask tour-block">
                       <div class="clip">
-                         <div class="bg bg-bg-chrome act" style="background-image:url(assets/public/img/home_1/sea_tour_img_6.jpg)">
+                         <div class="bg bg-bg-chrome act" style="background-image:url(assets/public/img/tour/wonders-of-peru-in-family/1.jpg)">
                          </div>
                       </div>
                       <div class="tour-layer delay-1"></div>
                       <div class="tour-caption">
                          <div class="vertical-align">
-                            <h3 class="hover-it">crete</h3>
+                            <h3 class="hover-it">WONDERS OF PERU IN FAMILY</h3>
                               <div class="rate">
                                 <span class="fa fa-star color-yellow"></span>
                                 <span class="fa fa-star color-yellow"></span>
