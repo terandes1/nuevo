@@ -64,22 +64,22 @@
                         <div class="swiper-container thumbnails-preview" data-autoplay="0" data-loop="1" data-speed="500" data-center="0" data-slides-per-view="1">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide active" data-val="0">
-                                    <img class="img-responsive img-full" src="/assets/public/img/tour/jewels-of-peru/1.jpg" alt="">
+                                    <img class="img-responsive img-full" src="/assets/public/img/tour/jewels-of-cusco/1.jpg" alt="">
                                 </div>
                                 <div class="swiper-slide" data-val="1">
-                                    <img class="img-responsive img-full" src="/assets/public/img/tour/jewels-of-peru/2.jpg" alt="">
+                                    <img class="img-responsive img-full" src="/assets/public/img/tour/jewels-of-cusco/2.jpg" alt="">
                                 </div>
                                 <div class="swiper-slide" data-val="2">
-                                    <img class="img-responsive img-full" src="/assets/public/img/tour/jewels-of-peru/3.jpg" alt="">
+                                    <img class="img-responsive img-full" src="/assets/public/img/tour/jewels-of-cusco/3.jpg" alt="">
                                 </div>
                                 <div class="swiper-slide" data-val="3">
-                                    <img class="img-responsive img-full" src="/assets/public/img/tour/jewels-of-peru/4.jpg" alt="">     
+                                    <img class="img-responsive img-full" src="/assets/public/img/tour/jewels-of-cusco/4.jpg" alt="">     
                                 </div>
                                 <div class="swiper-slide" data-val="4">
-                                    <img class="img-responsive img-full" src="/assets/public/img/tour/jewels-of-peru/5.jpg" alt="">            
+                                    <img class="img-responsive img-full" src="/assets/public/img/tour/jewels-of-cusco/5.jpg" alt="">            
                                 </div>
                                 <div class="swiper-slide" data-val="5">
-                                    <img class="img-responsive img-full" src="/assets/public/img/tour/jewels-of-peru/6.jpg" alt="">            
+                                    <img class="img-responsive img-full" src="/assets/public/img/tour/jewels-of-cusco/6.jpg" alt="">            
                                 </div>
                             </div>
                             <div class="pagination pagination-hidden poin-style-1"></div>
@@ -91,22 +91,22 @@
                         <div class="swiper-container thumbnails" data-autoplay="0" data-loop="0" data-speed="500" data-slides-per-view="responsive" data-xs-slides="3" data-sm-slides="5" data-md-slides="5" data-lg-slides="5"                   data-add-slides="5">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide current active" data-val="0">
-                                   <img class="img-responsive img-full" src="/assets/public/img/tour/jewels-of-peru/1_1.jpg" alt="">
+                                   <img class="img-responsive img-full" src="/assets/public/img/tour/jewels-of-cusco/1_1.jpg" alt="">
                                 </div>
                                 <div class="swiper-slide" data-val="1">
-                                   <img class="img-responsive img-full" src="/assets/public/img/tour/jewels-of-peru/2_2.jpg" alt="">
+                                   <img class="img-responsive img-full" src="/assets/public/img/tour/jewels-of-cusco/2_2.jpg" alt="">
                                 </div>
                                 <div class="swiper-slide" data-val="2">
-                                   <img class="img-responsive img-full" src="/assets/public/img/tour/jewels-of-peru/3_3.jpg" alt="">
+                                   <img class="img-responsive img-full" src="/assets/public/img/tour/jewels-of-cusco/3_3.jpg" alt="">
                                 </div>
                                 <div class="swiper-slide" data-val="3">
-                                   <img class="img-responsive img-full" src="/assets/public/img/tour/jewels-of-peru/4_4.jpg" alt="">
+                                   <img class="img-responsive img-full" src="/assets/public/img/tour/jewels-of-cusco/4_4.jpg" alt="">
                                 </div>
                                 <div class="swiper-slide" data-val="4">
-                                   <img class="img-responsive img-full" src="/assets/public/img/tour/jewels-of-peru/5_5.jpg" alt="">
+                                   <img class="img-responsive img-full" src="/assets/public/img/tour/jewels-of-cusco/5_5.jpg" alt="">
                                 </div>
                                 <div class="swiper-slide" data-val="5">
-                                   <img class="img-responsive img-full" src="/assets/public/img/tour/jewels-of-peru/6_6.jpg" alt="">
+                                   <img class="img-responsive img-full" src="/assets/public/img/tour/jewels-of-cusco/6_6.jpg" alt="">
                                 </div>
                             </div>
                             <div class="pagination hidden"></div>

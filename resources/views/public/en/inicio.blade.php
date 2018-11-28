@@ -183,7 +183,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                     <div class="radius-mask tour-block">
                       <div class="clip">
-                         <div class="bg bg-bg-chrome act" style="background-image:url(assets/public/img/tour/jewels-of-peru/1.jpg)">
+                         <div class="bg bg-bg-chrome act" style="background-image:url(assets/public/img/tour/jewels-of-cusco/1.jpg)">
                          </div>
                       </div>
                       <div class="tour-layer delay-1"></div>
@@ -210,7 +210,7 @@
                                   <span class="font-style-2 color-grey-4">July<strong class="color-white"> 19th</strong> to July<strong class="color-white"> 26th</strong></span>
                             </div>
                            </div>   
-                            <a href="en/tour/jewels-of-peru" class="c-button bg-aqua hv-transparent b-50 fr"><img src="assets/public/img/flag_icon.png" alt=""><span>view more</span></a>
+                            <a href="en/tour/jewels-of-cusco" class="c-button bg-aqua hv-transparent b-50 fr"><img src="assets/public/img/flag_icon.png" alt=""><span>view more</span></a>
                          </div>
                       </div>
                     </div>
