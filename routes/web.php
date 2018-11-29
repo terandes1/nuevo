@@ -32,6 +32,7 @@ Route::view('en/tour/through-the-ancient-trails', 'public.en.tours.through-the-a
 Route::view('en/tour/multi-active-peru', 'public.en.tours.multi-active-peru', ['nombre' => 'MULTI ACTIVE PERU']);
 Route::view('en/tour/hiking-through-the-andes-mountains', 'public.en.tours.hiking-through-the-andes-mountains', ['nombre' => 'HIKING THROUGH THE ANDES MOUNTAINS TO MACHUPICCHU']);
 Route::view('en/tour/luxury-amazon-adventure', 'public.en.tours.luxury-amazon-adventure', ['nombre' => 'LUXURY AMAZON ADVENTURE']);
+Route::view('en/tour/cusco-through-the-eyes-of-a-photographer', 'public.en.tours.cusco-through-the-eyes-of-a-photographer', ['nombre' => 'CUSCO THROUGH THE EYES OF A PHOTOGRAPHER']);
 
 Route::resource('contacto-informacion','contactoController');
 Route::post('contacto/','contactoController@contacto')->name('contacto');

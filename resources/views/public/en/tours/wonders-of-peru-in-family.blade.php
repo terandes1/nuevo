@@ -443,8 +443,8 @@
                                 </div>
                                 <i>485 rewies</i> 
                             </div>  
-                            <span class="f-14 color-dark-2">2 Place de la Sans Défense, Puteaux</span>
-                            <p class="f-14">Jewels of the South offers you a set of must-see destinations, Lima, Cusco, the Sacred Valley, Machu Picchu in ten days.</p>
+                            
+                            
                             <a href="/en/tour/jewels-of-the-south-belmond-trenes" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
                             <a href="#" class="c-button color-dr-blue hv-o b-50 fr"><img src="/assets/public/img/loc_icon_small_drak.png" alt="">view on map</a>
                         </div>

@@ -70,10 +70,7 @@
                                     <img class="img-responsive img-full" src="/assets/public/img/tour/hiking-through-the-andes-mountains/4.jpg" alt="">     
                                 </div>
                                 <div class="swiper-slide" data-val="4">
-                                    <img class="img-responsive img-full" src="/assets/public/img/tour/hiking-through-the-andes-mountains/5.jpg" alt="">            
-                                </div>
-                                <div class="swiper-slide" data-val="5">
-                                    <img class="img-responsive img-full" src="/assets/public/img/tour/hiking-through-the-andes-mountains/6.jpg" alt="">            
+                                    <img class="img-responsive img-full" src="/assets/public/img/tour/hiking-through-the-andes-mountains/5.jpg" alt="">
                                 </div>
                             </div>
                             <div class="pagination pagination-hidden poin-style-1"></div>
@@ -99,9 +96,6 @@
                                 </div>
                                 <div class="swiper-slide" data-val="4">
                                   <img class="img-responsive img-full" src="/assets/public/img/tour/hiking-through-the-andes-mountains/5_5.jpg" alt="">
-                                </div>
-                                <div class="swiper-slide" data-val="5">
-                                  <img class="img-responsive img-full" src="/assets/public/img/tour/hiking-through-the-andes-mountains/6_6.jpg" alt="">
                                 </div>
                             </div>
                             <div class="pagination hidden"></div>

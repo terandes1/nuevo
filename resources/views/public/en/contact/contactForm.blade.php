@@ -83,7 +83,7 @@
             <div class="col-xs-12 col-sm-4">
                 <div class="contact-about">
                     <h4 class="color-dark-2"><strong>about us</strong></h4>
-                    <p class="color-grey-3">Donec gravida euismod felis, quis dictum justo scelerisque in. Aenean nec lacus ipsum. Suspendisse vel lobortis libero, eu imperdiet purus.  Aenean nec lacus ipsum.</p>                    
+                    <p class="color-grey-3">Done</p>                    
                 </div>
                 <div class="contact-info">
                     <h4 class="color-dark-2"><strong>contact info</strong></h4>
