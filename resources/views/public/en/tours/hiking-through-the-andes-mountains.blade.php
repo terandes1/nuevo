@@ -6,13 +6,22 @@
     <div class="vertical-align">
         <div class="container">
             <div class="row">
-                <div class="col-xs-12 col-md-8 col-md-offset-2">
-                    <ul class="banner-breadcrumb color-white clearfix">
-                       <li><a class="link-blue-2" href="#">home</a> /</li>
-                       <li><a class="link-blue-2" href="#">flights</a> /</li>
-                       <li><span>detail</span></li>
-                    </ul>
-                    <h2 class="color-white">flights for you</h2>
+                <div class="col-xs-12 col-md-8 col-md-offset-2" >
+                    
+                    <h2 class="color-white" style="text-shadow: black 0.1em 0.1em 0.2em ">HIKING THROUGH THE ANDES MOUNTAINS TO MACHUPICCHU </h2>
+                    <center>
+                        <div class="detail-rate rate-wrap clearfix">
+                            <div class="rate">
+                            <span class="fa fa-star color-yellow"></span>
+                            <span class="fa fa-star color-yellow"></span>
+                            <span class="fa fa-star color-yellow"></span>
+                            <span class="fa fa-star color-yellow"></span>
+                            <span class="fa fa-star color-yellow"></span>
+                            </div>
+                        <i>485 Rewies</i> 
+                        </div>
+                    </center>
+                    
                 </div>
             </div>
         </div>
@@ -26,28 +35,22 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-8">
                     <div class="detail-category color-grey-3"></div>
-                    <h2 class="detail-title color-dark-2">HIKING THROUGH THE ANDES MOUNTAIS TO MACHUPICCHU</h2>
-                    <div class="detail-rate rate-wrap clearfix">
-                        <div class="rate">
-                        <span class="fa fa-star color-yellow"></span>
-                        <span class="fa fa-star color-yellow"></span>
-                        <span class="fa fa-star color-yellow"></span>
-                        <span class="fa fa-star color-yellow"></span>
-                        <span class="fa fa-star color-yellow"></span>
-                        </div>
-                    <i>485 Rewies</i> 
-                   </div>
+                    <h3 style="padding-bottom: 15px">DESCRIPTION </h3>
                    <p style="text-align: justify;">
                     Hiking through the Andes Mountains to Machu Picchu is the perfect travel program to enjoy fifteen days exploring a unique combination of natural settings for those who love adventure, moving from the coast to the highlands. Discover the most beautiful places in Lima, Cusco, the Sacred Valley and Machu Picchu, staying at the best accommodations with a unique sense of style and distinction. Discover the city of Kings, Lima, accompanied by our guide who will give you insights about the capital and its beautiful treasures, moving from its fascinating past towards the flourishing present. Fly through the Andes to Cusco and discover the most beautiful sites of the Sacred Valley. Enjoy a unique hike of six days through the spectacular valleys near the Salkantay Mountain to Machu Picchu, marvel your senses with the amazing natural scenery that will surround you and once you reach the lost citadel, explore and admire it with plenty of time. In Cusco, stroll around its colonial streets combined with incredible Inca constructions and let the city fascinate you. 
                     This program can be customized according to your interests, needs and travel style. Please, feel free to contact us and personalize your holiday.
                     </p>
                 </div>
-                <!-- TELEFONO Y CORREO -->    
                 <div class="col-xs-12 col-sm-4">
+                
+                <!-- TELEFONO Y CORREO -->    
+                
                     <div class="help-contact bg-grey-2">
                         <a class="help-phone color-dark-2 link-dr-blue" href="tel:5184247277"><img src="/assets/public/img/detail/phone24-dark.png" alt="">51 84 247277</a>
                         <a class="help-mail color-dark-2 link-dr-blue" href="mailto:terandes@terandes.com"><img src="/assets/public/img/detail/letter-dark.png" alt="">terandes@terandes.com</a>
                     </div> 
+
+                    
                 </div>
             </div>
         </div>
@@ -103,26 +106,10 @@
                     </div>  
                 </div> 
                 <div class="detail-content-block">
+                    <h3 style="padding: 15px">Itinerary </h3>
                     <div class="simple-tab color-1 tab-wrapper">
-                        <div class="tab-nav-wrapper">
-                            <div  class="nav-tab  clearfix">
-                                <div class="nav-tab-item active">
-                                    Itinerary
-                                </div>
-                                <div class="nav-tab-item">
-                                    Availability
-                                </div>
-                                <div class="nav-tab-item">
-                                    Amenities
-                                </div>
-                                <div class="nav-tab-item">
-                                    Reviews
-                                </div>
-                                <div class="nav-tab-item">
-                                    Write a Review
-                                </div>                          
-                            </div>
-                        </div>
+                        
+                        
                         <div class="tabs-content clearfix">
                             <div class="tab-info active">
                                 <div class="detail-content-block">
@@ -377,67 +364,76 @@
                         <div class="details-desc">
                             <p class="color-grey-9">Category:  <span class="color-white">hotels</span></p>
                             <p class="color-grey-9">price: <span class="color-white">$500 / person</span></p>
-                            <p class="color-grey-9">location: <span class="color-white">paris, france</span></p>
-                            <p class="color-grey-9">date: <span class="color-white">july 19th to july 29th</span></p>
-                            <p class="color-pink">FLIGHT TYPE: <span class="color-white">ECONOMY</span></p>
-                            <p class="color-pink">FARE TYPE: <span class="color-white">REFUNDABLE</span></p>
-                            <p class="color-pink">CANCELLATION: <span class="color-white">$78 / PERSON</span></p>
-                            <p class="color-pink">FLIGHT CHANGE: <span class="color-white">$53 / PERSON</span></p>
-                            <p class="color-pink">SEATS & BAGGAGE: <span class="color-white">EXTRA CHARGE</span></p>
-                            <p class="color-pink">INFLIGHT FEATURES: <span class="color-white">AVAILABLE</span></p>
+                            <p class="color-grey-9">location: <span class="color-white">Cusco, Peru</span></p>
+                            <p class="color-grey-9">days: <span class="color-white">15D/14N</span></p>
+                            
                         </div>
                         <div class="details-btn">
-                          <a href="#" class="c-button b-40 bg-tr-1 hv-white"><span>view on map</span></a>
-                          <a href="#" class="c-button b-40 bg-white hv-transparent"><span>book now</span></a>
+                            <a href="#contact" class="c-button b-40 bg-white hv-transparent"><span>book now</span></a>
                         </div>
                     </div>
-
-                    <!-- TOURS POPULARES-->    
+                    
+                    <!-- TOURS POPULARES  -->
                     <div class="popular-tours bg-grey-2">
                         <h4 class="color-dark-2">popular tours</h4>
                         <div class="hotel-small style-2 clearfix">
-                            <a class="hotel-img black-hover" href="#">
-                            <img class="img-responsive radius-3" src="/assets/public/img/detail/hotel_small_1.jpg" alt="">
+                            <a class="hotel-img black-hover" href="/en/tour/jewels-of-cusco">
+                            <img class="img-responsive radius-3" src="/assets/public/img/tour/jewels-of-cusco/1_1.jpg" alt="">
                             <div class="tour-layer delay-1"></div>                    
                             </a>
                             <div class="hotel-desc">
                                 <h5><span class="color-dark-2">from <strong>$273</strong></span></h5>
-                                <h4>bristol Hotel</h4>
-                                <div class="hotel-loc">2 Place de la Sans Défense, Puteaux, Paris, France.</div>
+                                <h4>jewels of cusco</h4>
+                                <div class="hotel-loc">Discover the most beautiful sites, , explore and admire it with plenty of time</div>
                             </div>
                         </div>
                         <div class="hotel-small style-2 clearfix">
-                            <a class="hotel-img black-hover" href="#">
-                            <img class="img-responsive radius-3" src="/assets/public/img/detail/hotel_small_2.jpg" alt="">
+                            <a class="hotel-img black-hover" href="/en/tour/jewels-of-the-south-belmond-trenes">
+                            <img class="img-responsive radius-3" src="/assets/public/img/tour/jewels/1_1.jpg" alt="">
                             <div class="tour-layer delay-1"></div>                    
                             </a>
                             <div class="hotel-desc">
                                 <h5><span class="color-dark-2">from <strong>$273</strong></span></h5>
-                                <h4>bristol Hotel</h4>
-                                <div class="hotel-loc">2 Place de la Sans Défense, Puteaux, Paris, France.</div>
+                                <h4>Jewels of the South</h4>
+                                <div class="hotel-loc">Jewels of the South offers you a set of must-see destinations, Lima, Cusco, the Sacred Valley, Machu Picchu in ten days</div>
                             </div>
                         </div>
                         <div class="hotel-small style-2 clearfix">
-                            <a class="hotel-img black-hover" href="#">
-                            <img class="img-responsive radius-3" src="/assets/public/img/detail/hotel_small_3.jpg" alt="">
+                            <a class="hotel-img black-hover" href="/en/tour/relais-chateaux">
+                            <img class="img-responsive radius-3" src="/assets/public/img/tour/relais-chateaux/1_1.jpg" alt="">
+                            <div class="tour-layer delay-1"></div>                    
+                            </a>
+
+                            <div class="hotel-desc">
+                                <h5><span class="color-dark-2">from <strong>$273</strong></span></h5>
+                                <h4>Relais & Chateaux</h4>
+                                <div class="hotel-loc">Peru is a fantastic travel program to enjoy in fourteen days the best of the country</div>
+                            </div>
+                        </div>  
+                        <div class="hotel-small style-2 clearfix">
+                            <a class="hotel-img black-hover" href="/en/tour/through-the-flavors-of-peru">
+                            <img class="img-responsive radius-3" src="/assets/public/img/tour/through-the-flavors-of-peru/1_1.jpg" alt="">
                             <div class="tour-layer delay-1"></div>                    
                             </a>
                             <div class="hotel-desc">
                                 <h5><span class="color-dark-2">from <strong>$273</strong></span></h5>
-                                <h4>bristol Hotel</h4>
-                                <div class="hotel-loc">2 Place de la Sans Défense, Puteaux, Paris, France.</div>
+                                <h4>through the flavors of peru</h4>
+                                <div class="hotel-loc">enjoy twelve days exploring a unique selection of places for those who would like to discover the flavors of the Peruvian cuisine</div>
                             </div>
-                        </div>                      
+                        </div>                    
                     </div>
+                     <!--FIN TOURS POPULARES-->
                 </div>            
             </div>
         </div>
-        <!-- CONTACTO -->     
-        <div class="row" style="margin-top: -100px;">
+        <!-- CONTACTO -->
+            
+        <div id="contact" class="row" style="margin-top: -100px;">
             <div class="row">
                 <div class="col-xs-12 col-sm-8 col-sm-offset-2">
                     <div class="second-title">
                         <h4 class="subtitle color-blue-2 underline">contact</h4>
+                        <h2>get in touch</h2>
                     </div>
                 </div>
             </div>
@@ -445,17 +441,17 @@
         </div>
         <!--FIN CONTACTO-->
 
-        <!-- TOURS RELACIONADOS -->
+        <!-- TOURS RELACIONADOS --
         <div class="may-interested padd-90">
             <div class="row">
                 <div class="col-mob-12 col-xs-6 col-sm-6 col-md-3">
                     <div class="hotel-item">
                         <div class="radius-top">
-                            <img src="/assets/public/img/tour/hiking-through-the-andes-mountains-of-peru/1.jpg" alt="">
+                            <img src="/assets/public/img/tour/jewels-of-cusco/1.jpg" alt="">
                             <div class="price price-s-1">$273</div>
                         </div>
                         <div class="title clearfix">
-                            <h4><b>hiking-through-the-andes-mountains OF PERU</b></h4>
+                            <h4><b>JEWELS OF CUSCO</b></h4>
                             <div class="rate-wrap">
                                 <div class="rate">
                                     <span class="fa fa-star color-yellow"></span>
@@ -466,9 +462,9 @@
                                 </div>
                                 <i>485 rewies</i> 
                             </div>  
-                            <span class="f-14 color-dark-2">2 Place de la Sans Défense, Puteaux</span>
-                            <p class="f-14">Nunc cursus libero purus ac congue arcu cursus ut sed vitae pulvinar massa idporta nequetiam.</p>
-                            <a href="/en/tour/hiking-through-the-andes-mountains-of-peru" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
+                            <span class="f-14 color-dark-2"></span>
+                            
+                            <a href="/en/tour/jewels-of-cusco" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
                             <a href="#" class="c-button color-dr-blue hv-o b-50 fr"><img src="/assets/public/img/loc_icon_small_drak.png" alt="">view on map</a>
                         </div>
                     </div>            
@@ -476,11 +472,11 @@
                 <div class="col-mob-12 col-xs-6 col-sm-6 col-md-3">
                     <div class="hotel-item">
                         <div class="radius-top">
-                            <img src="/assets/public/img/tour/vinicunca/1.jpg" alt="">
+                            <img src="/assets/public/img/tour/jewels/1.jpg" alt="">
                             <div class="price price-s-1">$273</div>
                         </div>
                         <div class="title clearfix">
-                            <h4><b>MULTI ACTIVE PERU II - VINICUNCA</b></h4>
+                            <h4><b>JEWELS OF THE SOUTH</b></h4>
                             <div class="rate-wrap">
                                 <div class="rate">
                                     <span class="fa fa-star color-yellow"></span>
@@ -491,9 +487,9 @@
                                 </div>
                                 <i>485 rewies</i> 
                             </div>  
-                            <span class="f-14 color-dark-2">2 Place de la Sans Défense, Puteaux</span>
-                            <p class="f-14">Nunc cursus libero purus ac congue arcu cursus ut sed vitae pulvinar massa idporta nequetiam.</p>
-                            <a href="/en/tour/multi-active-peru-ii-vinicunca" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
+                            <span class="f-14 color-dark-2"> </span>
+                            
+                            <a href="/en/tour/jewels-of-the-south-belmond-trenes" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
                             <a href="#" class="c-button color-dr-blue hv-o b-50 fr"><img src="/assets/public/img/loc_icon_small_drak.png" alt="">view on map</a>
                         </div>
                     </div>            
@@ -516,8 +512,8 @@
                                 </div>
                                 <i>485 rewies</i> 
                             </div>  
-                            <span class="f-14 color-dark-2">2 Place de la Sans Défense, Puteaux</span>
-                            <p class="f-14">Nunc cursus libero purus ac congue arcu cursus ut sed vitae pulvinar massa idporta nequetiam.</p>
+                            <span class="f-14 color-dark-2">  </span>
+                            
                             <a href="/en/tour/relais-chateaux" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
                             <a href="#" class="c-button color-dr-blue hv-o b-50 fr"><img src="/assets/public/img/loc_icon_small_drak.png" alt="">view on map</a>
                         </div>
@@ -541,8 +537,8 @@
                                 </div>
                                 <i>485 rewies</i> 
                             </div>  
-                            <span class="f-14 color-dark-2">2 Place de la Sans Défense, Puteaux</span>
-                            <p class="f-14">Nunc cursus libero purus ac congue arcu cursus ut sed vitae pulvinar massa idporta nequetiam.</p>
+                            <span class="f-14 color-dark-2">  </span>
+                            
                             <a href="/en/tour/through-the-flavors-of-peru" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
                             <a href="#" class="c-button color-dr-blue hv-o b-50 fr"><img src="/assets/public/img/loc_icon_small_drak.png" alt="">view on map</a>
                         </div>
@@ -550,7 +546,7 @@
                 </div>                                
             </div>
         </div>
-        <!-- FIN DE TOURS RELACIONADOS  -->
+        !-- FIN DE TOURS RELACIONADOS  -->
     </div>
 </div>
 @endsection

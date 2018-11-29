@@ -14,11 +14,7 @@
                             <div class="row">
                               <div class="col-md-12">
                                 <div class="main-title vert-title">
-                                  <div class="top-weather-info delay-1">
-                                    <p>London</p>
-                                      <img src="assets/public/img/weather_icon.png" alt="">
-                                        <span>+30&deg;C</span>
-                                  </div>
+                                  
                                   <h1 class="color-white delay-1">amazing santorini<br> 7 days tour</h1>
                                     <p class="color-white-op delay-2">Curabitur nunc erat, consequat in erat ut, congue bibendum nulla. Suspendisse id pharetra lacus, et hendrerit mi quis leo elementum.</p>
                                     
@@ -38,11 +34,7 @@
                             <div class="row">
                               <div class="col-md-12">
                                 <div class="main-title vert-title">
-                                  <div class="top-weather-info delay-1">
-                                    <p>London</p>
-                                      <img src="assets/public/img/weather_icon.png" alt="">
-                                        <span>+30&deg;C</span>
-                                  </div>
+                                  
                                   <h1 class="color-white delay-1">amazing santorini<br> 7 days tour</h1>
                                     <p class="color-white-op delay-2">Curabitur nunc erat, consequat in erat ut, congue bibendum nulla. Suspendisse id pharetra lacus, et hendrerit mi quis leo elementum.</p>
                                     
@@ -84,7 +76,7 @@
                       <div class="tour-layer delay-1"></div>
                       <div class="tour-caption">
                          <div class="vertical-align">
-                            <h3 class="hover-it">JEWELS OF THE SOUTH </h3>
+                            <h3 class="hover-it" style="text-shadow: black 0.1em 0.1em 0.2em">JEWELS OF THE SOUTH </h3>
                               <div class="rate">
                                 <span class="fa fa-star color-yellow"></span>
                                 <span class="fa fa-star color-yellow"></span>
@@ -119,7 +111,7 @@
                       <div class="tour-layer delay-1"></div>
                       <div class="tour-caption">
                          <div class="vertical-align">
-                            <h3 class="hover-it">HIKING THROUGH THE ANDES MOUNTAINS</h3>
+                            <h3 class="hover-it" style="text-shadow: black 0.1em 0.1em 0.2em">HIKING THROUGH THE ANDES MOUNTAINS</h3>
                               <div class="rate">
                                 <span class="fa fa-star color-yellow"></span>
                                 <span class="fa fa-star color-yellow"></span>
@@ -154,7 +146,7 @@
                       <div class="tour-layer delay-1"></div>
                       <div class="tour-caption">
                          <div class="vertical-align">
-                            <h3 class="hover-it">RELAIS & CHATEAUX</h3>
+                            <h3 class="hover-it" style="text-shadow: black 0.1em 0.1em 0.2em">RELAIS & CHATEAUX</h3>
                               <div class="rate">
                                 <span class="fa fa-star color-yellow"></span>
                                 <span class="fa fa-star color-yellow"></span>
@@ -189,7 +181,7 @@
                       <div class="tour-layer delay-1"></div>
                       <div class="tour-caption">
                          <div class="vertical-align">
-                            <h3 class="hover-it">JEWELS OF CUSCO</h3>
+                            <h3 class="hover-it" style="text-shadow: black 0.1em 0.1em 0.2em">JEWELS OF CUSCO</h3>
                               <div class="rate">
                                 <span class="fa fa-star color-yellow"></span>
                                 <span class="fa fa-star color-yellow"></span>
@@ -224,7 +216,7 @@
                       <div class="tour-layer delay-1"></div>
                       <div class="tour-caption">
                          <div class="vertical-align">
-                            <h3 class="hover-it">THROUGH THE FLAVORS OF PERU</h3>
+                            <h3 class="hover-it" style="text-shadow: black 0.1em 0.1em 0.2em">THROUGH THE FLAVORS OF PERU</h3>
                               <div class="rate">
                                 <span class="fa fa-star color-yellow"></span>
                                 <span class="fa fa-star color-yellow"></span>
@@ -259,7 +251,7 @@
                       <div class="tour-layer delay-1"></div>
                       <div class="tour-caption">
                          <div class="vertical-align">
-                            <h3 class="hover-it">WONDERS OF PERU IN FAMILY</h3>
+                            <h3 class="hover-it" style="text-shadow: black 0.1em 0.1em 0.2em">WONDERS OF PERU IN FAMILY</h3>
                               <div class="rate">
                                 <span class="fa fa-star color-yellow"></span>
                                 <span class="fa fa-star color-yellow"></span>
@@ -288,7 +280,7 @@
             </div>
         </div>
     </div>
-<!-- banner -->
+<!-- banner --
 <div class="main-wraper">
           <div class="clip">
              <div class="bg bg-bg-chrome" style="background-image:url(assets/public/img/home_1/tour_slider_bg.jpg)">
@@ -380,7 +372,7 @@
              <div class="pagination poin-style-1"></div>
           </div>
     </div>
-<!-- fin banner -->
+-- fin banner -->
 
 <!-- galerias -->
 <div class="main-wraper">
@@ -390,39 +382,39 @@
                 <div class="second-title">
                     <h4 class="subtitle color-dark-2-light">our gallery</h4>
                     <h2>why we are the best</h2>
-                    <p class="color-grey">Curabitur nunc erat, consequat in erat ut, congue bibendum nulla. Suspendisse id tor.</p>
+                    <p class="color-grey">     </p>
                 </div>
             </div>
         </div>
         <div class="isotope-container row row10">
             <div class="grid-sizer col-mob-12 col-xs-6 col-sm-3"></div>
             <div class="item gal-item col10 col-mob-12 col-xs-6 col-sm-6">
-                <a class="black-hover" href="detail.html">
+                <a class="black-hover" >
                     <img class="img-full img-responsive" src="assets/public/img/home_7/gal_1.jpg" alt="">
                     <div class="tour-layer delay-1"></div>
                     <div class="vertical-align">
-                        <div class="date color-white">July <strong>19th</strong> to July <strong>26th</strong></div>
-                        <h4 class="color-white"><b>tours in monaco</b></h4>
+                        <div class="date color-white"> <strong> </strong></div>
+                        <h4 class="color-white"><b> Wonders of peru in family</b></h4>
                     </div>
                 </a>
             </div>
             <div class="item gal-item col10 col-mob-12 col-xs-6 col-sm-3">
-                <a class="black-hover" href="detail.html">
+                <a class="black-hover" >
                     <img class="img-full img-responsive" src="assets/public/img/home_7/gal_2.jpg" alt="">
                     <div class="tour-layer delay-1"></div>
                     <div class="vertical-align">
-                        <div class="date color-white">July <strong>19th</strong> to July <strong>26th</strong></div>
-                        <h4 class="color-white"><b>tours in monaco</b></h4>
+                        <div class="date color-white"> <strong> Jewels of Cusco </strong></div>
+                        <h4 class="color-white"><b>Maras</b></h4>
                     </div>
                 </a>
             </div>
             <div class="item gal-item col10 col-mob-12 col-xs-6 col-sm-3">
-                <a class="black-hover" href="detail.html">
+                <a class="black-hover" >
                     <img class="img-full img-responsive" src="assets/public/img/home_7/gal_3.jpg" alt="">
                     <div class="tour-layer delay-1"></div>
                     <div class="vertical-align">
-                        <div class="date color-white">July <strong>19th</strong> to July <strong>26th</strong></div>
-                        <h4 class="color-white"><b>tours in monaco</b></h4>
+                        <div class="date color-white"> <strong> Jewels of the south </strong> </div>
+                        <h4 class="color-white"><b>Sacsayhuaman</b></h4>
                     </div>
                 </a>
             </div>
@@ -431,8 +423,8 @@
                     <img class="img-full img-responsive" src="assets/public/img/home_7/gal_4.jpg" alt="">
                     <div class="tour-layer delay-1"></div>
                     <div class="vertical-align">
-                        <div class="date color-white">July <strong>19th</strong> to July <strong>26th</strong></div>
-                        <h4 class="color-white"><b>tours in monaco</b></h4>
+                        <div class="date color-white"><strong> Jewels of Cusco</strong> </div>
+                        <h4 class="color-white"><b>Soy y Luna Hotel</b></h4>
                     </div>
                 </a>
             </div>
@@ -441,8 +433,8 @@
                     <img class="img-full img-responsive" src="assets/public/img/home_7/gal_5.jpg" alt="">
                     <div class="tour-layer delay-1"></div>
                     <div class="vertical-align">
-                        <div class="date color-white">July <strong>19th</strong> to July <strong>26th</strong></div>
-                        <h4 class="color-white"><b>tours in monaco</b></h4>
+                        <div class="date color-white">  <strong>Relais & Chateaux </strong></div>
+                        <h4 class="color-white"><b>Boat House</b></h4>
                     </div>
                 </a>
             </div>
@@ -451,8 +443,8 @@
                     <img class="img-full img-responsive" src="assets/public/img/home_7/gal_6.jpg" alt="">
                     <div class="tour-layer delay-1"></div>
                     <div class="vertical-align">
-                        <div class="date color-white">July <strong>19th</strong> to July <strong>26th</strong></div>
-                        <h4 class="color-white"><b>tours in monaco</b></h4>
+                        <div class="date color-white"> <strong> Wonders of Peru in family </strong></div>
+                        <h4 class="color-white"><b>llama</b></h4>
                     </div>
                 </a>
             </div>
@@ -461,18 +453,18 @@
                     <img class="img-full img-responsive" src="assets/public/img/home_7/gal_7.jpg" alt="">
                     <div class="tour-layer delay-1"></div>
                     <div class="vertical-align">
-                        <div class="date color-white">July <strong>19th</strong> to July <strong>26th</strong></div>
-                        <h4 class="color-white"><b>tours in monaco</b></h4>
+                        <div class="date color-white">  <strong> Hiking through the andes mountains to Machupicchu</strong>  </div>
+                        <h4 class="color-white"><b> Tambo del Inka </b></h4>
                     </div>
                 </a>
             </div>
             <div class="item gal-item col10 col-mob-12 col-xs-6 col-sm-3">
                 <a class="black-hover" href="detail.html">
                     <img class="img-full img-responsive" src="assets/public/img/home_7/gal_8.jpg" alt="">
-                    <div class="tour-layer delay-1"></div>
+                    <div class="tour-layer delay-1"> </div>
                     <div class="vertical-align">
-                        <div class="date color-white">July <strong>19th</strong> to July <strong>26th</strong></div>
-                        <h4 class="color-white"><b>tours in monaco</b></h4>
+                        <div class="date color-white">  <strong>Jewels of Cusco </strong>  </div>
+                        <h4 class="color-white"><b>Moray</b></h4>
                     </div>
                 </a>
             </div>
@@ -481,8 +473,8 @@
                     <img class="img-full img-responsive" src="assets/public/img/home_7/gal_9.jpg" alt="">
                     <div class="tour-layer delay-1"></div>
                     <div class="vertical-align">
-                        <div class="date color-white">July <strong>19th</strong> to July <strong>26th</strong></div>
-                        <h4 class="color-white"><b>tours in monaco</b></h4>
+                        <div class="date color-white">  <strong> Wonders of Peru in family</strong> </div>
+                        <h4 class="color-white"><b>Lima</b></h4>
                     </div>
                 </a>
             </div>                                  
@@ -498,9 +490,9 @@
         <div class="row">
             <div class="col-xs-12 col-sm-8 col-sm-offset-2">
                 <div class="second-title">
-                    <h4 class="subtitle color-dark-2-light">testimonials</h4>
-                    <h2>what our clients say</h2>
-                    <p class="color-grey">Curabitur nunc erat, consequat in erat ut, congue bibendum nulla. Suspendisse id tor.</p>
+                    <h4 class="subtitle color-dark-2-light">About Us</h4>
+                    <h2>why we are the best</h2>
+                    <p class="color-grey"> </p>
                 </div>
             </div>
         </div>              
@@ -516,50 +508,20 @@
                         <div class="row">
                             <div class="col-xs-12 col-sm-6 col-md-5 col-md-offset-1">
                                 <div class="sl-testimonals">
-                                    <div class="tour-info">
-                                        <img src="img/calendar_icon.png" alt="">
-                                          <span class="font-style-2 color-white">July<b> 19th</b> to July<b> 26th</b></span>
-                                    </div>
-                                    <h3 class="color-white underline">inna, david lunoe</h3>
-                                    <p class="f-14 color-white">“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.”</p>
-                                    <img class="sl-img" src="assets/publicimg/home_7/sl_1.jpg" alt="">
-                                    <img class="sl-img" src="assets/publicimg/home_7/sl_2.jpg" alt="">
-                                    <img class="sl-img" src="assets/publicimg/home_7/sl_3.jpg" alt="">
+                                    
+                                    <h3 class="color-white underline">Tierras de los Andes Team</h3>
+                                    <p class="f-14 color-white">Tierras de los Andes is a tour operator with more than 20 years of experience in customer service, offering trips to discover Peru and South America, with high quality services that seek to meet the expectations of our visitors.
+                                    Experience and enthusiasm to create and offer the most original trips to Peru. </p>
+                                    
                                 </div>                          
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="swiper-slide" data-val="1">
-                    <div class="sl-bg">
-                        <img class="center-image" src="assets/publicimg/home_7/testimonals.jpg" alt="">
-                    </div>              
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-xs-12 col-sm-6 col-md-5 col-md-offset-1">
-                                <div class="sl-testimonals">
-                                    <div class="tour-info">
-                                        <img src="assets/publicimg/calendar_icon.png" alt="">
-                                          <span class="font-style-2 color-white">July<b> 19th</b> to July<b> 26th</b></span>
-                                    </div>
-                                    <h3 class="color-white underline">inna, david lunoe</h3>
-                                    <p class="f-14 color-white">“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.”</p>
-                                    <img class="sl-img" src="assets/public/img/home_7/sl_1.jpg" alt="">
-                                    <img class="sl-img" src="assets/public/img/home_7/sl_2.jpg" alt="">
-                                    <img class="sl-img" src="assets/public/img/home_7/sl_3.jpg" alt="">
-                                </div>                          
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                
             </div>    
             <div class="pagination pagination-hidden poin-style-1"></div>
-            <div class="arrow-wrapp arr-s-4">
-                <div class="cont-1170">
-                    <div class="swiper-arrow-left sw-arrow"><span class="fa fa-angle-left"></span></div>
-                    <div class="swiper-arrow-right sw-arrow"><span class="fa fa-angle-right"></span></div>
-                </div>
-            </div>          
+                     
         </div>
     </div>      
 </div> 
