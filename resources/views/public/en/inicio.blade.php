@@ -16,8 +16,7 @@
                                 <div class="main-title vert-title">
                                   
                                   <h1 class="color-white delay-1">amazing santorini<br> 7 days tour</h1>
-                                    <p class="color-white-op delay-2">Curabitur nunc erat, consequat in erat ut, congue bibendum nulla. Suspendisse id pharetra lacus, et hendrerit mi quis leo elementum.</p>
-                                    
+                                                                        
                                  </div>
                                </div>
                               </div>
@@ -34,11 +33,8 @@
                             <div class="row">
                               <div class="col-md-12">
                                 <div class="main-title vert-title">
-                                  
                                   <h1 class="color-white delay-1">amazing santorini<br> 7 days tour</h1>
-                                    <p class="color-white-op delay-2">Curabitur nunc erat, consequat in erat ut, congue bibendum nulla. Suspendisse id pharetra lacus, et hendrerit mi quis leo elementum.</p>
-                                    
-                                 </div>
+                                </div>
                                </div>
                               </div>
                             </div>
@@ -62,7 +58,7 @@
                 <div class="col-md-12">
                     <div class="second-title">
                         <h2>The Best Luxury Tours</h2>
-                          <p class="color-grey">Curabitur nunc erat, consequat in erat ut, congue bibendum nulla. Suspendisse id tor.</p>
+                          <p class="color-grey"> </p>
                     </div>
                 </div>
             </div>
@@ -146,7 +142,7 @@
                       <div class="tour-layer delay-1"></div>
                       <div class="tour-caption">
                          <div class="vertical-align">
-                            <h3 class="hover-it" style="text-shadow: black 0.1em 0.1em 0.2em">RELAIS & CHATEAUX</h3>
+                            <h3 class="hover-it" style="text-shadow: black 0.1em 0.1em 0.2em">A RELAIS & CHATEAUX EXPERIENCE IN PERU</h3>
                               <div class="rate">
                                 <span class="fa fa-star color-yellow"></span>
                                 <span class="fa fa-star color-yellow"></span>
@@ -272,7 +268,7 @@
                                   <span class="font-style-2 color-grey-4">July<strong class="color-white"> 19th</strong> to July<strong class="color-white"> 26th</strong></span>
                             </div>
                            </div>   
-                            <a href="#" class="c-button bg-aqua hv-transparent b-50 fr"><img src="assets/public/img/flag_icon.png" alt=""><span>view more</span></a>
+                            <a href="en/tour/wonders-of-peru-in-family" class="c-button bg-aqua hv-transparent b-50 fr"><img src="assets/public/img/flag_icon.png" alt=""><span>view more</span></a>
                          </div>
                       </div>
                     </div>
@@ -381,7 +377,7 @@
             <div class="col-xs-12 col-sm-8 col-sm-offset-2">
                 <div class="second-title">
                     <h4 class="subtitle color-dark-2-light">our gallery</h4>
-                    <h2>why we are the best</h2>
+                    <h2> </h2>
                     <p class="color-grey">     </p>
                 </div>
             </div>

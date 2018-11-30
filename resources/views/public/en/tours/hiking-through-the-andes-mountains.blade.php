@@ -9,7 +9,7 @@
                 <div class="col-xs-12 col-md-8 col-md-offset-2" >
                     
                     <h2 class="color-white" style="text-shadow: black 0.1em 0.1em 0.2em ">HIKING THROUGH THE ANDES MOUNTAINS TO MACHUPICCHU </h2>
-                    <center>
+                    <div class="col-xs-12 col-md-6 col-md-offset-4">
                         <div class="detail-rate rate-wrap clearfix">
                             <div class="rate">
                             <span class="fa fa-star color-yellow"></span>
@@ -20,8 +20,7 @@
                             </div>
                         <i>485 Rewies</i> 
                         </div>
-                    </center>
-                    
+                    </div>
                 </div>
             </div>
         </div>
@@ -108,8 +107,6 @@
                 <div class="detail-content-block">
                     <h3 style="padding: 15px">Itinerary </h3>
                     <div class="simple-tab color-1 tab-wrapper">
-                        
-                        
                         <div class="tabs-content clearfix">
                             <div class="tab-info active">
                                 <div class="detail-content-block">
@@ -293,64 +290,6 @@
                                     </div>                      
                                 </div> 
                             </div>
-                            <div class="tab-info"> 
-                                <h3>General Information About tour</h3>
-                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque ac turpis egestas, varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
-                                <ul>
-                                    <li>Shopping history</li>
-                                    <li>Hot offers according your settings</li>
-                                    <li>Multi-product search</li>
-                                    <li>Opportunity to share with friends</li>
-                                </ul>                                 
-                                <h4>interesting for you</h4>
-                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus.</p>
-                                <h3>you need to know</h3>
-                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>  
-                            </div>
-                            <div class="tab-info">
-                                <h3>you need to know</h3>
-                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                                <h3>General Information About tour</h3>
-                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque ac turpis egestas, varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p> 
-                                <img class="right-img" src="/assets/public/img/detail/tab_img.jpg" alt="">
-                                <h4>interesting for you</h4>
-                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus.</p>   
-                                <ul>
-                                    <li>Shopping history</li>
-                                    <li>Hot offers according your settings</li>
-                                    <li>Multi-product search</li>
-                                    <li>Opportunity to share with friends</li>
-                                </ul>                     
-                            </div>
-                            <div class="tab-info">
-                                <img class="right-img" src="img/detail/tab_img.jpg" alt="">
-                                <h3>General Information About tour</h3>
-                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque ac turpis egestas, varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
-                                <h4>interesting for you</h4>
-                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus.</p>
-                                <ul>
-                                    <li>Shopping history</li>
-                                    <li>Hot offers according your settings</li>
-                                    <li>Multi-product search</li>
-                                    <li>Opportunity to share with friends</li>
-                                </ul>
-                                <h3>you need to know</h3>
-                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                            </div>
-                            <div class="tab-info">
-                                <h3>General Information About tour</h3>
-                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque ac turpis egestas, varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
-                                <h4>interesting for you</h4>
-                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus.</p>
-                                <ul>
-                                    <li>Shopping history</li>
-                                    <li>Hot offers according your settings</li>
-                                    <li>Multi-product search</li>
-                                    <li>Opportunity to share with friends</li>
-                                </ul>
-                                <h3>you need to know</h3>
-                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                            </div>     
                         </div>
                     </div>            
                 </div>                  
@@ -362,14 +301,14 @@
                     <div class="detail-block bg-dr-blue">
                         <h4 class="color-white">details</h4>
                         <div class="details-desc">
-                            <p class="color-grey-9">Category:  <span class="color-white">hotels</span></p>
+                            
                             <p class="color-grey-9">price: <span class="color-white">$500 / person</span></p>
                             <p class="color-grey-9">location: <span class="color-white">Cusco, Peru</span></p>
                             <p class="color-grey-9">days: <span class="color-white">15D/14N</span></p>
                             
                         </div>
                         <div class="details-btn">
-                            <a href="#contact" class="c-button b-40 bg-white hv-transparent"><span>book now</span></a>
+                            <a href="#contact" class="c-button b-40 bg-tr-1 hv-white"><span>book now</span></a>
                         </div>
                     </div>
                     
@@ -440,8 +379,7 @@
             @include('public.en.contact.contactForm')
         </div>
         <!--FIN CONTACTO-->
-
-        <!-- TOURS RELACIONADOS --
+        <!-- TOURS RELACIONADOS -->
         <div class="may-interested padd-90">
             <div class="row">
                 <div class="col-mob-12 col-xs-6 col-sm-6 col-md-3">
@@ -462,21 +400,19 @@
                                 </div>
                                 <i>485 rewies</i> 
                             </div>  
-                            <span class="f-14 color-dark-2"></span>
-                            
+                            <p class="f-14" style="text-align:justify;">Jewels of Cusco offers you a set of must-see destinations. Discover the most beautiful sites, , explore and admire it with plenty of time</p>
                             <a href="/en/tour/jewels-of-cusco" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
-                            <a href="#" class="c-button color-dr-blue hv-o b-50 fr"><img src="/assets/public/img/loc_icon_small_drak.png" alt="">view on map</a>
                         </div>
                     </div>            
                 </div>
                 <div class="col-mob-12 col-xs-6 col-sm-6 col-md-3">
                     <div class="hotel-item">
                         <div class="radius-top">
-                            <img src="/assets/public/img/tour/jewels/1.jpg" alt="">
+                            <img src="/assets/public/img/tour/vinicunca/1.jpg" alt="">
                             <div class="price price-s-1">$273</div>
                         </div>
                         <div class="title clearfix">
-                            <h4><b>JEWELS OF THE SOUTH</b></h4>
+                            <h4><b>HIKING THROUGH THE ANDES MOUNTAINS</b></h4>
                             <div class="rate-wrap">
                                 <div class="rate">
                                     <span class="fa fa-star color-yellow"></span>
@@ -487,10 +423,8 @@
                                 </div>
                                 <i>485 rewies</i> 
                             </div>  
-                            <span class="f-14 color-dark-2"> </span>
-                            
-                            <a href="/en/tour/jewels-of-the-south-belmond-trenes" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
-                            <a href="#" class="c-button color-dr-blue hv-o b-50 fr"><img src="/assets/public/img/loc_icon_small_drak.png" alt="">view on map</a>
+                            <p class="f-14" style="text-align:justify;">Enjoy fifteen days exploring a unique combination of natural settings for those who love adventure. </p>
+                            <a href="/en/tour/multi-active-peru-ii-vinicunca" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
                         </div>
                     </div>            
                 </div>
@@ -501,7 +435,7 @@
                             <div class="price price-s-1">$273</div>
                         </div>
                         <div class="title clearfix">
-                            <h4><b>RELAIS & CHATEAUX</b></h4>
+                            <h4><b>A RELAIS & CHATEAUX EXPERIENCE IN PERU</b></h4>
                             <div class="rate-wrap">
                                 <div class="rate">
                                     <span class="fa fa-star color-yellow"></span>
@@ -512,10 +446,8 @@
                                 </div>
                                 <i>485 rewies</i> 
                             </div>  
-                            <span class="f-14 color-dark-2">  </span>
-                            
+                            <p class="f-14" style="text-align:justify;">Peru is a fantastic travel program to enjoy in fourteen days the best of the country</p>
                             <a href="/en/tour/relais-chateaux" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
-                            <a href="#" class="c-button color-dr-blue hv-o b-50 fr"><img src="/assets/public/img/loc_icon_small_drak.png" alt="">view on map</a>
                         </div>
                     </div>            
                 </div>
@@ -537,16 +469,15 @@
                                 </div>
                                 <i>485 rewies</i> 
                             </div>  
-                            <span class="f-14 color-dark-2">  </span>
-                            
+                            <p class="f-14" style="text-align:justify;">Enjoy exploring a unique selection of places for those who would like to discover the flavors of the Peruvian cuisine</p>
                             <a href="/en/tour/through-the-flavors-of-peru" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
-                            <a href="#" class="c-button color-dr-blue hv-o b-50 fr"><img src="/assets/public/img/loc_icon_small_drak.png" alt="">view on map</a>
                         </div>
                     </div>          
                 </div>                                
             </div>
         </div>
-        !-- FIN DE TOURS RELACIONADOS  -->
+        <!-- FIN DE TOURS RELACIONADOS  -->
+
     </div>
 </div>
 @endsection

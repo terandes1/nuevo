@@ -7,12 +7,19 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 col-md-8 col-md-offset-2">
-                    <ul class="banner-breadcrumb color-white clearfix">
-                       <li><a class="link-blue-2" href="#">home</a> /</li>
-                       <li><a class="link-blue-2" href="#">flights</a> /</li>
-                       <li><span>detail</span></li>
-                    </ul>
-                    <h2 class="color-white">flights for you</h2>
+                    <h2 class="color-white" style="text-shadow: black 0.1em 0.1em 0.2em ">A RELAIS & CHATEAUX EXPERIENCE OF PERU</h2>
+                    <div class="col-xs-12 col-md-6 col-md-offset-4">
+                    <div class="detail-rate rate-wrap clearfix">
+                            <div class="rate">
+                            <span class="fa fa-star color-yellow"></span>
+                            <span class="fa fa-star color-yellow"></span>
+                            <span class="fa fa-star color-yellow"></span>
+                            <span class="fa fa-star color-yellow"></span>
+                            <span class="fa fa-star color-yellow"></span>
+                            </div>
+                        <i>485 Rewies</i> 
+                    </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -26,17 +33,7 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-8">
                     <div class="detail-category color-grey-3"></div>
-                    <h2 class="detail-title color-dark-2">A RELAIS & CHATEAUX EXPERIENCE OF PERU</h2>
-                    <div class="detail-rate rate-wrap clearfix">
-                        <div class="rate">
-                            <span class="fa fa-star color-yellow"></span>
-                            <span class="fa fa-star color-yellow"></span>
-                            <span class="fa fa-star color-yellow"></span>
-                            <span class="fa fa-star color-yellow"></span>
-                            <span class="fa fa-star color-yellow"></span>
-                        </div>
-                        <i>485 Rewies</i> 
-                    </div>
+                    <h3 style="padding-bottom: 15px">DESCRIPTION </h3>
                     <p style="text-align: justify;">
                     A Relais Chateau Experience in Peru is a fantastic travel program to enjoy in fourteen days the best of the country; this is a perfect combination of natural and cultural settings, moving from the coast to the highlands and the Jungle. Discover the most beautiful places in Lima, Iquitos, Cusco, the Sacred Valley, Machu Picchu and Puno, staying at the best accommodations with a unique sense of style and distinction. Discover the city of Kings, Lima, accompanied by our guide who will give you insights about the capital and its secrets, moving from its fascinating past towards the present. Fly to Iquitos and embark on an incredible cruise experience enjoying the fabulous flora and fauna of the area. Fly through the Andes to Cusco and discover the most beautiful sites of the Sacred Valley. Enjoy the comfort of a train ride to Machu Picchu, marvel your senses with the amazing natural scenery that will surround you and once you reach the lost citadel, explore and admire it with plenty of time. In Cusco, stroll around its colonial streets combined with incredible Inca constructions and let the city fascinate you. Continue the adventure heading to Puno to discover the Islands on Titicaca Lake and get a taste of how life is in the high plateau. 
                     This program can be customized according to your interests, needs and travel style. Please, feel free to contact us and personalize your holiday.
@@ -108,26 +105,8 @@
                     </div>  
                 </div>    
                 <div class="detail-content-block">
+                    <h3 style="padding: 15px">Itinerary </h3>
                     <div class="simple-tab color-1 tab-wrapper">
-                        <div class="tab-nav-wrapper">
-                            <div  class="nav-tab  clearfix">
-                                <div class="nav-tab-item active">
-                                    Itinerary
-                                </div>
-                                <div class="nav-tab-item">
-                                    Availability
-                                </div>
-                                <div class="nav-tab-item">
-                                    Amenities
-                                </div>
-                                <div class="nav-tab-item">
-                                    Reviews
-                                </div>
-                                <div class="nav-tab-item">
-                                    Write a Review
-                                </div>                          
-                            </div>
-                        </div>
                         <div class="tabs-content clearfix">
                             <div class="tab-info active">
                                 <div class="detail-content-block">
@@ -316,65 +295,7 @@
                                         </div>
                                     </div>                      
                                 </div> 
-                            </div>
-                            <div class="tab-info"> 
-                                <h3>General Information About tour</h3>
-                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque ac turpis egestas, varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
-                                <ul>
-                                    <li>Shopping history</li>
-                                    <li>Hot offers according your settings</li>
-                                    <li>Multi-product search</li>
-                                    <li>Opportunity to share with friends</li>
-                                </ul>                                 
-                                <h4>interesting for you</h4>
-                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus.</p>
-                                <h3>you need to know</h3>
-                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>  
-                            </div>
-                            <div class="tab-info">
-                                <h3>you need to know</h3>
-                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                                <h3>General Information About tour</h3>
-                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque ac turpis egestas, varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p> 
-                                <img class="right-img" src="/assets/public/img/detail/tab_img.jpg" alt="">
-                                <h4>interesting for you</h4>
-                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus.</p>   
-                                <ul>
-                                    <li>Shopping history</li>
-                                    <li>Hot offers according your settings</li>
-                                    <li>Multi-product search</li>
-                                    <li>Opportunity to share with friends</li>
-                                </ul>                     
-                            </div>
-                            <div class="tab-info">
-                                <img class="right-img" src="img/detail/tab_img.jpg" alt="">
-                                <h3>General Information About tour</h3>
-                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque ac turpis egestas, varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
-                                <h4>interesting for you</h4>
-                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus.</p>
-                                <ul>
-                                    <li>Shopping history</li>
-                                    <li>Hot offers according your settings</li>
-                                    <li>Multi-product search</li>
-                                    <li>Opportunity to share with friends</li>
-                                </ul>
-                                <h3>you need to know</h3>
-                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                            </div>
-                            <div class="tab-info">
-                                <h3>General Information About tour</h3>
-                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque ac turpis egestas, varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
-                                <h4>interesting for you</h4>
-                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus.</p>
-                                <ul>
-                                    <li>Shopping history</li>
-                                    <li>Hot offers according your settings</li>
-                                    <li>Multi-product search</li>
-                                    <li>Opportunity to share with friends</li>
-                                </ul>
-                                <h3>you need to know</h3>
-                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                            </div>     
+                            </div>    
                         </div>
                     </div>            
                 </div>         
@@ -386,20 +307,12 @@
                     <div class="detail-block bg-dr-blue">
                         <h4 class="color-white">details</h4>
                         <div class="details-desc">
-                            <p class="color-grey-9">Category:  <span class="color-white">hotels</span></p>
                             <p class="color-grey-9">price: <span class="color-white">$500 / person</span></p>
                             <p class="color-grey-9">location: <span class="color-white">paris, france</span></p>
-                            <p class="color-grey-9">date: <span class="color-white">july 19th to july 29th</span></p>
-                            <p class="color-pink">FLIGHT TYPE: <span class="color-white">ECONOMY</span></p>
-                            <p class="color-pink">FARE TYPE: <span class="color-white">REFUNDABLE</span></p>
-                            <p class="color-pink">CANCELLATION: <span class="color-white">$78 / PERSON</span></p>
-                            <p class="color-pink">FLIGHT CHANGE: <span class="color-white">$53 / PERSON</span></p>
-                            <p class="color-pink">SEATS & BAGGAGE: <span class="color-white">EXTRA CHARGE</span></p>
-                            <p class="color-pink">INFLIGHT FEATURES: <span class="color-white">AVAILABLE</span></p>
+                            <p class="color-grey-9">days: <span class="color-white">14D / 13N</span></p>
                         </div>
                         <div class="details-btn">
-                          <a href="#" class="c-button b-40 bg-tr-1 hv-white"><span>view on map</span></a>
-                          <a href="#" class="c-button b-40 bg-white hv-transparent"><span>book now</span></a>
+                          <a href="#" class="c-button b-40 bg-tr-1 hv-white"><span>book now</span></a>
                         </div>
                     </div>
 
@@ -407,67 +320,81 @@
                     <div class="popular-tours bg-grey-2">
                         <h4 class="color-dark-2">popular tours</h4>
                         <div class="hotel-small style-2 clearfix">
-                            <a class="hotel-img black-hover" href="#">
-                            <img class="img-responsive radius-3" src="/assets/public/img/detail/hotel_small_1.jpg" alt="">
+                            <a class="hotel-img black-hover" href="/en/tour/jewels-of-cusco">
+                            <img class="img-responsive radius-3" src="/assets/public/img/tour/jewels-of-cusco/1_1.jpg" alt="">
                             <div class="tour-layer delay-1"></div>                    
                             </a>
                             <div class="hotel-desc">
                                 <h5><span class="color-dark-2">from <strong>$273</strong></span></h5>
-                                <h4>bristol Hotel</h4>
-                                <div class="hotel-loc">2 Place de la Sans Défense, Puteaux, Paris, France.</div>
+                                <h4>jewels of cusco</h4>
+                                <div class="hotel-loc">Discover the most beautiful sites, , explore and admire it with plenty of time</div>
                             </div>
                         </div>
                         <div class="hotel-small style-2 clearfix">
-                            <a class="hotel-img black-hover" href="#">
-                            <img class="img-responsive radius-3" src="/assets/public/img/detail/hotel_small_2.jpg" alt="">
+                            <a class="hotel-img black-hover" href="/en/tour/jewels-of-the-south-belmond-trenes">
+                            <img class="img-responsive radius-3" src="/assets/public/img/tour/jewels/1_1.jpg" alt="">
                             <div class="tour-layer delay-1"></div>                    
                             </a>
                             <div class="hotel-desc">
                                 <h5><span class="color-dark-2">from <strong>$273</strong></span></h5>
-                                <h4>bristol Hotel</h4>
-                                <div class="hotel-loc">2 Place de la Sans Défense, Puteaux, Paris, France.</div>
+                                <h4>Jewels of the South</h4>
+                                <div class="hotel-loc">Jewels of the South offers you a set of must-see destinations, Lima, Cusco, the Sacred Valley, Machu Picchu in ten days</div>
                             </div>
                         </div>
                         <div class="hotel-small style-2 clearfix">
-                            <a class="hotel-img black-hover" href="#">
-                            <img class="img-responsive radius-3" src="/assets/public/img/detail/hotel_small_3.jpg" alt="">
+                            <a class="hotel-img black-hover" href="/en/tour/relais-chateaux">
+                            <img class="img-responsive radius-3" src="/assets/public/img/tour/relais-chateaux/1_1.jpg" alt="">
+                            <div class="tour-layer delay-1"></div>                    
+                            </a>
+
+                            <div class="hotel-desc">
+                                <h5><span class="color-dark-2">from <strong>$273</strong></span></h5>
+                                <h4>Relais & Chateaux</h4>
+                                <div class="hotel-loc">Peru is a fantastic travel program to enjoy in fourteen days the best of the country</div>
+                            </div>
+                        </div>  
+                        <div class="hotel-small style-2 clearfix">
+                            <a class="hotel-img black-hover" href="/en/tour/through-the-flavors-of-peru">
+                            <img class="img-responsive radius-3" src="/assets/public/img/tour/through-the-flavors-of-peru/1_1.jpg" alt="">
                             <div class="tour-layer delay-1"></div>                    
                             </a>
                             <div class="hotel-desc">
                                 <h5><span class="color-dark-2">from <strong>$273</strong></span></h5>
-                                <h4>bristol Hotel</h4>
-                                <div class="hotel-loc">2 Place de la Sans Défense, Puteaux, Paris, France.</div>
+                                <h4>through the flavors of peru</h4>
+                                <div class="hotel-loc">enjoy twelve days exploring a unique selection of places for those who would like to discover the flavors of the Peruvian cuisine</div>
                             </div>
-                        </div>                      
+                        </div>                    
                     </div>
+                    <!-- FIN TOURS POPULARES--> 
                 </div>            
             </div>
         </div>
 
-        <!-- CONTACTO --> 
-        <div class="row" style="margin-top: -100px;">
+        <!-- CONTACTO -->  
+        <div id="contact" class="row" style="margin-top: -100px;">
             <div class="row">
                 <div class="col-xs-12 col-sm-8 col-sm-offset-2">
                     <div class="second-title">
                         <h4 class="subtitle color-blue-2 underline">contact</h4>
+                        <h2>get in touch</h2>
                     </div>
                 </div>
             </div>
             @include('public.en.contact.contactForm')
         </div>
-        <!--  FIN CONTACTO  -->
+        <!--FIN CONTACTO-->
 
-        <!-- TOURS REALCIONADOS -->
+        <!-- TOURS RELACIONADOS -->
         <div class="may-interested padd-90">
             <div class="row">
                 <div class="col-mob-12 col-xs-6 col-sm-6 col-md-3">
                     <div class="hotel-item">
                         <div class="radius-top">
-                            <img src="/assets/public/img/tour/jewels/1.jpg" alt="">
+                            <img src="/assets/public/img/tour/jewels-of-cusco/1.jpg" alt="">
                             <div class="price price-s-1">$273</div>
                         </div>
                         <div class="title clearfix">
-                            <h4><b>JEWELS OF THE SOUTH BELMOND TRENES</b></h4>
+                            <h4><b>JEWELS OF CUSCO</b></h4>
                             <div class="rate-wrap">
                                 <div class="rate">
                                     <span class="fa fa-star color-yellow"></span>
@@ -478,10 +405,8 @@
                                 </div>
                                 <i>485 rewies</i> 
                             </div>  
-                            <span class="f-14 color-dark-2">2 Place de la Sans Défense, Puteaux</span>
-                            <p class="f-14">Nunc cursus libero purus ac congue arcu cursus ut sed vitae pulvinar massa idporta nequetiam.</p>
-                            <a href="/en/tour/jewels-of-the-south-belmond-trenes" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
-                            <a href="#" class="c-button color-dr-blue hv-o b-50 fr"><img src="/assets/public/img/loc_icon_small_drak.png" alt="">view on map</a>
+                            <p class="f-14" style="text-align:justify;">Jewels of Cusco offers you a set of must-see destinations. Discover the most beautiful sites, , explore and admire it with plenty of time</p>
+                            <a href="/en/tour/jewels-of-cusco" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
                         </div>
                     </div>            
                 </div>
@@ -492,7 +417,7 @@
                             <div class="price price-s-1">$273</div>
                         </div>
                         <div class="title clearfix">
-                            <h4><b>MULTI ACTIVE PERU II - VINICUNCA</b></h4>
+                            <h4><b>HIKING THROUGH THE ANDES MOUNTAINS</b></h4>
                             <div class="rate-wrap">
                                 <div class="rate">
                                     <span class="fa fa-star color-yellow"></span>
@@ -503,21 +428,19 @@
                                 </div>
                                 <i>485 rewies</i> 
                             </div>  
-                            <span class="f-14 color-dark-2">2 Place de la Sans Défense, Puteaux</span>
-                            <p class="f-14">Nunc cursus libero purus ac congue arcu cursus ut sed vitae pulvinar massa idporta nequetiam.</p>
+                            <p class="f-14" style="text-align:justify;">Enjoy fifteen days exploring a unique combination of natural settings for those who love adventure. </p>
                             <a href="/en/tour/multi-active-peru-ii-vinicunca" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
-                            <a href="#" class="c-button color-dr-blue hv-o b-50 fr"><img src="/assets/public/img/loc_icon_small_drak.png" alt="">view on map</a>
                         </div>
                     </div>            
                 </div>
                 <div class="col-mob-12 col-xs-6 col-sm-6 col-md-3">
                     <div class="hotel-item">
                         <div class="radius-top">
-                            <img src="/assets/public/img/tour/jewels-of-cusco/1.jpg" alt="">
+                            <img src="/assets/public/img/tour/relais-chateaux/1.jpg" alt="">
                             <div class="price price-s-1">$273</div>
                         </div>
                         <div class="title clearfix">
-                            <h4><b>JEWELS OF PERU</b></h4>
+                            <h4><b>A RELAIS & CHATEAUX EXPERIENCE IN PERU</b></h4>
                             <div class="rate-wrap">
                                 <div class="rate">
                                     <span class="fa fa-star color-yellow"></span>
@@ -528,10 +451,8 @@
                                 </div>
                                 <i>485 rewies</i> 
                             </div>  
-                            <span class="f-14 color-dark-2">2 Place de la Sans Défense, Puteaux</span>
-                            <p class="f-14">Nunc cursus libero purus ac congue arcu cursus ut sed vitae pulvinar massa idporta nequetiam.</p>
-                            <a href="/en/tour/jewels-of-cusco" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
-                            <a href="#" class="c-button color-dr-blue hv-o b-50 fr"><img src="/assets/public/img/loc_icon_small_drak.png" alt="">view on map</a>
+                            <p class="f-14" style="text-align:justify;">Peru is a fantastic travel program to enjoy in fourteen days the best of the country</p>
+                            <a href="/en/tour/relais-chateaux" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
                         </div>
                     </div>            
                 </div>
@@ -553,16 +474,14 @@
                                 </div>
                                 <i>485 rewies</i> 
                             </div>  
-                            <span class="f-14 color-dark-2">2 Place de la Sans Défense, Puteaux</span>
-                            <p class="f-14">Nunc cursus libero purus ac congue arcu cursus ut sed vitae pulvinar massa idporta nequetiam.</p>
+                            <p class="f-14" style="text-align:justify;">Enjoy exploring a unique selection of places for those who would like to discover the flavors of the Peruvian cuisine</p>
                             <a href="/en/tour/through-the-flavors-of-peru" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
-                            <a href="#" class="c-button color-dr-blue hv-o b-50 fr"><img src="/assets/public/img/loc_icon_small_drak.png" alt="">view on map</a>
                         </div>
                     </div>          
                 </div>                                
             </div>
         </div>
-        <!-- FIN  TOURS REALCIONADOS -->
+        <!-- FIN DE TOURS RELACIONADOS  -->
     </div>
 </div>
 @endsection
