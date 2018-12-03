@@ -3,7 +3,7 @@
 @section('content')
 <div class="inner-banner style-6">
     <img class="center-image" src="/assets/public/img/detail/bg_4.jpg" alt="">
-    <div class="vertical-align">
+    <div class="vertical-align" style="padding-top: 50px;">
         <div class="container">
             <div class="row" style="text-align: center;">
                 <div class="col-xs-12 col-md-8 col-md-offset-2">
@@ -13,7 +13,7 @@
                        <li><a class="link-blue-2" href="#">flights</a> /</li>
                        <li><span>detail</span></li>
                     </ul> -->
-                    <h2 class="color-white" style="text-shadow: black 0.1em 0.1em 0.2em ">Jewels of Cusco</h2>
+                    <h2 class="color-white" style="margin-bottom: 0px; text-shadow: black 0.1em 0.1em 0.2em ">Jewels of Cusco</h2>
                     <div class="col-xs-12 col-md-6 col-md-offset-4">
                     <div class="detail-rate rate-wrap clearfix">
                             <div class="rate">
@@ -49,8 +49,8 @@
                 <!-- TELEFONO Y CORREO -->    
                 <div class="col-xs-12 col-sm-4">
                     <div class="help-contact bg-grey-2">
-                        <a class="help-phone color-dark-2 link-dr-blue" href="tel:5184247277"><img src="/assets/public/img/detail/phone24-dark.png" alt="">51 84 247277</a>
-                        <a class="help-mail color-dark-2 link-dr-blue" href="mailto:terandes@terandes.com"><img src="/assets/public/img/detail/letter-dark.png" alt="">terandes@terandes.com</a>
+                        <a class="help-phone color-dark-2 link-green" href="tel:5184247277"><img src="/assets/public/img/detail/phone24-dark.png" alt="">51 84 247277</a>
+                        <a class="help-mail color-dark-2 link-green" href="mailto:terandes@terandes.com"><img src="/assets/public/img/detail/letter-dark.png" alt="">terandes@terandes.com</a>
                     </div> 
                 </div>
             </div>

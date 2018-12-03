@@ -352,7 +352,6 @@
             @include('public.en.contact.contactForm')
         </div>
         <!--FIN CONTACTO-->
-
         <!-- TOURS RELACIONADOS -->
         <div class="may-interested padd-90">
             <div class="row">

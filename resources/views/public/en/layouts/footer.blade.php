@@ -71,7 +71,7 @@
                        <div class="contact-info">
                         <div class="contact-line color-grey-3"><i class="fa fa-map-marker"></i><span>Aenean vulputate porttitor</span></div>
 						<div class="contact-line color-grey-3"><i class="fa fa-phone"></i><a href="tel:93123456789">+93 123 456 789</a></div>
-						<div class="contact-line color-grey-3"><i class="fa fa-envelope-o"></i><a href="mailto:">letstravel@mail.com</a></div>					
+						<div class="contact-line color-grey-3"><i class="fa fa-envelope-o"></i><a href="mailto:">terandes@terandes.com</a></div>					
 						<div class="contact-line color-grey-3"><i class="fa fa-globe"></i><a href="#">let’s_travel@world.com</a></div>					
 						
 					</div>

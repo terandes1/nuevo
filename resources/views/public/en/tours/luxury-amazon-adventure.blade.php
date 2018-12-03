@@ -405,18 +405,17 @@
             @include('public.en.contact.contactForm')
         </div>
         <!--FIN CONTACTO-->
-
         <!-- TOURS RELACIONADOS -->
         <div class="may-interested padd-90">
             <div class="row">
                 <div class="col-mob-12 col-xs-6 col-sm-6 col-md-3">
                     <div class="hotel-item">
                         <div class="radius-top">
-                            <img src="/assets/public/img/tour/hiking-through-the-andes-mountains-of-peru/1.jpg" alt="">
+                            <img src="/assets/public/img/tour/jewels-of-cusco/1.jpg" alt="">
                             <div class="price price-s-1">$273</div>
                         </div>
                         <div class="title clearfix">
-                            <h4><b>hiking-through-the-andes-mountains OF PERU</b></h4>
+                            <h4><b>JEWELS OF CUSCO</b></h4>
                             <div class="rate-wrap">
                                 <div class="rate">
                                     <span class="fa fa-star color-yellow"></span>
@@ -427,10 +426,8 @@
                                 </div>
                                 <i>485 rewies</i> 
                             </div>  
-                            <span class="f-14 color-dark-2">2 Place de la Sans Défense, Puteaux</span>
-                            <p class="f-14">Nunc cursus libero purus ac congue arcu cursus ut sed vitae pulvinar massa idporta nequetiam.</p>
-                            <a href="/en/tour/hiking-through-the-andes-mountains-of-peru" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
-                            <a href="#" class="c-button color-dr-blue hv-o b-50 fr"><img src="/assets/public/img/loc_icon_small_drak.png" alt="">view on map</a>
+                            <p class="f-14" style="text-align:justify;">Jewels of Cusco offers you a set of must-see destinations. Discover the most beautiful sites, , explore and admire it with plenty of time</p>
+                            <a href="/en/tour/jewels-of-cusco" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
                         </div>
                     </div>            
                 </div>
@@ -441,7 +438,7 @@
                             <div class="price price-s-1">$273</div>
                         </div>
                         <div class="title clearfix">
-                            <h4><b>MULTI ACTIVE PERU II - VINICUNCA</b></h4>
+                            <h4><b>HIKING THROUGH THE ANDES MOUNTAINS</b></h4>
                             <div class="rate-wrap">
                                 <div class="rate">
                                     <span class="fa fa-star color-yellow"></span>
@@ -452,10 +449,8 @@
                                 </div>
                                 <i>485 rewies</i> 
                             </div>  
-                            <span class="f-14 color-dark-2">2 Place de la Sans Défense, Puteaux</span>
-                            <p class="f-14">Nunc cursus libero purus ac congue arcu cursus ut sed vitae pulvinar massa idporta nequetiam.</p>
+                            <p class="f-14" style="text-align:justify;">Enjoy fifteen days exploring a unique combination of natural settings for those who love adventure. </p>
                             <a href="/en/tour/multi-active-peru-ii-vinicunca" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
-                            <a href="#" class="c-button color-dr-blue hv-o b-50 fr"><img src="/assets/public/img/loc_icon_small_drak.png" alt="">view on map</a>
                         </div>
                     </div>            
                 </div>
@@ -466,7 +461,7 @@
                             <div class="price price-s-1">$273</div>
                         </div>
                         <div class="title clearfix">
-                            <h4><b>RELAIS & CHATEAUX</b></h4>
+                            <h4><b>A RELAIS & CHATEAUX EXPERIENCE IN PERU</b></h4>
                             <div class="rate-wrap">
                                 <div class="rate">
                                     <span class="fa fa-star color-yellow"></span>
@@ -477,10 +472,8 @@
                                 </div>
                                 <i>485 rewies</i> 
                             </div>  
-                            <span class="f-14 color-dark-2">2 Place de la Sans Défense, Puteaux</span>
-                            <p class="f-14">Nunc cursus libero purus ac congue arcu cursus ut sed vitae pulvinar massa idporta nequetiam.</p>
+                            <p class="f-14" style="text-align:justify;">Peru is a fantastic travel program to enjoy in fourteen days the best of the country</p>
                             <a href="/en/tour/relais-chateaux" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
-                            <a href="#" class="c-button color-dr-blue hv-o b-50 fr"><img src="/assets/public/img/loc_icon_small_drak.png" alt="">view on map</a>
                         </div>
                     </div>            
                 </div>
@@ -502,10 +495,8 @@
                                 </div>
                                 <i>485 rewies</i> 
                             </div>  
-                            <span class="f-14 color-dark-2">2 Place de la Sans Défense, Puteaux</span>
-                            <p class="f-14">Nunc cursus libero purus ac congue arcu cursus ut sed vitae pulvinar massa idporta nequetiam.</p>
+                            <p class="f-14" style="text-align:justify;">Enjoy exploring a unique selection of places for those who would like to discover the flavors of the Peruvian cuisine</p>
                             <a href="/en/tour/through-the-flavors-of-peru" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
-                            <a href="#" class="c-button color-dr-blue hv-o b-50 fr"><img src="/assets/public/img/loc_icon_small_drak.png" alt="">view on map</a>
                         </div>
                     </div>          
                 </div>                                
