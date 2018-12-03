@@ -22,7 +22,7 @@
                         </div>  
                         <div class="col-xs-12 col-sm-6">
                             <div class="input-style-1 type-2 color-2">
-                                <input type="text" required="" id='telefono' name='telefono' placeholder="telefono">
+                                <input type="text" required="" id='telefono' name='telefono' placeholder="phone">
                                 <h5 id="telefonoErrors" style="color: #F27612;position: absolute;"><h5>
                             </div>
                         </div>    
