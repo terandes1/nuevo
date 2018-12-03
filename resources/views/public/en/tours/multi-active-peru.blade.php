@@ -26,19 +26,19 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-8">
                     <div class="detail-category color-grey-3"></div>
-                    <h2 class="detail-title color-dark-2">MULTI ACTIVE PERU II - VINICUNCA</h2>
+                    <h2 class="detail-title color-dark-2">MULTI ACTIVE PERU </h2>
                     <div class="detail-rate rate-wrap clearfix">
                         <div class="rate">
-                            <span class="fa fa-star color-yellow"></span>
-                            <span class="fa fa-star color-yellow"></span>
-                            <span class="fa fa-star color-yellow"></span>
-                            <span class="fa fa-star color-yellow"></span>
-                            <span class="fa fa-star color-yellow"></span>
+                        <span class="fa fa-star color-yellow"></span>
+                        <span class="fa fa-star color-yellow"></span>
+                        <span class="fa fa-star color-yellow"></span>
+                        <span class="fa fa-star color-yellow"></span>
+                        <span class="fa fa-star color-yellow"></span>
                         </div>
-                        <i>485 Rewies</i> 
-                    </div>
-                    <p style="text-align: justify;">
-                    Multi active Peru is the perfect travel program to enjoy sixteen days exploring a unique combination of natural settings for those who love adventure, moving from the coast to the highlands. Discover the most beautiful places in Lima, Cusco, the Sacred Valley and Machu Picchu, staying at the best accommodations with a unique sense of style and distinction. Discover the city of Kings, Lima, accompanied by our guide who will give you insights about the capital and its beautiful treasures, moving from its fascinating past towards the flourishing present. Explore the oldest city of the Americas, Caral. Fly through the Andes to Cusco and discover the most beautiful sites of the Sacred Valley. Enjoy a short hike in a portion of the Inca Trail to Machu Picchu, marvel your senses with the amazing natural scenery that will surround you and once you reach the lost citadel, explore and admire it with plenty of time. In Cusco, explore the southern valley and its impressive pre Inca and Inca sites such as Tipon, Pikillacta and finally visit the Sistine Chapel of the Americas, Andahuaylillas. Prepare yourself to visit one of most popular places nowadays, the Rainbow Mountain or Vinicunca, on a couple of days you will have plenty of time to explore the area, In Cusco, stroll around its colonial streets combined with incredible Inca constructions and let the city fascinate you. 
+                    <i>485 Rewies</i> 
+                   </div>
+                   <p style="text-align: justify;">
+                    Multi active Peru is the perfect travel program to enjoy thirteen days exploring a unique combination of natural settings for those who love adventure, moving from the coast to the highlands. Discover the most beautiful places in Lima, Cusco, the Sacred Valley and Machu Picchu, staying at the best accommodations with a unique sense of style and distinction. Discover the city of Kings, Lima, accompanied by our guide who will give you insights about the capital and its beautiful treasures, moving from its fascinating past towards the flourishing present. Explore the oldest city of the Americas, Caral. Fly through the Andes to Cusco and discover the most beautiful sites of the Sacred Valley. Enjoy a short hike in a portion of the Inca Trail to Machu Picchu, marvel your senses with the amazing natural scenery that will surround you and once you reach the lost citadel, explore and admire it with plenty of time. In Cusco, stroll around its colonial streets combined with incredible Inca constructions and let the city fascinate you. 
                     This program can be customized according to your interests, needs and travel style. Please, feel free to contact us and personalize your holiday.
                     </p>
                 </div>
@@ -58,19 +58,22 @@
                         <div class="swiper-container thumbnails-preview" data-autoplay="0" data-loop="1" data-speed="500" data-center="0" data-slides-per-view="1">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide active" data-val="0">
-                                    <img class="img-responsive img-full" src="/assets/public/img/tour/vinicunca/1.jpg" alt="">
+                                    <img class="img-responsive img-full" src="/assets/public/img/tour/multi-active-peru/1.jpg" alt="">
                                 </div>
                                 <div class="swiper-slide" data-val="1">
-                                    <img class="img-responsive img-full" src="/assets/public/img/tour/vinicunca/2.jpg" alt="">
+                                    <img class="img-responsive img-full" src="/assets/public/img/tour/multi-active-peru/2.jpg" alt="">
                                 </div>
                                 <div class="swiper-slide" data-val="2">
-                                    <img class="img-responsive img-full" src="/assets/public/img/tour/vinicunca/3.jpg" alt="">
+                                    <img class="img-responsive img-full" src="/assets/public/img/tour/multi-active-peru/3.jpg" alt="">
                                 </div>
                                 <div class="swiper-slide" data-val="3">
-                                    <img class="img-responsive img-full" src="/assets/public/img/tour/vinicunca/4.jpg" alt="">     
+                                    <img class="img-responsive img-full" src="/assets/public/img/tour/multi-active-peru/4.jpg" alt="">     
                                 </div>
                                 <div class="swiper-slide" data-val="4">
-                                    <img class="img-responsive img-full" src="/assets/public/img/tour/vinicunca/5.jpg" alt="">            
+                                    <img class="img-responsive img-full" src="/assets/public/img/tour/multi-active-peru/5.jpg" alt="">            
+                                </div>
+                                <div class="swiper-slide" data-val="5">
+                                    <img class="img-responsive img-full" src="/assets/public/img/tour/multi-active-peru/6.jpg" alt="">            
                                 </div>
                             </div>
                             <div class="pagination pagination-hidden poin-style-1"></div>
@@ -79,28 +82,32 @@
                                 <div class="swiper-arrow-right sw-arrow"><span class="fa fa-angle-right"></span></div>
                             </div>
                         </div>
-                        <div class="swiper-container thumbnails" data-autoplay="0" data-loop="0" data-speed="500" data-slides-per-view="responsive" data-xs-slides="3" data-sm-slides="5" data-md-slides="5" data-lg-slides="5"              data-add-slides="5">
+                        <div class="swiper-container thumbnails" data-autoplay="0" data-loop="0" data-speed="500" data-slides-per-view="responsive" data-xs-slides="3" data-sm-slides="5" data-md-slides="5" data-lg-slides="5" 
+                  data-add-slides="5">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide current active" data-val="0">
-                                    <img class="img-responsive img-full" src="/assets/public/img/tour/vinicunca/1_1.jpg" alt="">
+                                  <img class="img-responsive img-full" src="/assets/public/img/tour/multi-active-peru/1_1.jpg" alt="">
                                 </div>
                                 <div class="swiper-slide" data-val="1">
-                                    <img class="img-responsive img-full" src="/assets/public/img/tour/vinicunca/2_2.jpg" alt="">
+                                  <img class="img-responsive img-full" src="/assets/public/img/tour/multi-active-peru/2_2.jpg" alt="">
                                 </div>
                                 <div class="swiper-slide" data-val="2">
-                                    <img class="img-responsive img-full" src="/assets/public/img/tour/vinicunca/3_3.jpg" alt="">
+                                  <img class="img-responsive img-full" src="/assets/public/img/tour/multi-active-peru/3_3.jpg" alt="">
                                 </div>
                                 <div class="swiper-slide" data-val="3">
-                                    <img class="img-responsive img-full" src="/assets/public/img/tour/vinicunca/4_4.jpg" alt="">
+                                  <img class="img-responsive img-full" src="/assets/public/img/tour/multi-active-peru/4_4.jpg" alt="">
                                 </div>
                                 <div class="swiper-slide" data-val="4">
-                                    <img class="img-responsive img-full" src="/assets/public/img/tour/vinicunca/5_5.jpg" alt="">
+                                  <img class="img-responsive img-full" src="/assets/public/img/tour/multi-active-peru/5_5.jpg" alt="">
+                                </div>
+                                <div class="swiper-slide" data-val="5">
+                                  <img class="img-responsive img-full" src="/assets/public/img/tour/multi-active-peru/6_6.jpg" alt="">
                                 </div>
                             </div>
                             <div class="pagination hidden"></div>
                         </div>
                     </div>  
-                </div>   
+                </div> 
                 <div class="detail-content-block">
                     <div class="simple-tab color-1 tab-wrapper">
                         <div class="tab-nav-wrapper">
@@ -127,18 +134,18 @@
                                 <div class="detail-content-block">
                                     <div class="accordion style-2">
                                         <div class="acc-panel">
-                                            <div class="acc-title"><span class="acc-icon"></span>Day 1. – Arrival in Lima.</div>
+                                            <div class="acc-title"><span class="acc-icon"></span>Day 1. – Arrival in Lima</div>
                                             <div class="acc-body">
                                                 <p style="text-align: justify; color: black">
                                                 Welcome to the land of the Incas.
-                                                Your Peru luxury holiday is on the go. 
+                                                Your Peru holiday is on the go. 
                                                 As you go through arrivals at the airport in Lima, we will be waiting for you – just look for our representative who will be with a sign with your name on it. We will take you to your hotel and assist with the check-in procedure. There is nothing better than a time to freshen up and relax to recover from the flight, so we will leave you to rest.
                                                 Overnight in Lima.
                                                 </p>
                                             </div>
                                         </div>
                                         <div class="acc-panel">
-                                            <div class="acc-title"><span class="acc-icon"></span>DAY 2. - Lima City Highlights</div>
+                                            <div class="acc-title"><span class="acc-icon"></span>DAY 2. - Lima City Highlights </div>
                                             <div class="acc-body">
                                                 <p style="text-align: justify; color: black">
                                                 Private Tour around Lima´s Best Highlights
@@ -182,13 +189,13 @@
                                             </div>
                                         </div>
                                         <div class="acc-panel">
-                                            <div class="acc-title"><span class="acc-icon"></span>DAY 5. - Pisac ruins & Market</div>
+                                            <div class="acc-title"><span class="acc-icon"></span>DAY 5. - Pisac ruins & Market and the Inkariy museum. </div>
                                             <div class="acc-body">
                                                 <p style="text-align: justify; color: black">
                                                 Morning tour of Pisac Ruins and its handicraft market.
-                                                Today, you are going to experience Peru’s fascinating combination of past and present. First, we will visit the market, located in the main square of Pisac to witness its vibrant activity. The market shows its colorful textiles, all kinds of dyes, cutlery, ceramics and its vast variety of fresh vegetables; it seems that this place holds something to please everyone. Our explorations will continue visiting the impressive Inca ruins of Pisac, located on top of the mountain that overlooks the town; here we will walk and explore these incredible constructions.
+                                                Today, you are going to experience Peru’s fascinating combination of past and present. First, we will visit the market, located in the main square of Pisac to witness its vibrant activity. The market shows its colorful textiles, all kinds of dyes, cutlery, ceramics and its vast variety of fresh vegetables; it seems that this place holds something to please everyone, then we will continue our way to explore the impressive Inca ruins of Pisac, located on top of the mountain that overlooks the town, here, we will explore its incredible constructions.
                                                 In Pisac, we will enjoy a picnic lunch in a nice spot where we will also have great views of the surroundings.
-                                                After lunch, we will drive towards Calca where we will visit the Inkariy museum; this will be a unique experience to learn about the cultural evolution of the Peruvian civilization visiting rooms with exhibits of the most representative pre Inca civilizations.
+                                                After lunch, we will drive to the Inkariy museum, a fantastic place where we will have insights of the most representative pre Incan civilizations that will help us to get a better understanding of the Peruvian culture. 
                                                 Overnight in the Sacred Valley
                                                 </p>
                                             </div>
@@ -198,7 +205,7 @@
                                             <div class="acc-body">
                                                 <p style="text-align: justify; color: black">
                                                 Full day tour to visit the agricultural terraces of Moray and the Saltpans of Maras.
-                                                This morning, we will depart from our hotel to the upper part of Urubamba heading towards the enigmatic Inca ruins at Moray. From the upper part, these circular terraces look like an ancient amphitheater, though some experts believe they served as agricultural laboratories where the Incas could experiment with new farming techniques as well as a process of acclimatization of some plants. Of course, this is just one of the various theories, and even after many years of research and dozens of hypotheses, but still the true purpose of Moray remains as a mystery. This day, you are going to inspect the site yourself and have your own theories.
+                                                After visiting this place, our tour will continue with the visit of the enigmatic Inca ruins at Moray. From the upper part, these circular terraces look like an ancient amphitheater, though some experts believe they served as agricultural laboratories where the Incas could experiment with new farming techniques as well as a process of acclimatization of some plants. Of course, this is just one of the various theories, and even after many years of research and dozens of hypotheses, but still the true purpose of Moray remains as a mystery. This day, you are going to inspect the site yourself and have your own theories.
                                                 Depart from the intriguing Moray and continue to the small town of Maras, home of an old salt mine that dates from the Inca times. This place comprises thousands of milky pools, each set on its own terrace along the hillside, the saltpans are particularly surreal in appearance and incredibly photogenic. Members of the community own the pans and they have been passed down through the local families since pre-Inca times.
                                                 We will visit the town of Maras where we will enjoy some activities such as knitting in corn leaves, working on ceramics or visiting the hat maker. 
                                                 At the end of the day, we will drive you back to your hotel.
@@ -207,10 +214,10 @@
                                             </div>
                                         </div>
                                         <div class="acc-panel">
-                                            <div class="acc-title"><span class="acc-icon"></span>DAY 7. - Ollantaytambo & Chinchero – paddling in Huaypo lagoon.</div>
+                                            <div class="acc-title"><span class="acc-icon"></span>DAY 7. - Ollantaytambo & Chinchero – paddling or kayaking in Huaypo lagoon.</div>
                                             <div class="acc-body">
                                                 <p style="text-align: justify; color: black">
-                                                Visit the Inca fortress of Ollantaytambo, the town of Chinchero and Huaypo lagoon.
+                                                Visit to the Inca fortress of Ollantaytambo and the town of Chinchero and Huaypo lagoon.
                                                 This morning we will have an early departure to visit the town and the impressive fortress of Ollantaytambo.
                                                 Ollantaytambo is a charming Inca town characterized by its cobblestone streets and beautiful stone houses with big interior courtyards and the unusual trapezoidal doors that retain the traditional Inca urban planning. The streets in this town have water canals running down towards the farming lands and the river.
                                                 The fortress is located on top of the mountain that overlooks the town; it has a religious area with an impressive stonework. In the lower part, there is a section of wide terraces.
@@ -235,7 +242,7 @@
                                             </div>
                                         </div>
                                         <div class="acc-panel">
-                                            <div class="acc-title"><span class="acc-icon"></span>DAY 9. – Machu Picchu - Cusco.</div>
+                                            <div class="acc-title"><span class="acc-icon"></span>DAY 9. – Machu Picchu - Cusco. </div>
                                             <div class="acc-body">
                                                 <p style="text-align: justify; color: black">
                                                 Second guided visit of Machu Picchu
@@ -247,7 +254,31 @@
                                             </div>
                                         </div>
                                         <div class="acc-panel">
-                                            <div class="acc-title"><span class="acc-icon"></span>DAY 10. - Southern Valley.</div>
+                                            <div class="acc-title"><span class="acc-icon"></span>DAY 10. - Cusco City highlights.</div>
+                                            <div class="acc-body">
+                                                <p style="text-align: justify; color: black">
+                                                Morning tour of the city
+                                                This morning accompanied with your guide, you will explore the colonial streets and the squares of Cusco. You will immerse in the fascinating history of the Inca Capital. The first spot to visit will be the Santo Domingo church, a colonial temple that lays on top of the ancient Inca Temple of the Sun (Koricancha); then you will continue the tour heading towards the Cathedral of the city, located right in the main square – this is one of the most impressive exhibits of colonial art.
+                                                Our walk will continue through the beautiful streets of the traditional neighborhood of San Blas, which is well known for being the house of the most representative Masters of Arts in Cusco city, San Blas is considered the cradle of traditional Cusquenian art.  Then you are going to descent towards the hotel, en route you will pass by the famous 12-angled stone, whose image has been taken in many TV commercials.
+                                                After the tour, we will take you to a restaurant where you will have lunch.
+                                                The rest of the day will be at leisure, you can opt to continue exploring the city on your own or if you prefer, you can relax in your hotel.
+                                                Overnight in Cusco.
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <div class="acc-panel">
+                                            <div class="acc-title"><span class="acc-icon"></span>DAY 11. -  Cusco nearby ruins.</div>
+                                            <div class="acc-body">
+                                                <p style="text-align: justify; color: black">
+                                                Morning tour to visit the incredible >Inca sites built overlooking the city. 
+                                                Morning tour to visit the nearby ruins of the city, located overlooking the valley of Cusco. We will drive towards the north, to the upper part where we are going to explore Sacsayhuaman, an incredible megalithic construction that in the past was considered as a fortress, but recent excavations proved that it was a religious center. We will continue our explorations visiting Q’enko, a ceremonial place where we will see its labyrinth and a very particular structure similar to an amphitheater. Our last spot will be Puca Pucara, a small structure that used to be a checkpoint for visitors entering the city of Cusco.
+                                                On the way back to the hotel, we will stop at San Cristobal, here we will visit the remains of the Palace of the Inca Manco Capac, we will enjoy great views of the city and we will have some drinks. Return to the hotel.
+                                                Overnight in Cusco.
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <div class="acc-panel">
+                                            <div class="acc-title"><span class="acc-icon"></span>DAY 12. - Southern Valley. </div>
                                             <div class="acc-body">
                                                 <p style="text-align: justify; color: black">
                                                 Full day tour to visit Tipon, Pikillacta and Andahuaylillas.
@@ -261,71 +292,15 @@
                                             </div>
                                         </div>
                                         <div class="acc-panel">
-                                            <div class="acc-title"><span class="acc-icon"></span>DAY 11. - Hike to Vinicunca Mountain.</div>
-                                            <div class="acc-body">
-                                                <p style="text-align: justify; color: black">
-                                                Cusco - Huampococha.
-                                                We begin with a morning departure from Cusco, travelling by private car through the fertile Vilcanota Valley, to the town of Checacupe, from this point; we will start to ascend towards Pitumarca through the spectacular canyon of Japura, we arrive at the pastoral community of Osefina, where we will see herding of llamas and alpacas as the main local activity. Llamas will carry part of our personal equipment along the way. Little by little, we will ascend through a picturesque valley where you can see some of the highest potato crops in the world. The landscapes change dramatically as we leave behind the last houses until we reach the pass of Anta at 16000 ft. / 4900 mts. With the first views of the impressive Vilcanota mountain range. We will spend the night in the Huampococha Tambo, located near the lagoon of the same name, where the Andean geese usually nest. These birds are locally known as "Huallatas". 
-                                                Overnight in a lodge.
-                                                </p>
-                                            </div>
-                                        </div>
-                                        <div class="acc-panel">
-                                            <div class="acc-title"><span class="acc-icon"></span>DAY 12. – Vinicunca hike – Cusco.</div>
-                                            <div class="acc-body">
-                                                <p style="text-align: justify; color: black">
-                                                Hike from Huampococha to  Vinicunca. Return to Cusco.
-                                                This morning, prepare yourself for an incredible spectacle with the first rays of the sun greeting you at this magical location, the views of the scenery are simply, unique. After enjoying our Andean breakfast, we will begin the hike through rock formations of red sandstone. As you hike, you will see geological wonders and admire the beauty of this spectacular landscape, until reaching Vinicunca Mountain or “Rainbow Mountain”, renowned worldwide for its spectacularly colorful soil strata. This is the most spectacular vantage point of the Route and in the entire Andes Mountains. After some free time to marvel with the amazing views of the place and its surroundings, take photos and rest for a while, we will begin the descent through the valley to the town of Japura. On the way, we will have a final stop to enjoy lunch before boarding our private transportation back to Cusco.
-                                                    
-                                                Overnight in Cusco.
-                                                </p>
-                                            </div>
-                                        </div>
-                                        <div class="acc-panel">
-                                            <div class="acc-title"><span class="acc-icon"></span>DAY 13. - Cusco City highlights.</div>
-                                            <div class="acc-body">
-                                                <p style="text-align: justify; color: black">
-                                                Morning tour of the city
-                                                This morning accompanied with your guide, you will explore the colonial streets and the squares of Cusco. You will immerse in the fascinating history of the Inca Capital. The first spot to visit will be the Santo Domingo church, a colonial temple that lays on top of the ancient Inca Temple of the Sun (Koricancha); then you will continue the tour heading towards the Cathedral of the city, located right in the main square – this is one of the most impressive exhibits of colonial art.
-                                                Our walk will continue through the beautiful streets of the traditional neighborhood of San Blas, which is well known for being the house of the most representative Masters of Arts in Cusco city, San Blas is considered the cradle of traditional Cusquenian art.  Then you are going to descent towards the hotel, en route you will pass by the famous 12-angled stone, whose image has been taken in many TV commercials.
-                                                After the tour, we will take you to a restaurant where you will have lunch.
-                                                The rest of the day will be at leisure, you can opt to continue exploring the city on your own or if you prefer, you can relax in your hotel.
-                                                Overnight in Cusco.
-                                                </p>
-                                            </div>
-                                        </div>
-                                        <div class="acc-panel">
-                                            <div class="acc-title"><span class="acc-icon"></span>DAY 14. -  Cusco nearby ruins.</div>
-                                            <div class="acc-body">
-                                                <p style="text-align: justify; color: black">
-                                                Morning tour to visit the incredible Inca sites built overlooking the city. 
-                                                Morning tour to visit the nearby ruins of the city, located overlooking the valley of Cusco. We will drive towards the north, to the upper part where we are going to explore Sacsayhuaman, an incredible megalithic construction that in the past was considered as a fortress, but recent excavations proved that it was a religious center. We will continue our explorations visiting Q’enko, a ceremonial place where we will see its labyrinth and a very particular structure similar to an amphitheater. Our last spot will be Puca Pucara, a small structure that used to be a checkpoint for visitors entering the city of Cusco.
-                                                On the way back to the hotel, we will stop at San Cristobal, here we will have great views of the city and we will enjoy some drinks. Return to the hotel.
-                                                Overnight in Cusco.
-                                                </p>
-                                            </div>
-                                        </div>
-                                        <div class="acc-panel">
-                                            <div class="acc-title"><span class="acc-icon"></span>DAY 15. - Cusco Special Insight.</div>
-                                            <div class="acc-body">
-                                                <p style="text-align: justify; color: black">
-                                                Visit to the photo studio and archive of photography of Martin Chambi where we will see the impressive collection of over thirty thousand pictures of Cusco and its surroundings. These pictures were taken since the early 20th century. 
-                                                Visit to the photo gallery of Martin Chambi in the center of the city.
-                                                Afternoon at leisure to enjoy the city and do some shopping. 
-                                                Overnight in Cusco.
-                                                </p>
-                                            </div>
-                                        </div>
-                                        <div class="acc-panel">
-                                            <div class="acc-title"><span class="acc-icon"></span>DAY 16. - Cusco – Lima</div>
+                                            <div class="acc-title"><span class="acc-icon"></span>DAY 13. - Cusco – Lima </div>
                                             <div class="acc-body">
                                                 <p style="text-align: justify; color: black">
                                                 Flight from Cusco to Lima.
-                                                At a scheduled time, we will meet you at the lobby of the hotel to transfer you to the airport for the flight back to Lima.
+                                                At a scheduled time, we will meet you at your hotel for the transfer to the airport for your flight back to Lima.  
                                                 </p>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div>                      
                                 </div> 
                             </div>
                             <div class="tab-info"> 
@@ -337,82 +312,82 @@
                                     <li>Multi-product search</li>
                                     <li>Opportunity to share with friends</li>
                                 </ul>                                 
-                                    <h4>interesting for you</h4>
-                                    <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus.</p>
-                                    <h3>you need to know</h3>
-                                    <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>  
+                                <h4>interesting for you</h4>
+                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus.</p>
+                                <h3>you need to know</h3>
+                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>  
                             </div>
                             <div class="tab-info">
-                  <h3>you need to know</h3>
-                  <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                                  <h3>General Information About tour</h3>
-                                  <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque ac turpis egestas, varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p> 
-                                  <img class="right-img" src="/assets/public/img/detail/tab_img.jpg" alt="">
-                                  <h4>interesting for you</h4>
-                                  <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus.</p>   
-                                  <ul>
+                                <h3>you need to know</h3>
+                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                <h3>General Information About tour</h3>
+                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque ac turpis egestas, varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p> 
+                                <img class="right-img" src="/assets/public/img/detail/tab_img.jpg" alt="">
+                                <h4>interesting for you</h4>
+                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus.</p>   
+                                <ul>
                                     <li>Shopping history</li>
-                    <li>Hot offers according your settings</li>
-                    <li>Multi-product search</li>
-                    <li>Opportunity to share with friends</li>
-                  </ul>                     
-                                </div>
-                                <div class="tab-info">
-                                  <img class="right-img" src="img/detail/tab_img.jpg" alt="">
-                                  <h3>General Information About tour</h3>
-                                  <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque ac turpis egestas, varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
-                                  <h4>interesting for you</h4>
-                                  <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus.</p>
-                                  <ul>
-                                    <li>Shopping history</li>
-                    <li>Hot offers according your settings</li>
-                    <li>Multi-product search</li>
-                    <li>Opportunity to share with friends</li>
-                  </ul>
-                  <h3>you need to know</h3>
-                  <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                                </div>
-                                <div class="tab-info">
-                                  <h3>General Information About tour</h3>
-                                  <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque ac turpis egestas, varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
-                                  <h4>interesting for you</h4>
-                                  <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus.</p>
-                                  <ul>
-                                    <li>Shopping history</li>
-                    <li>Hot offers according your settings</li>
-                    <li>Multi-product search</li>
-                    <li>Opportunity to share with friends</li>
-                  </ul>
-                  <h3>you need to know</h3>
-                  <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                                </div>     
+                                    <li>Hot offers according your settings</li>
+                                    <li>Multi-product search</li>
+                                    <li>Opportunity to share with friends</li>
+                                </ul>                     
                             </div>
-                        </div>            
-          </div>         
+                            <div class="tab-info">
+                                <img class="right-img" src="img/detail/tab_img.jpg" alt="">
+                                <h3>General Information About tour</h3>
+                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque ac turpis egestas, varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+                                <h4>interesting for you</h4>
+                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus.</p>
+                                <ul>
+                                    <li>Shopping history</li>
+                                    <li>Hot offers according your settings</li>
+                                    <li>Multi-product search</li>
+                                    <li>Opportunity to share with friends</li>
+                                </ul>
+                                <h3>you need to know</h3>
+                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            </div>
+                            <div class="tab-info">
+                                <h3>General Information About tour</h3>
+                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque ac turpis egestas, varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+                                <h4>interesting for you</h4>
+                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus.</p>
+                                <ul>
+                                    <li>Shopping history</li>
+                                    <li>Hot offers according your settings</li>
+                                    <li>Multi-product search</li>
+                                    <li>Opportunity to share with friends</li>
+                                </ul>
+                                <h3>you need to know</h3>
+                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            </div>     
+                        </div>
+                    </div>            
+                </div>                  
           </div>
-    <!--RIGHT SIDEBAR-->
-    <div class="col-xs-12 col-md-4">
-        <div class="right-sidebar">
-            <!--DETALLES DEL TOUR-->
-            <div class="detail-block bg-dr-blue">
-                <h4 class="color-white">details</h4>
-                <div class="details-desc">
-                    <p class="color-grey-9">Category:  <span class="color-white">hotels</span></p>
-                    <p class="color-grey-9">price: <span class="color-white">$500 / person</span></p>
-                    <p class="color-grey-9">location: <span class="color-white">paris, france</span></p>
-                    <p class="color-grey-9">date: <span class="color-white">july 19th to july 29th</span></p>
-                    <p class="color-pink">FLIGHT TYPE: <span class="color-white">ECONOMY</span></p>
-                    <p class="color-pink">FARE TYPE: <span class="color-white">REFUNDABLE</span></p>
-                    <p class="color-pink">CANCELLATION: <span class="color-white">$78 / PERSON</span></p>
-                    <p class="color-pink">FLIGHT CHANGE: <span class="color-white">$53 / PERSON</span></p>
-                    <p class="color-pink">SEATS & BAGGAGE: <span class="color-white">EXTRA CHARGE</span></p>
-                    <p class="color-pink">INFLIGHT FEATURES: <span class="color-white">AVAILABLE</span></p>
-                </div>
-                <div class="details-btn">
-                  <a href="#" class="c-button b-40 bg-tr-1 hv-white"><span>view on map</span></a>
-                  <a href="#" class="c-button b-40 bg-white hv-transparent"><span>book now</span></a>
-                </div>
-            </div>
+            <!--RIGHT SIDEBAR-->
+            <div class="col-xs-12 col-md-4">
+                <div class="right-sidebar">
+                    <!--DETALLES DEL TOUR-->
+                    <div class="detail-block bg-dr-blue">
+                        <h4 class="color-white">details</h4>
+                        <div class="details-desc">
+                            <p class="color-grey-9">Category:  <span class="color-white">hotels</span></p>
+                            <p class="color-grey-9">price: <span class="color-white">$500 / person</span></p>
+                            <p class="color-grey-9">location: <span class="color-white">paris, france</span></p>
+                            <p class="color-grey-9">date: <span class="color-white">july 19th to july 29th</span></p>
+                            <p class="color-pink">FLIGHT TYPE: <span class="color-white">ECONOMY</span></p>
+                            <p class="color-pink">FARE TYPE: <span class="color-white">REFUNDABLE</span></p>
+                            <p class="color-pink">CANCELLATION: <span class="color-white">$78 / PERSON</span></p>
+                            <p class="color-pink">FLIGHT CHANGE: <span class="color-white">$53 / PERSON</span></p>
+                            <p class="color-pink">SEATS & BAGGAGE: <span class="color-white">EXTRA CHARGE</span></p>
+                            <p class="color-pink">INFLIGHT FEATURES: <span class="color-white">AVAILABLE</span></p>
+                        </div>
+                        <div class="details-btn">
+                          <a href="#" class="c-button b-40 bg-tr-1 hv-white"><span>view on map</span></a>
+                          <a href="#" class="c-button b-40 bg-white hv-transparent"><span>book now</span></a>
+                        </div>
+                    </div>
 
                     <!-- TOURS POPULARES-->    
                     <div class="popular-tours bg-grey-2">
@@ -454,8 +429,7 @@
                 </div>            
             </div>
         </div>
-        
-        <!-- contacto --> 
+        <!-- CONTACTO -->     
         <div class="row" style="margin-top: -100px;">
             <div class="row">
                 <div class="col-xs-12 col-sm-8 col-sm-offset-2">
@@ -464,9 +438,9 @@
                     </div>
                 </div>
             </div>
-        @include('public.en.contact.contactForm')
-        </div> 
-        <!-- fin contacto-->
+            @include('public.en.contact.contactForm')
+        </div>
+        <!--FIN CONTACTO-->
         <!-- TOURS RELACIONADOS -->
         <div class="may-interested padd-90">
             <div class="row">
@@ -574,4 +548,3 @@
 @include('public.en.contact.contactScrip')
 
 @endsection
-
