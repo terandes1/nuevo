@@ -5109,7 +5109,7 @@ border-color: transparent transparent #222222 transparent; position: absolute; t
 .header-style-2 .drop-list.act {color: #FFF;}
 .header-style-2 nav .dropmenu .dropmenu {background: #222;}
 .header-style-2 nav li.type-3 .dropmenu > li:hover > a {background: #F60; color: #fff;}
-.header-style-2 nav li.type-1 .dropmenu > li:hover > a {background: #F60; color: #fff;}
+.header-style-2 nav li.type-1 .dropmenu > li:hover > a {background: #F60; color: #336d39;}
 .header-style-2 nav li.type-4 .dropmenu > li:hover > a {background: #F60; color: #fff;}
 .header-style-2 nav li.type-3 .dropmenu a:hover {background: #F60; color: #fff;}
 .header-style-2 .nav-menu-icon {position: absolute; right: 0px;}
@@ -5801,11 +5801,11 @@ body[data-color="theme-1"] .baner-bar .ui-slider .ui-slider-handle {background: 
 body[data-color="theme-1"] .header-style-2 nav > ul > li.active > a {background: #ff6600;}
 body[data-color="theme-1"] .header-style-2 {border-bottom: 2px solid #ff6600;}
 body[data-color="theme-1"] .header-style-2 nav li.type-4 .dropmenu > li:hover > a {background: #ff6600;}
-body[data-color="theme-1"] .header-style-2 nav li.type-1 .dropmenu > li:hover > a {background: #ff6600;}
+body[data-color="theme-1"] .header-style-2 nav li.type-1 .dropmenu > li:hover > a {background: #336d39;}
 body[data-color="theme-1"] .header-style-2 nav li.type-2 .dropmenu a:hover {background: #ff6600;}
 body[data-color="theme-1"] .header-style-2 nav li.type-3 .dropmenu a:hover {background: #ff6600;}
 body[data-color="theme-1"] .header-style-2 .drop span a:hover {background: #ff6600;}
-body[data-color="theme-1"] .menu-3 nav > ul > li:hover {border-top: 3px solid #ff6600;}
+body[data-color="theme-1"] .menu-3 nav > ul > li:hover {border-top: 3px solid #336d39;}
 body[data-color="theme-1"] .footer-form input[type="submit"].bg-aqua {border: 1px solid #ff6600;} 
 body[data-color="theme-1"] .popular-desc .c-button:hover {color: #ff6600;}
 body[data-color="theme-1"] .color-aqua {color: #ff6600;}
@@ -5816,7 +5816,7 @@ body[data-color="theme-1"] .popular-img:hover a {color: #ff6600;}
 body[data-color="theme-1"] .link-aqua:hover {color: #ff6600;}
 body[data-color="theme-1"] .low-price {background: #ff6600;}
 body[data-color="theme-1"] .c-button.hv-aqua-o:hover {color:#ff6600;}
-body[data-color="theme-1"] header.color-1 nav > ul > li:hover > a {color: #ff6600;} 
+body[data-color="theme-1"] header.color-1 nav > ul > li:hover > a {color: #336d39;} 
 body[data-color="theme-1"] .dtpicker-header .dtpicker-value {color:  #ff6600;}
 body[data-color="theme-1"] .dtpicker-header .dtpicker-close {color: #ff6600;}
 body[data-color="theme-1"] .sw-arrow:hover {border:2px solid #ff6600;}

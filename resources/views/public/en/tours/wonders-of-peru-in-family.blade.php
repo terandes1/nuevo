@@ -3,7 +3,7 @@
 @section('content')
 <div class="inner-banner style-6">
     <img class="center-image" src="/assets/public/img/detail/bg_4.jpg" alt="">
-    <div class="vertical-align">
+    <div class="vertical-align" style="padding-top: 50px;">
         <div class="container">
             <div class="row" style="text-align: center;">
                 <div class="col-xs-12 col-md-8 col-md-offset-2">
@@ -13,7 +13,7 @@
                        <li><a class="link-blue-2" href="#">flights</a> /</li>
                        <li><span>detail</span></li>
                     </ul> -->
-                    <h2 class="color-white" style="text-shadow: black 0.1em 0.1em 0.2em ">Wonders of Peru in family</h2>
+                    <h2 class="color-white" style="margin-bottom: 0px;text-shadow: black 0.1em 0.1em 0.2em ">Wonders of Peru in family</h2>
                     <div class="col-xs-12 col-md-6 col-md-offset-4">
                     <div class="detail-rate rate-wrap clearfix">
                         <div class="rate">
@@ -23,7 +23,7 @@
                         <span class="fa fa-star color-yellow"></span>
                         <span class="fa fa-star color-yellow"></span>
                         </div>
-                    <i>485 Rewies</i> 
+                    <i><strong>485 Rewies</strong> </i> 
                     </div>
                     </div>
                 </div>

@@ -23,7 +23,7 @@
 		    </div>
    	  	 	<nav class="menu">
 			  	<ul>
-					<li class="type-1 active">
+					<li class="type-1 ">
 						<a href="/">Inicio<span class="fa fa-angle-down"></span></a>
 					</li>
 					<li class="type-1"><a href="/#tours">Tours<span class="fa fa-angle-down"></span></a>

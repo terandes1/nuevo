@@ -3,11 +3,11 @@
 @section('content')
 <div class="inner-banner style-6">
     <img class="center-image" src="/assets/public/img/detail/bg_4.jpg" alt="">
-    <div class="vertical-align">
+    <div class="vertical-align" style="padding-top: 50px;">
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 col-md-8 col-md-offset-2">                       
-                    <h2 class="color-white"  style="text-shadow: black 0.1em 0.1em 0.2em ">JEWELS OF THE SOUTH - BELMOND TRENES</h2>
+                    <h2 class="color-white"  style="margin-bottom: 0px;text-shadow: black 0.1em 0.1em 0.2em ">JEWELS OF THE SOUTH - BELMOND TRENES</h2>
                     <div class="col-xs-12 col-md-6 col-md-offset-4">
                     <div class="detail-rate rate-wrap clearfix">
                             <div class="rate">
