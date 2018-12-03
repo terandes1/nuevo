@@ -26,6 +26,7 @@
                                               "</div> ";
                                      $("#mensajeRespuesta").append(html1);
                                      $("#nuevaCarga").css("display", "none");
+                                    window.setTimeout('location.reload()', 3000);
                             },
                              error:function(data){
                                 var errors = data.responseJSON.errors;
