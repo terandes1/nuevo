@@ -29,19 +29,21 @@
                         <div class="col-xs-12">
                             <textarea class="area-style-1 color-1" required="" id="mensaje" name='mensaje' placeholder="Enter your comment"></textarea>
                                  <h5 id="mensajeErrors" style="color: #F27612;position: absolute;    margin-top: -36px;"><h5>
-                                <div class="col-xs-6 col-sm-6">
-                                    <div class="col-xs-2 col-sm-6" >
+                               
+                        </div>
+                        <div class="col-xs-4" >
+                            
                                     
-
-                                   </div> 
-                                    <div class="col-xs-2 col-sm-6" style="margin-top: -10px;" >
+                                    
+                        </div>
+                        <div class="col-xs-8" >
+                            
+                                    
                                       {!! NoCaptcha::renderJs() !!}
                                       {!! NoCaptcha::display() !!}
 
-                                   </div> 
                                     <h5 id="capchaErrors" style="color: #F27612;position: absolute;"><h5>
 
-                                </div> 
                                
                         </div>
                         <div class="col-xs-6 col-sm-6">
