@@ -7,9 +7,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 col-md-8 col-md-offset-2" >
-                    
+
                     <h2 class="color-white" style="margin-bottom: 0px;text-shadow: black 0.1em 0.1em 0.2em ">HIKING THROUGH THE ANDES MOUNTAINS TO MACHUPICCHU </h2>
-                    <div class="col-xs-12 col-md-6 col-md-offset-4">
+                    <div class="col-xs-12 col-md-6 col-md-offset-5">
                         <div class="detail-rate rate-wrap clearfix">
                             <div class="rate">
                             <span class="fa fa-star color-yellow"></span>
@@ -18,7 +18,7 @@
                             <span class="fa fa-star color-yellow"></span>
                             <span class="fa fa-star color-yellow"></span>
                             </div>
-                    
+
                         </div>
                     </div>
                 </div>
@@ -40,7 +40,7 @@
                     </p>
                     <div id="bloque-desplegable" class="collapse">
                          <p style="text-align: justify;">
-                             Discover the city of Kings, Lima, accompanied by our guide who will give you insights about the capital and its beautiful treasures, moving from its fascinating past towards the flourishing present. Fly through the Andes to Cusco and discover the most beautiful sites of the Sacred Valley. Enjoy a unique hike of six days through the spectacular valleys near the Salkantay Mountain to Machu Picchu, marvel your senses with the amazing natural scenery that will surround you and once you reach the lost citadel, explore and admire it with plenty of time. In Cusco, stroll around its colonial streets combined with incredible Inca constructions and let the city fascinate you. 
+                             Discover the city of Kings, Lima, accompanied by our guide who will give you insights about the capital and its beautiful treasures, moving from its fascinating past towards the flourishing present. Fly through the Andes to Cusco and discover the most beautiful sites of the Sacred Valley. Enjoy a unique hike of six days through the spectacular valleys near the Salkantay Mountain to Machu Picchu, marvel your senses with the amazing natural scenery that will surround you and once you reach the lost citadel, explore and admire it with plenty of time. In Cusco, stroll around its colonial streets combined with incredible Inca constructions and let the city fascinate you.
                             This program can be customized according to your interests, needs and travel style. Please, feel free to contact us and personalize your holiday.
                          </p>
                     </div>
@@ -48,15 +48,15 @@
                      <button  data-toggle="collapse" class="c-button b-40 bg-red-3 hv-red-3-o"  href="#bloque-desplegable"> READ MORE</button>
                 </div>
                 <div class="col-xs-12 col-sm-4">
-                
-                <!-- TELEFONO Y CORREO -->    
-                
+
+                <!-- TELEFONO Y CORREO -->
+
                     <div class="help-contact bg-grey-2">
                         <a class="help-phone color-dark-2 link-dr-blue" href="tel:5184247277"><img src="/assets/public/img/detail/phone24-dark.png" alt="">51 84 247277</a>
                         <a class="help-mail color-dark-2 link-dr-blue" href="mailto:terandes@terandes.com"><img src="/assets/public/img/detail/letter-dark.png" alt="">terandes@terandes.com</a>
-                    </div> 
+                    </div>
 
-                    
+
                 </div>
             </div>
         </div>
@@ -76,7 +76,7 @@
                                     <img class="img-responsive img-full" src="/assets/public/img/tour/hiking-through-the-andes-mountains/3.jpg" alt="">
                                 </div>
                                 <div class="swiper-slide" data-val="3">
-                                    <img class="img-responsive img-full" src="/assets/public/img/tour/hiking-through-the-andes-mountains/4.jpg" alt="">     
+                                    <img class="img-responsive img-full" src="/assets/public/img/tour/hiking-through-the-andes-mountains/4.jpg" alt="">
                                 </div>
                                 <div class="swiper-slide" data-val="4">
                                     <img class="img-responsive img-full" src="/assets/public/img/tour/hiking-through-the-andes-mountains/5.jpg" alt="">
@@ -88,7 +88,7 @@
                                 <div class="swiper-arrow-right sw-arrow"><span class="fa fa-angle-right"></span></div>
                             </div>
                         </div>
-                        <div class="swiper-container thumbnails" data-autoplay="0" data-loop="0" data-speed="500" data-slides-per-view="responsive" data-xs-slides="3" data-sm-slides="5" data-md-slides="5" data-lg-slides="5" 
+                        <div class="swiper-container thumbnails" data-autoplay="0" data-loop="0" data-speed="500" data-slides-per-view="responsive" data-xs-slides="3" data-sm-slides="5" data-md-slides="5" data-lg-slides="5"
                   data-add-slides="5">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide current active" data-val="0">
@@ -109,8 +109,8 @@
                             </div>
                             <div class="pagination hidden"></div>
                         </div>
-                    </div>  
-                </div> 
+                    </div>
+                </div>
                 <div class="detail-content-block">
                     <h3 style="padding: 15px">Itinerary </h3>
                     <div class="simple-tab color-1 tab-wrapper">
@@ -133,10 +133,10 @@
                                             <div class="acc-body">
                                                 <p style="text-align: justify; color: black">
                                                 After enjoying breakfast in your hotel, you will have the morning at leisure; you can either enjoy all the comforts of your hotel or explore the vibrant downtown of Miraflores.
-                                                By noon, we will pick you up from your hotel to take you to Pueblo Libre neighborhood, home for the Larco Herrera Museum. On your arrival to this site, first, you will enjoy a delicious lunch right on the vine-covered terrace of the Museum’s café, after lunch, you are going start exploring the exhibit accompanied by your guide. This is a fascinating place houses the country’s largest and most representative collection of pre-Columbian artifacts (including extensive gold and silver collections, and a very special and peculiar collection of erotic ceramics), here you are going to have a unique open access to their exquisitely catalogued storage area; this museum is the perfect introduction to Peru’s multi-faceted cultural history. 
+                                                By noon, we will pick you up from your hotel to take you to Pueblo Libre neighborhood, home for the Larco Herrera Museum. On your arrival to this site, first, you will enjoy a delicious lunch right on the vine-covered terrace of the Museum’s café, after lunch, you are going start exploring the exhibit accompanied by your guide. This is a fascinating place houses the country’s largest and most representative collection of pre-Columbian artifacts (including extensive gold and silver collections, and a very special and peculiar collection of erotic ceramics), here you are going to have a unique open access to their exquisitely catalogued storage area; this museum is the perfect introduction to Peru’s multi-faceted cultural history.
                                                 We will continue the tour driving to the heart of Peru’s “City of Kings”. Here you are going to see the Plaza Mayor; the square shows beautiful examples of colonial and republican architecture in the surrounding houses. You will see the Government’s palace from the outside and you will visit the Cathedral of Lima. You will continue your tour heading to the Convent of San Francisco; this religious building is interesting because subterranean catacombs are one of the main attractions. We are going to finish the tour visiting the Casa Aliaga, which is the oldest western hemisphere’s mansion; this historic house is still inhabited and under the property of the 17th generation of the Aliaga family.
                                                 At the end of the tour, we will take you back to your hotel; your guide will provide you some suggestions of places to see and dine within a walking distance from your hotel.
-                                                Overnight in Lima. 
+                                                Overnight in Lima.
                                                 </p>
                                             </div>
                                         </div>
@@ -144,9 +144,9 @@
                                             <div class="acc-title"><span class="acc-icon"></span>DAY 3. – Lima - Cusco – Transfer to the Sacred Valley</div>
                                             <div class="acc-body">
                                                 <p style="text-align: justify; color: black">
-                                                Flight to Cusco and transfer to the valley, en route visit to Awanakancha and Pisac 
+                                                Flight to Cusco and transfer to the valley, en route visit to Awanakancha and Pisac
                                                 Morning departure to the airport for your flight to Cusco, on your arrival our representative will meet you and transfer you to the sacred valley.
-                                                En route, you are going to visit the center of South American Camelids of Awanakancha and its Living Museum, where you can marvel yourself seeing weavers at work. They will be sharing the beauty of their textile tradition with you; there will be also a great opportunity to see and feed South American camelids such as llamas, alpacas, vicuñas and other species. Our journey will continue to Pisac where we will stop to visit its market. 
+                                                En route, you are going to visit the center of South American Camelids of Awanakancha and its Living Museum, where you can marvel yourself seeing weavers at work. They will be sharing the beauty of their textile tradition with you; there will be also a great opportunity to see and feed South American camelids such as llamas, alpacas, vicuñas and other species. Our journey will continue to Pisac where we will stop to visit its market.
                                                 The market shows its colorful textiles, all kinds of dyes, silverware, ceramics and its vast variety of fresh vegetables; it seems that this place holds something to please everyone.
                                                 After seeing the market we will head to your hotel where you will have lunch. The rest of the afternoon will be at leisure.
                                                 Overnight in the Sacred Valley.
@@ -173,7 +173,7 @@
                                                 Tour to the agricultural terraces of Moray and the saltpans of Maras.
                                                 After breakfast, we will drive towards the enigmatic Inca ruins at Moray. Once we reach the site, we will observe from the upper part, a set of circular terraces that look like an ancient amphitheater, though some experts believe they served as agricultural laboratories where the Incas could experiment with new farming techniques as well as a process of acclimatization of some plants. Of course, this is just one of the various theories, and even after many years of research and dozens of hypotheses, but still the true purpose of Moray remains as a mystery. This day, you are going to inspect the site yourself and have your own theories.
                                                 Depart from the intriguing Moray and continue to the small town of Maras, home of an old salt mine that dates from the Inca times. This place comprises thousands of milky pools, each set on its own terrace along the hillside, the saltpans are particularly surreal in appearance and incredibly photogenic. Members of the community own the pans and they have been passed down through the local families since pre-Inca times.
-                                                We will visit the town of Maras where we will enjoy some activities such as knitting in corn leaves, working on ceramics or visiting the hat maker. At the end of the day, we will drive you back to your hotel. 
+                                                We will visit the town of Maras where we will enjoy some activities such as knitting in corn leaves, working on ceramics or visiting the hat maker. At the end of the day, we will drive you back to your hotel.
                                                 Overnight in the Sacred Valley.
                                                 </p>
                                             </div>
@@ -195,12 +195,12 @@
                                             <div class="acc-title"><span class="acc-icon"></span>DAY 7. - Hike to Lake Humantay</div>
                                             <div class="acc-body">
                                                 <p style="text-align: justify; color: black">
-                                                Humantay Lake. 
+                                                Humantay Lake.
                                                 This day presents another opportunity to gauge your altitude-acclimatization with a half-day hike to Lake Humantay. After breakfast, you begin an ascent up the slopes that border the plateau behind the Salkantay Lodge. An hour and a half later, you will be stunned to see the turquoise water of the lake.
                                                 Here you will have a chance to relax, enjoy a snack, meditate in the tranquility of this magical spot and be part of a traditional offering to “Pachamama” (Mother Earth). After your descent back to the lodge, the staff will be waiting with a hot lunch. The second half of your day will be at leisure. You may opt to soak in our outdoor
                                                 Jacuzzi, indulge in a relaxing massage or even take a long nap.
 
-                                                Overnight in a lodge. 
+                                                Overnight in a lodge.
                                                 </p>
                                             </div>
                                         </div>
@@ -221,7 +221,7 @@
                                                 <p style="text-align: justify; color: black">
                                                 Hike along Salkantay River to Colpa lodge.
                                                 After breakfast at the Wayra Lodge, you will continue the descent along the banks of the Salkantay River through increasingly verdant scenery. Today you will see more of the local people as the trail takes you through their simple homes and makeshift fences.
-                                                At lunchtime, you will arrive at Colpa Lodge, located on a high promontory at the confluence of three rivers. The staff will greet you with a Pachamanca lunch, a traditional Peruvian meal cooked in the earth by using hot stones to create a natural underground oven. After lunch, spend the afternoon lounging in the sun or relaxing in the outdoor Jacuzzi while you take in the panoramic views of the lush green mountains that surround you. 
+                                                At lunchtime, you will arrive at Colpa Lodge, located on a high promontory at the confluence of three rivers. The staff will greet you with a Pachamanca lunch, a traditional Peruvian meal cooked in the earth by using hot stones to create a natural underground oven. After lunch, spend the afternoon lounging in the sun or relaxing in the outdoor Jacuzzi while you take in the panoramic views of the lush green mountains that surround you.
                                                 Overnight in a lodge.
                                                 </p>
                                             </div>
@@ -241,9 +241,9 @@
                                             <div class="acc-title"><span class="acc-icon"></span>DAY 11. - First view of Machu Picchu. </div>
                                             <div class="acc-body">
                                                 <p style="text-align: justify; color: black">
-                                                Hike along Aobamba River to Hidroelectrica and train to Aguas Calientes. 
+                                                Hike along Aobamba River to Hidroelectrica and train to Aguas Calientes.
                                                 This morning, after breakfast, we will start a hike for about two to three hours up a path mostly comprised of original Inca steps; you will get a sense of what hiking through the rainforest would be like. Your first milestone today will be the top of the peak, the last one before you reach the Aobamba River valley that connects you to Machu Picchu. When you arrive at the ruins of Llactapata that are located at the Llactapata Pass (2,736 m/8,974 ft.), you will be delighted by the views from the southeast of the “back” of the lost Inca citadel of Machu Picchu. Enjoy your lunch a bit farther down the trail in a meadow with panoramic views. The final descent takes you through lush bamboo forests, until you end the day’s hike at the hydroelectric train station. A one-hour scenic train ride delivers you to your final
-                                                Stop the town of Aguas Calientes at the base of Machu Picchu.   
+                                                Stop the town of Aguas Calientes at the base of Machu Picchu.
 
                                                 Overnight in Aguas Calientes.
                                                 </p>
@@ -253,10 +253,10 @@
                                             <div class="acc-title"><span class="acc-icon"></span>DAY 12. - Machu Picchu private guided tour.</div>
                                             <div class="acc-body">
                                                 <p style="text-align: justify; color: black">
-                                                Guided tour of the Inca citadel. 
+                                                Guided tour of the Inca citadel.
                                                 This morning, at dawn, we will take the bus to the Inca citadel. Prepare yourself to be surprised by the imposing and skillful architecture of the Watchtower, the Temple of the Sun, and the Royal Inca residences, among many others that you will see. Accompanied by your guide you will explore the site learning about the history of its construction, the architecture as well as some theories about the reasons of its abandonment. Your imagination will soar as you contemplate the history of Machu Picchu and its mysterious origins.
                                                 At the end of the tour, we will enjoy lunch at the Belmond Sanctuary Lodge.
-                                                After lunch, we will take the bus back to Aguas Calientes. 
+                                                After lunch, we will take the bus back to Aguas Calientes.
                                                 Overnight in Aguas Calientes.
                                                 </p>
                                             </div>
@@ -268,7 +268,7 @@
                                                 Second day of guided visit to the site
                                                 On this second day of visit, we will have some options to offer, you may take a light tour of the site with time to enjoy the views and scenery or if you prefer, you may choose a hike to Huayna Picchu, the iconic towering mountain often seen in photographs. After the visit, we will take the bus back to Aguas Calientes where we will have lunch. In the afternoon, we will board the train to Cusco.
                                                 On your arrival to the train station, our representative will meet you for your transfer back to Cusco.
-                                                Overnight in Cusco  
+                                                Overnight in Cusco
                                                 </p>
                                             </div>
                                         </div>
@@ -290,16 +290,16 @@
                                             <div class="acc-body">
                                                 <p style="text-align: justify; color: black">
                                                 Flight from Cusco to Lima.
-                                                At a scheduled time, our representative will meet you in your hotel for your transfer to the airport. 
+                                                At a scheduled time, our representative will meet you in your hotel for your transfer to the airport.
                                                 </p>
                                             </div>
                                         </div>
-                                    </div>                      
-                                </div> 
+                                    </div>
+                                </div>
                             </div>
                         </div>
-                    </div>            
-                </div>                  
+                    </div>
+                </div>
           </div>
             <!--RIGHT SIDEBAR-->
             <div class="col-xs-12 col-md-4">
@@ -308,24 +308,23 @@
                     <div class="detail-block bg-dr-blue">
                         <h4 class="color-white">details</h4>
                         <div class="details-desc">
-                            
-                            <p class="color-grey-9">price: <span class="color-white">$500 / person</span></p>
+
                             <p class="color-grey-9">location: <span class="color-white">Cusco, Peru</span></p>
-                            <p class="color-grey-9">days: <span class="color-white">15D/14N</span></p>
-                            
+                            <p class="color-grey-9">days: <span class="color-white">15D / 14N</span></p>
+
                         </div>
                         <div class="details-btn">
                             <a href="#contact" class="c-button b-40 bg-tr-1 hv-white"><span>book now</span></a>
                         </div>
                     </div>
-                    
+
                     <!-- TOURS POPULARES  -->
                     <div class="popular-tours bg-grey-2">
                         <h4 class="color-dark-2">popular tours</h4>
                         <div class="hotel-small style-2 clearfix">
                             <a class="hotel-img black-hover" href="/en/tour/jewels-of-cusco">
                             <img class="img-responsive radius-3" src="/assets/public/img/tour/jewels-of-cusco/1_1.jpg" alt="">
-                            <div class="tour-layer delay-1"></div>                    
+                            <div class="tour-layer delay-1"></div>
                             </a>
                             <div class="hotel-desc">
                                 <h5><span class="color-dark-2">from <strong>$273</strong></span></h5>
@@ -336,7 +335,7 @@
                         <div class="hotel-small style-2 clearfix">
                             <a class="hotel-img black-hover" href="/en/tour/jewels-of-the-south-belmond-trenes">
                             <img class="img-responsive radius-3" src="/assets/public/img/tour/jewels/1_1.jpg" alt="">
-                            <div class="tour-layer delay-1"></div>                    
+                            <div class="tour-layer delay-1"></div>
                             </a>
                             <div class="hotel-desc">
                                 <h5><span class="color-dark-2">from <strong>$273</strong></span></h5>
@@ -347,7 +346,7 @@
                         <div class="hotel-small style-2 clearfix">
                             <a class="hotel-img black-hover" href="/en/tour/relais-chateaux">
                             <img class="img-responsive radius-3" src="/assets/public/img/tour/relais-chateaux/1_1.jpg" alt="">
-                            <div class="tour-layer delay-1"></div>                    
+                            <div class="tour-layer delay-1"></div>
                             </a>
 
                             <div class="hotel-desc">
@@ -355,25 +354,25 @@
                                 <h4>Relais & Chateaux</h4>
                                 <div class="hotel-loc">Peru is a fantastic travel program to enjoy in fourteen days the best of the country</div>
                             </div>
-                        </div>  
+                        </div>
                         <div class="hotel-small style-2 clearfix">
                             <a class="hotel-img black-hover" href="/en/tour/through-the-flavors-of-peru">
                             <img class="img-responsive radius-3" src="/assets/public/img/tour/through-the-flavors-of-peru/1_1.jpg" alt="">
-                            <div class="tour-layer delay-1"></div>                    
+                            <div class="tour-layer delay-1"></div>
                             </a>
                             <div class="hotel-desc">
                                 <h5><span class="color-dark-2">from <strong>$273</strong></span></h5>
                                 <h4>through the flavors of peru</h4>
                                 <div class="hotel-loc">enjoy twelve days exploring a unique selection of places for those who would like to discover the flavors of the Peruvian cuisine</div>
                             </div>
-                        </div>                    
+                        </div>
                     </div>
                      <!--FIN TOURS POPULARES-->
-                </div>            
+                </div>
             </div>
         </div>
         <!-- CONTACTO -->
-            
+
         <div id="contact" class="row" style="margin-top: -100px;">
             <div class="row">
                 <div class="col-xs-12 col-sm-8 col-sm-offset-2">
@@ -405,12 +404,12 @@
                                     <span class="fa fa-star color-yellow"></span>
                                     <span class="fa fa-star color-yellow"></span>
                                 </div>
-                                <i>485 rewies</i> 
-                            </div>  
+                                <i>485 rewies</i>
+                            </div>
                             <p class="f-14" style="text-align:justify;">Jewels of Cusco offers you a set of must-see destinations. Discover the most beautiful sites, , explore and admire it with plenty of time</p>
                             <a href="/en/tour/jewels-of-cusco" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
                         </div>
-                    </div>            
+                    </div>
                 </div>
                 <div class="col-mob-12 col-xs-6 col-sm-6 col-md-3">
                     <div class="hotel-item">
@@ -428,12 +427,12 @@
                                     <span class="fa fa-star color-yellow"></span>
                                     <span class="fa fa-star color-yellow"></span>
                                 </div>
-                                <i>485 rewies</i> 
-                            </div>  
+                                <i>485 rewies</i>
+                            </div>
                             <p class="f-14" style="text-align:justify;">Enjoy fifteen days exploring a unique combination of natural settings for those who love adventure. </p>
                             <a href="/en/tour/multi-active-peru-ii-vinicunca" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
                         </div>
-                    </div>            
+                    </div>
                 </div>
                 <div class="col-mob-12 col-xs-6 col-sm-6 col-md-3">
                     <div class="hotel-item">
@@ -451,12 +450,12 @@
                                     <span class="fa fa-star color-yellow"></span>
                                     <span class="fa fa-star color-yellow"></span>
                                 </div>
-                                <i>485 rewies</i> 
-                            </div>  
+                                <i>485 rewies</i>
+                            </div>
                             <p class="f-14" style="text-align:justify;">Peru is a fantastic travel program to enjoy in fourteen days the best of the country</p>
                             <a href="/en/tour/relais-chateaux" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
                         </div>
-                    </div>            
+                    </div>
                 </div>
                 <div class="col-mob-12 col-xs-6 col-sm-6 col-md-3">
                     <div class="hotel-item">
@@ -474,13 +473,13 @@
                                     <span class="fa fa-star color-yellow"></span>
                                     <span class="fa fa-star color-yellow"></span>
                                 </div>
-                                <i>485 rewies</i> 
-                            </div>  
+                                <i>485 rewies</i>
+                            </div>
                             <p class="f-14" style="text-align:justify;">Enjoy exploring a unique selection of places for those who would like to discover the flavors of the Peruvian cuisine</p>
                             <a href="/en/tour/through-the-flavors-of-peru" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
                         </div>
-                    </div>          
-                </div>                                
+                    </div>
+                </div>
             </div>
         </div>
         <!-- FIN DE TOURS RELACIONADOS  -->

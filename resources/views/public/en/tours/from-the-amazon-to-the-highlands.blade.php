@@ -35,19 +35,18 @@
                         <span class="fa fa-star color-yellow"></span>
                         <span class="fa fa-star color-yellow"></span>
                         </div>
-                  
                    </div>
                    <p style="text-align: justify;">
-                    From the Amazon to the Highlands is an ideal travel program to enjoy twelve days exploring a unique combination of natural and cultural settings, moving from the coast to the highlands and the Amazon Jungle. Discover the most beautiful places in Lima, Iquitos, Cusco, the Sacred Valley and Machu Picchu, staying at the best accommodations with a unique sense of style and distinction. Discover the city of Kings, Lima, accompanied by our guide who will give you insights about the capital and its secrets, moving from its fascinating past towards the present. Fly to Iquitos and its incredible flora and fauna. Fly through the Andes to Cusco and discover the most beautiful sites of the Sacred Valley. Enjoy the comfort of a train ride to Machu Picchu, marvel your senses with the amazing natural scenery that will surround you and once you reach the lost citadel, explore and admire it with plenty of time. In Cusco, stroll around its colonial streets combined with incredible Inca constructions and let the city fascinate you. 
+                    From the Amazon to the Highlands is an ideal travel program to enjoy twelve days exploring a unique combination of natural and cultural settings, moving from the coast to the highlands and the Amazon Jungle. Discover the most beautiful places in Lima, Iquitos, Cusco, the Sacred Valley and Machu Picchu, staying at the best accommodations with a unique sense of style and distinction. Discover the city of Kings, Lima, accompanied by our guide who will give you insights about the capital and its secrets, moving from its fascinating past towards the present. Fly to Iquitos and its incredible flora and fauna. Fly through the Andes to Cusco and discover the most beautiful sites of the Sacred Valley. Enjoy the comfort of a train ride to Machu Picchu, marvel your senses with the amazing natural scenery that will surround you and once you reach the lost citadel, explore and admire it with plenty of time. In Cusco, stroll around its colonial streets combined with incredible Inca constructions and let the city fascinate you.
                     This program can be customized according to your interests, needs and travel style. Please, feel free to contact us and personalize your holiday.
                     </p>
                 </div>
-                <!-- TELEFONO Y CORREO -->    
+                <!-- TELEFONO Y CORREO -->
                 <div class="col-xs-12 col-sm-4">
                     <div class="help-contact bg-grey-2">
                         <a class="help-phone color-dark-2 link-dr-blue" href="tel:5184247277"><img src="/assets/public/img/detail/phone24-dark.png" alt="">51 84 247277</a>
                         <a class="help-mail color-dark-2 link-dr-blue" href="mailto:terandes@terandes.com"><img src="/assets/public/img/detail/letter-dark.png" alt="">terandes@terandes.com</a>
-                    </div> 
+                    </div>
                 </div>
             </div>
         </div>
@@ -67,13 +66,13 @@
                                     <img class="img-responsive img-full" src="/assets/public/img/tour/from-the-amazon-to-the-highlands/3.jpg" alt="">
                                 </div>
                                 <div class="swiper-slide" data-val="3">
-                                    <img class="img-responsive img-full" src="/assets/public/img/tour/from-the-amazon-to-the-highlands/4.jpg" alt="">     
+                                    <img class="img-responsive img-full" src="/assets/public/img/tour/from-the-amazon-to-the-highlands/4.jpg" alt="">
                                 </div>
                                 <div class="swiper-slide" data-val="4">
-                                    <img class="img-responsive img-full" src="/assets/public/img/tour/from-the-amazon-to-the-highlands/5.jpg" alt="">            
+                                    <img class="img-responsive img-full" src="/assets/public/img/tour/from-the-amazon-to-the-highlands/5.jpg" alt="">
                                 </div>
                                 <div class="swiper-slide" data-val="5">
-                                    <img class="img-responsive img-full" src="/assets/public/img/tour/from-the-amazon-to-the-highlands/6.jpg" alt="">            
+                                    <img class="img-responsive img-full" src="/assets/public/img/tour/from-the-amazon-to-the-highlands/6.jpg" alt="">
                                 </div>
                             </div>
                             <div class="pagination pagination-hidden poin-style-1"></div>
@@ -82,7 +81,7 @@
                                 <div class="swiper-arrow-right sw-arrow"><span class="fa fa-angle-right"></span></div>
                             </div>
                         </div>
-                        <div class="swiper-container thumbnails" data-autoplay="0" data-loop="0" data-speed="500" data-slides-per-view="responsive" data-xs-slides="3" data-sm-slides="5" data-md-slides="5" data-lg-slides="5" 
+                        <div class="swiper-container thumbnails" data-autoplay="0" data-loop="0" data-speed="500" data-slides-per-view="responsive" data-xs-slides="3" data-sm-slides="5" data-md-slides="5" data-lg-slides="5"
                   data-add-slides="5">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide current active" data-val="0">
@@ -106,8 +105,8 @@
                             </div>
                             <div class="pagination hidden"></div>
                         </div>
-                    </div>  
-                </div> 
+                    </div>
+                </div>
                 <div class="detail-content-block">
                     <div class="simple-tab color-1 tab-wrapper">
                         <div class="tab-nav-wrapper">
@@ -126,7 +125,7 @@
                                 </div>
                                 <div class="nav-tab-item">
                                     Write a Review
-                                </div>                          
+                                </div>
                             </div>
                         </div>
                         <div class="tabs-content clearfix">
@@ -164,7 +163,7 @@
                                                 On your arrival, our representative will meet you and assist with the transfer to Nauta, as we begin the journey, we will offer you a Box Lunch.
                                                 Nauta is a small riverside town on the banks of the Marañon River and was the first city founded in the department of Loreto. Once we reach Nauta, you will enjoy a VIP greeting at our private port along the shores of the Marañon River where the vessel awaits you.
                                                 Once on board you will be assisted by our qualified staff who will introduce you to your exquisite and cozy suite, specially equipped with all the amenities for the experienced traveler as yourself.
-                                                While the Delfin begins its initial navigation, you will enjoy the most fantastic panoramic views from the elegantly outfitted observation area located on our third deck. Our bartender will be waiting to serve you with an exotic cocktail made with regional fruits and Pisco, the beloved national brandy liquor of Peru. Then, your naturalist guide will give you an overview of your journey’s schedule, activities, route, highlights, wildlife and vegetation to keep your eye out for, geographical and historical background, and other useful details. 
+                                                While the Delfin begins its initial navigation, you will enjoy the most fantastic panoramic views from the elegantly outfitted observation area located on our third deck. Our bartender will be waiting to serve you with an exotic cocktail made with regional fruits and Pisco, the beloved national brandy liquor of Peru. Then, your naturalist guide will give you an overview of your journey’s schedule, activities, route, highlights, wildlife and vegetation to keep your eye out for, geographical and historical background, and other useful details.
                                                 </p>
                                             </div>
                                         </div>
@@ -184,7 +183,7 @@
                                                 <p style="text-align: justify; color: black">
                                                 Samiria River and Nauta Caño.
                                                 Our skiffs skim the Samiria River and its tributaries, where an abundance of wildlife hides in the deep rainforest, such as blue and yellow macaws, scarlet macaws, toucans, umbrella birds,    monkeys, and river others, capybaras and more. Our naturalists and his expert eye pinpoint all the biodiversity of this region. This is also a popular dolphin feeding spot so we won´t be the only one enjoying the plethora of fish below.
-                                                After a delicious lunch, we will visit Nauta Caño Creek. Also, go fishing for the famous piranha, a delightful and challenging experience you will not forget! As night approaches, your guide will take you on a night safari in search of caiman alligators and night birds. 
+                                                After a delicious lunch, we will visit Nauta Caño Creek. Also, go fishing for the famous piranha, a delightful and challenging experience you will not forget! As night approaches, your guide will take you on a night safari in search of caiman alligators and night birds.
                                                 </p>
                                             </div>
                                         </div>
@@ -197,7 +196,7 @@
                                                 On our way from Nauta back to Iquitos airport, you will visit the Rescue & Rehabilitation Center of River Mammals (ACOBIA) where you will have the chance to meet baby manatees and learn about these wonderful and docile creatures and why they are on the endangered species list. As well, there are also some other animals cared for by the center that have been rescued from capture for the intention of being turned into pets and other threatening conditions. We would like to invite you to contribute to this ambitious organization and education center as you wish. Our land personnel will wait for you at the airport to handle you your boarding passes, and help you with the check in procedure.
                                                 Our staff will be on hand to help you with your luggage and check in at Colonel. FAP Francisco Secada Vignetta International Airport in Iquitos. The flight will take you to Cusco, either directly or via Lima. At the security gate, your guide and cruise crew will say goodbye. We truly hope that you enjoyed your stay and Amazon travel experience with us!
                                                 On your arrival in Cusco, our representative will be waiting for you to help you and assist you at the airport. Before we head towards the Sacred Valley, we will take you to a restaurant in the downtown of Cusco to get something to eat.
-                                                After lunch, we will transfer you to your hotel in the sacred valley, along the way you will enjoy the views of the beautiful snowcapped mountains and the landscapes that the valley offers. 
+                                                After lunch, we will transfer you to your hotel in the sacred valley, along the way you will enjoy the views of the beautiful snowcapped mountains and the landscapes that the valley offers.
                                                 Overnight in the Sacred Valley.
                                                 </p>
                                             </div>
@@ -248,7 +247,7 @@
                                                 Second day to visit the citadel and taking time for pictures of the beautiful scenery.
                                                 In the afternoon, we will board our chartered bus back to Aguas Calientes where we will board the train to Cusco.
                                                 On your arrival to the train station, our presentative will meet you and assist you with the transfer to the hotel.
-                                                Overnight in Cusco.  
+                                                Overnight in Cusco.
                                                 </p>
                                             </div>
                                         </div>
@@ -274,10 +273,10 @@
                                                 </p>
                                             </div>
                                         </div>
-                                    </div>                      
-                                </div> 
+                                    </div>
+                                </div>
                             </div>
-                            <div class="tab-info"> 
+                            <div class="tab-info">
                                 <h3>General Information About tour</h3>
                                 <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque ac turpis egestas, varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
                                 <ul>
@@ -285,26 +284,26 @@
                                     <li>Hot offers according your settings</li>
                                     <li>Multi-product search</li>
                                     <li>Opportunity to share with friends</li>
-                                </ul>                                 
+                                </ul>
                                 <h4>interesting for you</h4>
                                 <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus.</p>
                                 <h3>you need to know</h3>
-                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>  
+                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                             </div>
                             <div class="tab-info">
                                 <h3>you need to know</h3>
                                 <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                                 <h3>General Information About tour</h3>
-                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque ac turpis egestas, varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p> 
+                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque ac turpis egestas, varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
                                 <img class="right-img" src="/assets/public/img/detail/tab_img.jpg" alt="">
                                 <h4>interesting for you</h4>
-                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus.</p>   
+                                <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus.</p>
                                 <ul>
                                     <li>Shopping history</li>
                                     <li>Hot offers according your settings</li>
                                     <li>Multi-product search</li>
                                     <li>Opportunity to share with friends</li>
-                                </ul>                     
+                                </ul>
                             </div>
                             <div class="tab-info">
                                 <img class="right-img" src="img/detail/tab_img.jpg" alt="">
@@ -334,10 +333,10 @@
                                 </ul>
                                 <h3>you need to know</h3>
                                 <p>Pellentesque ac turpis egestas, varius justo et, condimentum augue. Praesent aliquam, nisl feugiat vehicula condimentum, justo tellus scelerisque metus. Pellentesque varius justo et, condimentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                            </div>     
+                            </div>
                         </div>
-                    </div>            
-                </div>                  
+                    </div>
+                </div>
           </div>
             <!--RIGHT SIDEBAR-->
             <div class="col-xs-12 col-md-4">
@@ -363,13 +362,13 @@
                         </div>
                     </div>
 
-                    <!-- TOURS POPULARES-->    
+                    <!-- TOURS POPULARES-->
                     <div class="popular-tours bg-grey-2">
                         <h4 class="color-dark-2">popular tours</h4>
                         <div class="hotel-small style-2 clearfix">
                             <a class="hotel-img black-hover" href="#">
                             <img class="img-responsive radius-3" src="/assets/public/img/detail/hotel_small_1.jpg" alt="">
-                            <div class="tour-layer delay-1"></div>                    
+                            <div class="tour-layer delay-1"></div>
                             </a>
                             <div class="hotel-desc">
                                 <h5><span class="color-dark-2">from <strong>$273</strong></span></h5>
@@ -380,7 +379,7 @@
                         <div class="hotel-small style-2 clearfix">
                             <a class="hotel-img black-hover" href="#">
                             <img class="img-responsive radius-3" src="/assets/public/img/detail/hotel_small_2.jpg" alt="">
-                            <div class="tour-layer delay-1"></div>                    
+                            <div class="tour-layer delay-1"></div>
                             </a>
                             <div class="hotel-desc">
                                 <h5><span class="color-dark-2">from <strong>$273</strong></span></h5>
@@ -391,19 +390,19 @@
                         <div class="hotel-small style-2 clearfix">
                             <a class="hotel-img black-hover" href="#">
                             <img class="img-responsive radius-3" src="/assets/public/img/detail/hotel_small_3.jpg" alt="">
-                            <div class="tour-layer delay-1"></div>                    
+                            <div class="tour-layer delay-1"></div>
                             </a>
                             <div class="hotel-desc">
                                 <h5><span class="color-dark-2">from <strong>$273</strong></span></h5>
                                 <h4>bristol Hotel</h4>
                                 <div class="hotel-loc">2 Place de la Sans Défense, Puteaux, Paris, France.</div>
                             </div>
-                        </div>                      
+                        </div>
                     </div>
-                </div>            
+                </div>
             </div>
         </div>
-        <!-- CONTACTO -->     
+        <!-- CONTACTO -->
         <div class="row" style="margin-top: -100px;">
             <div class="row">
                 <div class="col-xs-12 col-sm-8 col-sm-offset-2">
@@ -435,12 +434,12 @@
                                     <span class="fa fa-star color-yellow"></span>
                                     <span class="fa fa-star color-yellow"></span>
                                 </div>
-                                <i>485 rewies</i> 
-                            </div>  
+                                <i>485 rewies</i>
+                            </div>
                             <p class="f-14" style="text-align:justify;">Jewels of Cusco offers you a set of must-see destinations. Discover the most beautiful sites, , explore and admire it with plenty of time</p>
                             <a href="/en/tour/jewels-of-cusco" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
                         </div>
-                    </div>            
+                    </div>
                 </div>
                 <div class="col-mob-12 col-xs-6 col-sm-6 col-md-3">
                     <div class="hotel-item">
@@ -458,12 +457,12 @@
                                     <span class="fa fa-star color-yellow"></span>
                                     <span class="fa fa-star color-yellow"></span>
                                 </div>
-                                <i>485 rewies</i> 
-                            </div>  
+                                <i>485 rewies</i>
+                            </div>
                             <p class="f-14" style="text-align:justify;">Enjoy fifteen days exploring a unique combination of natural settings for those who love adventure. </p>
                             <a href="/en/tour/multi-active-peru-ii-vinicunca" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
                         </div>
-                    </div>            
+                    </div>
                 </div>
                 <div class="col-mob-12 col-xs-6 col-sm-6 col-md-3">
                     <div class="hotel-item">
@@ -481,12 +480,12 @@
                                     <span class="fa fa-star color-yellow"></span>
                                     <span class="fa fa-star color-yellow"></span>
                                 </div>
-                                <i>485 rewies</i> 
-                            </div>  
+                                <i>485 rewies</i>
+                            </div>
                             <p class="f-14" style="text-align:justify;">Peru is a fantastic travel program to enjoy in fourteen days the best of the country</p>
                             <a href="/en/tour/relais-chateaux" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
                         </div>
-                    </div>            
+                    </div>
                 </div>
                 <div class="col-mob-12 col-xs-6 col-sm-6 col-md-3">
                     <div class="hotel-item">
@@ -504,13 +503,13 @@
                                     <span class="fa fa-star color-yellow"></span>
                                     <span class="fa fa-star color-yellow"></span>
                                 </div>
-                                <i>485 rewies</i> 
-                            </div>  
+                                <i>485 rewies</i>
+                            </div>
                             <p class="f-14" style="text-align:justify;">Enjoy exploring a unique selection of places for those who would like to discover the flavors of the Peruvian cuisine</p>
                             <a href="/en/tour/through-the-flavors-of-peru" class="c-button bg-dr-blue hv-dr-blue-o b-50 fl">select</a>
                         </div>
-                    </div>          
-                </div>                                
+                    </div>
+                </div>
             </div>
         </div>
         <!-- FIN DE TOURS RELACIONADOS  -->
