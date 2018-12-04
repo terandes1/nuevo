@@ -43,9 +43,9 @@
                 </div>    
                   <div class="pagination pagination-hidden poin-style-1"></div>
             </div>
-                  <div class="arrow-wrapp m-200">
+                  <div class="arrow-wrapp ">
                     <div class="cont-1170">
-                        <div class="swiper-arrow-left sw-arrow"><span class="fa fa-angle-left"></span></div>
+                        <div class="swiper-arrow-left sw-arrow"><span class="fa fa-angle-left" style="height: 30px"></span></div>
                         <div class="swiper-arrow-right sw-arrow"><span class="fa fa-angle-right"></span></div>
                     </div>
                   </div>
@@ -496,19 +496,21 @@
         </div>              
     </div>
     <div class="arrows bg-bluejeans">
-        <div class="swiper-container main-slider-7" data-autoplay="0" data-loop="1" data-speed="900" data-center="0" data-slides-per-view="1">
+       
+      
+         <div class="swiper-container main-slider-7" data-autoplay="0" data-loop="1" data-speed="900" data-center="0" data-slides-per-view="1">
             <div class="swiper-wrapper">
                 <div class="swiper-slide active" data-val="0">
                     <div class="sl-bg">
-                        <img class="center-image" src="assets/public/img/home_7/testimonals.jpg" alt="">
+                        <img class="center-image" src="assets/public/img/detail/testimonals.jpg" alt="">
                     </div>              
                     <div class="container">
                         <div class="row">
-                            <div class="col-xs-12 col-sm-6 col-md-5 col-md-offset-1">
+                            <div class="col-xs-12 col-sm-6 col-md-5 ">
                                 <div class="sl-testimonals">
                                     
                                     <h3 class="color-white underline">Tierras de los Andes Team</h3>
-                                    <p class="f-14 color-white">Tierras de los Andes is a tour operator with more than 20 years of experience in customer service, offering trips to discover Peru and South America, with high quality services that seek to meet the expectations of our visitors.
+                                    <p  class="f-14 color-white" style="text-align: justify;" >Tierras de los Andes is a tour operator with more than 20 years of experience in customer service, offering trips to discover Peru and South America, with high quality services that seek to meet the expectations of our visitors.
                                     Experience and enthusiasm to create and offer the most original trips to Peru. </p>
                                     
                                 </div>                          
@@ -520,12 +522,12 @@
             </div>    
             <div class="pagination pagination-hidden poin-style-1"></div>
                      
-        </div>
+        </div> 
     </div>      
 </div> 
 <!-- fin nosotros -->
   <!--contacto-->   
-<div class="main-wraper bg-grey-2 padd-90">
+<div class="main-wraper bg-grey-2 ">
     <div class="container" id="contacto">
             <div class="row">
                 <div class="col-xs-12 col-sm-8 col-sm-offset-2">

@@ -1127,7 +1127,7 @@ nav li.type-4 .dropmenu .fa-chevron-right { display: none; }
 
 .poin-style-1 .swiper-pagination-switch { position: relative; display: inline-block; width: 10px; height: 10px; -moz-border-radius: 50%; border-radius: 50%; border: 1px solid rgba(255, 255, 255, 0.6); margin: 0px 7px; cursor: pointer; transition: all 0.3s ease-in; -webkit-transition: all 0.3s ease-in; -moz-transition: all 0.3s ease-in; -o-transition: all 0.3s ease-in; -ms-transition: all 0.3s ease-in; }
 
-.poin-style-1 .swiper-pagination-switch.swiper-active-switch { -o-transform: scale(1.4); transform: scale(1.4); -webkit-transform: scale(1.4); -moz-transform: scale(1.4); -ms-transform: scale(1.4); border: 2px solid #fff; }
+.poin-style-1 .swiper-pagination-switch.swiper-active-switch { -o-transform: scale(1.4); transform: scale(1.4); -webkit-transform: scale(1.4); -moz-transform: scale(1.4); -ms-transform: scale(1.4); /*border: 2px solid #fff; */ z-index: -1;}
 
 .poin-style-2 { position: relative; margin-top: 25px; }
 
@@ -2945,7 +2945,7 @@ nav li.type-4 .dropmenu .fa-chevron-right { display: none; }
 
 .contact-info h4 { font-size: 18px; line-height: 22px; margin-bottom: 22px; }
 
-.contact-info .contact-line { font-family: 'Open Sans', sans-serif; font-size: 14px; line-height: 18px; font-weight: 700; margin-bottom: 33px; }
+.contact-info .contact-line { font-family: 'Open Sans', sans-serif; font-size: 14px; line-height: 18px; font-weight: 700; margin-bottom: 15px; }
 
 .contact-info .contact-line img { margin-right: 20px; vertical-align: middle; }
 
