@@ -573,6 +573,11 @@
             </div>
             <div class="swiper-slide text-center">
                 <div class="partner-entry">
+                    <a href="http://illapatransportes.com/" target="_blank" ><img class="img-responsive"  style="height: 60px;" src="assets/public/img/socios/illapaT.jpg" alt=""></a>
+                </div>          
+            </div>
+            <div class="swiper-slide text-center">
+                <div class="partner-entry">
                     <a href="https://www.patronatomachupicchu.org/"   target="_blank" ><img class="img-responsive"  style="height: 60px;" src="assets/public/img/socios/patronato.png" alt=""></a>
                 </div>          
             </div>
