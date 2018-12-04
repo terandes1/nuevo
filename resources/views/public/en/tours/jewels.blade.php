@@ -386,8 +386,8 @@
         <div id="contact" class="row" style="margin-top: -100px;">
             <div class="row">
                 <div class="col-xs-12 col-sm-8 col-sm-offset-2">
-                    <div class="second-title">
-                        <h4 class="subtitle color-blue-2 underline">contact</h4>
+                    <div class="second-title" style="margin-top: -100px">
+                        <h4 class="subtitle color-blue-2 underline" style="color: #402A01;">contact</h4>
                         <h2>get in touch</h2>
                     </div>
                 </div>

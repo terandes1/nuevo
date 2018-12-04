@@ -16,7 +16,7 @@
    	  	 <div class="col-md-12">
   	  	    <div class="nav"> 
    	  	    <a href="/" class="logo">
-   	  	    	<img style="height: 60px;" src="/assets/public/img/socios/logo.png" alt="lets travel">
+   	  	    	<img style="height: 60px;" src="/assets/public/img/detail/logo.png" alt="lets travel">
    	  	    </a>
    	  	    <div class="nav-menu-icon">
 		      <a href="#"><i></i></a>

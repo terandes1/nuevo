@@ -26,7 +26,7 @@
 		<link href="{!! Html::style('assets/public/css/style.css') !!}"  type="text/css"/>  --> 
 
   
-		<title>Let's Travel</title>
+		<title>Terandes Golden Travel</title>
 	</head>
 <body data-color="theme-1">
  	@include('public.en.layouts.navbar')
