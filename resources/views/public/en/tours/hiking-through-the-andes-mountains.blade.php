@@ -18,7 +18,7 @@
                             <span class="fa fa-star color-yellow"></span>
                             <span class="fa fa-star color-yellow"></span>
                             </div>
-                        <i>485 Rewies</i> 
+                    
                         </div>
                     </div>
                 </div>
@@ -36,9 +36,16 @@
                     <div class="detail-category color-grey-3"></div>
                     <h3 style="padding-bottom: 15px">DESCRIPTION </h3>
                    <p style="text-align: justify;">
-                    Hiking through the Andes Mountains to Machu Picchu is the perfect travel program to enjoy fifteen days exploring a unique combination of natural settings for those who love adventure, moving from the coast to the highlands. Discover the most beautiful places in Lima, Cusco, the Sacred Valley and Machu Picchu, staying at the best accommodations with a unique sense of style and distinction. Discover the city of Kings, Lima, accompanied by our guide who will give you insights about the capital and its beautiful treasures, moving from its fascinating past towards the flourishing present. Fly through the Andes to Cusco and discover the most beautiful sites of the Sacred Valley. Enjoy a unique hike of six days through the spectacular valleys near the Salkantay Mountain to Machu Picchu, marvel your senses with the amazing natural scenery that will surround you and once you reach the lost citadel, explore and admire it with plenty of time. In Cusco, stroll around its colonial streets combined with incredible Inca constructions and let the city fascinate you. 
-                    This program can be customized according to your interests, needs and travel style. Please, feel free to contact us and personalize your holiday.
+                    Hiking through the Andes Mountains to Machu Picchu is the perfect travel program to enjoy fifteen days exploring a unique combination of natural settings for those who love adventure, moving from the coast to the highlands. Discover the most beautiful places in Lima, Cusco, the Sacred Valley and Machu Picchu, staying at the best accommodations with a unique sense of style and distinction.
                     </p>
+                    <div id="bloque-desplegable" class="collapse">
+                         <p style="text-align: justify;">
+                             Discover the city of Kings, Lima, accompanied by our guide who will give you insights about the capital and its beautiful treasures, moving from its fascinating past towards the flourishing present. Fly through the Andes to Cusco and discover the most beautiful sites of the Sacred Valley. Enjoy a unique hike of six days through the spectacular valleys near the Salkantay Mountain to Machu Picchu, marvel your senses with the amazing natural scenery that will surround you and once you reach the lost citadel, explore and admire it with plenty of time. In Cusco, stroll around its colonial streets combined with incredible Inca constructions and let the city fascinate you. 
+                            This program can be customized according to your interests, needs and travel style. Please, feel free to contact us and personalize your holiday.
+                         </p>
+                    </div>
+
+                     <button  data-toggle="collapse" class="c-button b-40 bg-red-3 hv-red-3-o"  href="#bloque-desplegable"> READ MORE</button>
                 </div>
                 <div class="col-xs-12 col-sm-4">
                 

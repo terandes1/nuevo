@@ -23,7 +23,7 @@
                         <span class="fa fa-star color-yellow"></span>
                         <span class="fa fa-star color-yellow"></span>
                         </div>
-                    <i><strong>485 Rewies</strong> </i> 
+                    
                     </div>
                     </div>
                 </div>
@@ -42,9 +42,15 @@
                     <div class="detail-category color-grey-3"></div>
                     <h3 style="padding-bottom: 15px; color: grey">DESCRIPTION </h3>
                     <p style="text-align: justify;">
-                    Wonders of Peru in Family is an ideal travel program to enjoy twelve days exploring the most beautiful places in Lima, Paracas, Nazca, Cusco, the Sacred Valley and Machu Picchu, staying at the best selection of accommodations, all of them with a unique sense of style and distinction. Discover the city of Kings, Lima, accompanied by our guide who will give you insights about the capital and its treasures, moving from its fascinating past towards the present. Explore Ballestas Islands and its incredible fauna, the National reserve of Paracas and fly over the mysterious Nazca lines. Fly through the Andes to Cusco and discover the most beautiful sites of the Sacred Valley. Enjoy the comfort of a train ride to Machu Picchu, marvel your senses with the amazing natural scenery that will surround you and once you reach the lost citadel, explore and admire it with plenty of time. In Cusco, stroll around its colonial streets combined with incredible Inca constructions and let the city fascinate you. 
-                    This program can be customized according to your interests, needs and travel style. Please, feel free to contact us and personalize your holiday.
+                    Wonders of Peru in Family is an ideal travel program to enjoy twelve days exploring the most beautiful places in Lima, Paracas, Nazca, Cusco, the Sacred Valley and Machu Picchu, staying at the best selection of accommodations, all of them with a unique sense of style and distinction. Discover the city of Kings, Lima, accompanied by our guide who will give you insights about the capital and its treasures, moving from its fascinating past towards the present. 
                 </p>
+                 <div id="bloque-desplegable" class="collapse">
+                           <p style="text-align: justify;">
+                             Explore Ballestas Islands and its incredible fauna, the National reserve of Paracas and fly over the mysterious Nazca lines. Fly through the Andes to Cusco and discover the most beautiful sites of the Sacred Valley. Enjoy the comfort of a train ride to Machu Picchu, marvel your senses with the amazing natural scenery that will surround you and once you reach the lost citadel, explore and admire it with plenty of time. In Cusco, stroll around its colonial streets combined with incredible Inca constructions and let the city fascinate you. 
+                    This program can be customized according to your interests, needs and travel style. Please, feel free to contact us and personalize your holiday.
+                            </p>
+                    </div>
+                    <button  data-toggle="collapse" class="c-button b-40 bg-red-3 hv-red-3-o"  href="#bloque-desplegable">READ MORE</button>
                 </div>
                 <!-- TELEFONO Y CORREO -->    
                 <div class="col-xs-12 col-sm-4">

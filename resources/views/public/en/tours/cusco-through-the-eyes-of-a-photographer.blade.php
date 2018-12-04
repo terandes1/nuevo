@@ -35,7 +35,7 @@
                             <span class="fa fa-star color-yellow"></span>
                             <span class="fa fa-star color-yellow"></span>
                         </div>
-                        <i>485 Rewies</i> 
+                       
                     </div>
                     <p style="text-align: justify;">
                     Cusco through the eyes of a photographer is a unique travel program specially designed for photography lovers, our program will take us in twelve days through a selection of beautiful destinations accompanied by an expert photographer. Discover the city of Kings, Lima, accompanied by our expert photographer who will share some tips to get the best pictures of the colonial and modern parts of Lima and our guide who will give you insights about the capital, moving from its fascinating past towards the present. Discover the most beautiful sites of the Sacred Valley and get from our photographer more tricks to obtain fantastic pictures. Enjoy the comfort of a train ride to Machu Picchu; hike along a portion of the Inca trail and marvel your senses with the amazing natural scenery that will surround you and once you reach the lost citadel, explore and admire it with plenty of time. Accompanied by our guide and photographer immerse in the incredible history of the site and take pictures like the ones Martin Chambi took at the beginning of the 20th century almost at the same time Hiram Bingham did the scientific discovery of the site. In Cusco, stroll around its colonial streets combined with incredible Inca constructions, get tips to take pictures of the best angles and let the city fascinate you. 

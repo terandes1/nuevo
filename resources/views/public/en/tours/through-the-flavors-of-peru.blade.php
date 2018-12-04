@@ -17,7 +17,7 @@
                             <span class="fa fa-star color-yellow"></span>
                             <span class="fa fa-star color-yellow"></span>
                         </div>
-                        <i>485 Rewies</i> 
+                        
                     </div>
                     </div>
                 </div>
@@ -35,10 +35,16 @@
                     <div class="detail-category color-grey-3"></div>
                     <h3 style="padding-bottom: 15px; color: grey">DESCRIPTION </h3>
                     <p style="text-align: justify;"> 
-                    Through the Flavors of Peru is the perfect holiday program to enjoy twelve days exploring a unique selection of places for those who would like to discover the flavors of the Peruvian cuisine, moving from the coast to the highlands. Discover the most beautiful places in Lima, Cusco, the Sacred Valley and Machu Picchu, staying at the best accommodations with a unique sense of style and distinction. Discover the city of Kings, Lima, accompanied by our guide who will give you insights about the capital and its beautiful treasures, moving from its fascinating past towards the flourishing present; learn about the local cuisine and get some tips to prepare the famous ceviche. Fly through the Andes to Cusco, explore the most beautiful sites of the Sacred Valley, and learn about the Andean cuisine. Accompanied by chefs discover the secrets of the incredible flavors of the local food. Enjoy a spectacular train journey to Machu Picchu, marvel your senses with the amazing natural scenery that will surround you and once you reach the lost citadel, explore and admire it with plenty of time. In Cusco, stroll around its colonial streets combined with incredible Inca constructions and let the city fascinate you. 
-                    In every place you will visit, there will be a culinary experience and a chance to learn about the Peruvian drinks such as the Pisco Sour.
-                    This program can be customized according to your interests, needs and travel style. Please, feel free to contact us and personalize your holiday.   
+                    Through the Flavors of Peru is the perfect holiday program to enjoy twelve days exploring a unique selection of places for those who would like to discover the flavors of the Peruvian cuisine, moving from the coast to the highlands. Discover the most beautiful places in Lima, Cusco, the Sacred Valley and Machu Picchu, staying at the best accommodations with a unique sense of style and distinction.   
                     </p>
+                    <div id="bloque-desplegable" class="collapse">
+                           <p style="text-align: justify;">
+                             Discover the city of Kings, Lima, accompanied by our guide who will give you insights about the capital and its beautiful treasures, moving from its fascinating past towards the flourishing present; learn about the local cuisine and get some tips to prepare the famous ceviche. Fly through the Andes to Cusco, explore the most beautiful sites of the Sacred Valley, and learn about the Andean cuisine. Accompanied by chefs discover the secrets of the incredible flavors of the local food. Enjoy a spectacular train journey to Machu Picchu, marvel your senses with the amazing natural scenery that will surround you and once you reach the lost citadel, explore and admire it with plenty of time. In Cusco, stroll around its colonial streets combined with incredible Inca constructions and let the city fascinate you. 
+                    In every place you will visit, there will be a culinary experience and a chance to learn about the Peruvian drinks such as the Pisco Sour.
+                    This program can be customized according to your interests, needs and travel style. Please, feel free to contact us and personalize your holiday. 
+                            </p>
+                    </div>
+                    <button  data-toggle="collapse" class="c-button b-40 bg-red-3 hv-red-3-o"  href="#bloque-desplegable">READ MORE</button>
                 </div>
                 <!-- TELEFONO Y CORREO -->    
                 <div class="col-xs-12 col-sm-4">

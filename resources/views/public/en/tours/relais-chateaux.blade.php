@@ -17,7 +17,7 @@
                             <span class="fa fa-star color-yellow"></span>
                             <span class="fa fa-star color-yellow"></span>
                             </div>
-                        <i>485 Rewies</i> 
+                       
                     </div>
                     </div>
                 </div>
@@ -35,9 +35,15 @@
                     <div class="detail-category color-grey-3"></div>
                     <h3 style="padding-bottom: 15px">DESCRIPTION </h3>
                     <p style="text-align: justify;">
-                    A Relais Chateau Experience in Peru is a fantastic travel program to enjoy in fourteen days the best of the country; this is a perfect combination of natural and cultural settings, moving from the coast to the highlands and the Jungle. Discover the most beautiful places in Lima, Iquitos, Cusco, the Sacred Valley, Machu Picchu and Puno, staying at the best accommodations with a unique sense of style and distinction. Discover the city of Kings, Lima, accompanied by our guide who will give you insights about the capital and its secrets, moving from its fascinating past towards the present. Fly to Iquitos and embark on an incredible cruise experience enjoying the fabulous flora and fauna of the area. Fly through the Andes to Cusco and discover the most beautiful sites of the Sacred Valley. Enjoy the comfort of a train ride to Machu Picchu, marvel your senses with the amazing natural scenery that will surround you and once you reach the lost citadel, explore and admire it with plenty of time. In Cusco, stroll around its colonial streets combined with incredible Inca constructions and let the city fascinate you. Continue the adventure heading to Puno to discover the Islands on Titicaca Lake and get a taste of how life is in the high plateau. 
-                    This program can be customized according to your interests, needs and travel style. Please, feel free to contact us and personalize your holiday.
+                    A Relais Chateau Experience in Peru is a fantastic travel program to enjoy in fourteen days the best of the country; this is a perfect combination of natural and cultural settings, moving from the coast to the highlands and the Jungle. Discover the most beautiful places in Lima, Iquitos, Cusco, the Sacred Valley, Machu Picchu and Puno, staying at the best accommodations with a unique sense of style and distinction. 
                     </p>
+                    <div id="bloque-desplegable" class="collapse">
+                           <p style="text-align: justify;">
+                             Discover the city of Kings, Lima, accompanied by our guide who will give you insights about the capital and its secrets, moving from its fascinating past towards the present. Fly to Iquitos and embark on an incredible cruise experience enjoying the fabulous flora and fauna of the area. Fly through the Andes to Cusco and discover the most beautiful sites of the Sacred Valley. Enjoy the comfort of a train ride to Machu Picchu, marvel your senses with the amazing natural scenery that will surround you and once you reach the lost citadel, explore and admire it with plenty of time. In Cusco, stroll around its colonial streets combined with incredible Inca constructions and let the city fascinate you. Continue the adventure heading to Puno to discover the Islands on Titicaca Lake and get a taste of how life is in the high plateau. 
+                             This program can be customized according to your interests, needs and travel style. Please, feel free to contact us and personalize your holiday.
+                            </p>
+                    </div>
+                    <button  data-toggle="collapse" class="c-button b-40 bg-red-3 hv-red-3-o"  href="#bloque-desplegable">READ MORE</button>
                 </div>
                 <!-- TELEFONO Y CORREO -->    
                 <div class="col-xs-12 col-sm-4">

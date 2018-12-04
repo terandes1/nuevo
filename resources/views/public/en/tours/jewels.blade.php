@@ -17,7 +17,7 @@
                             <span class="fa fa-star color-yellow"></span>
                             <span class="fa fa-star color-yellow"></span>
                             </div>
-                        <i>485 Rewies</i> 
+                        
                     </div>
                     </div>
                 </div>
