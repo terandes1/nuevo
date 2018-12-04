@@ -34,10 +34,18 @@
                 <div class="col-xs-12 col-sm-8">
                     <div class="detail-category color-grey-3"></div>
                     <h3 style="padding-bottom: 15px">DESCRIPTION </h3>
-                   <p style="text-align: justify;">
-                    Jewels of the South offers you a set of must-see destinations, Lima, Cusco, the Sacred Valley, Machu Picchu in ten days, staying at the best accommodations with a unique sense of style and distinction. Discover the city of Kings, Lima, accompanied by our guide who will give you insights about the capital, moving from its fascinating past towards the present. Explore the most beautiful sites of the Sacred Valley. Enjoy the comfort of a train ride to Machu Picchu, hike along a portion of the Inca trail and marvel your senses with the amazing natural scenery that will surround you and once you reach the lost citadel, explore and admire it with plenty of time. In Cusco, stroll around its colonial streets combined with incredible Inca constructions and let the city fascinate you. Board the incredible Belmond Andean Explorer to visit Puno and its beautiful islands on the Titicaca Lake and reach Arequipa and the Colca Canyon. 
-                    This program can be customized according to your interests, needs and travel style. Please, feel free to contact us and personalize your holiday.
+                    <p style="text-align: justify;">
+                            Jewels of the South offers you a set of must-see destinations, Lima, Cusco, the Sacred Valley, Machu Picchu in ten days, staying at the best accommodations with a unique sense of style and distinction. Discover the city of Kings, Lima, accompanied by our guide who will give you insights about the capital, moving from its fascinating past towards the present. Explore the most beautiful sites of the Sacred Valley.
                     </p>
+                    <div id="bloque-desplegable" class="collapse">
+                           <p style="text-align: justify;">
+                             Enjoy the comfort of a train ride to Machu Picchu, hike along a portion of the Inca trail and marvel your senses with the amazing natural scenery that will surround you and once you reach the lost citadel, explore and admire it with plenty of time. In Cusco, stroll around its colonial streets combined with incredible Inca constructions and let the city fascinate you. Board the incredible Belmond Andean Explorer to visit Puno and its beautiful islands on the Titicaca Lake and reach Arequipa and the Colca Canyon. 
+                            This program can be customized according to your interests, needs and travel style. Please, feel free to contact us and personalize your holiday.
+                            </p>
+                    </div>
+                    <button  data-toggle="collapse" class="c-button b-40 bg-red-3 hv-red-3-o"  href="#bloque-desplegable">READ MORE</button>
+
+
                 </div>
                 <!-- TELEFONO Y CORREO -->    
                 <div class="col-xs-12 col-sm-4">
