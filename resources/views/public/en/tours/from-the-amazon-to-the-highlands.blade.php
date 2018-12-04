@@ -35,7 +35,7 @@
                         <span class="fa fa-star color-yellow"></span>
                         <span class="fa fa-star color-yellow"></span>
                         </div>
-                    <i>485 Rewies</i> 
+                    <!--<i>485 Rewies</i> -->
                    </div>
                    <p style="text-align: justify;">
                     From the Amazon to the Highlands is an ideal travel program to enjoy twelve days exploring a unique combination of natural and cultural settings, moving from the coast to the highlands and the Amazon Jungle. Discover the most beautiful places in Lima, Iquitos, Cusco, the Sacred Valley and Machu Picchu, staying at the best accommodations with a unique sense of style and distinction. Discover the city of Kings, Lima, accompanied by our guide who will give you insights about the capital and its secrets, moving from its fascinating past towards the present. Fly to Iquitos and its incredible flora and fauna. Fly through the Andes to Cusco and discover the most beautiful sites of the Sacred Valley. Enjoy the comfort of a train ride to Machu Picchu, marvel your senses with the amazing natural scenery that will surround you and once you reach the lost citadel, explore and admire it with plenty of time. In Cusco, stroll around its colonial streets combined with incredible Inca constructions and let the city fascinate you. 

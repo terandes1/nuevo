@@ -9,7 +9,7 @@
                 <div class="col-xs-12 col-md-8 col-md-offset-2" >
                     
                     <h2 class="color-white" style="margin-bottom: 0px;text-shadow: black 0.1em 0.1em 0.2em ">HIKING THROUGH THE ANDES MOUNTAINS TO MACHUPICCHU </h2>
-                    <div class="col-xs-12 col-md-6 col-md-offset-4">
+                    <div class="col-xs-12 col-md-6 col-md-offset-5">
                         <div class="detail-rate rate-wrap clearfix">
                             <div class="rate">
                             <span class="fa fa-star color-yellow"></span>
@@ -18,7 +18,7 @@
                             <span class="fa fa-star color-yellow"></span>
                             <span class="fa fa-star color-yellow"></span>
                             </div>
-                        <i>485 Rewies</i> 
+                        <!--<i>485 Rewies</i> -->
                         </div>
                     </div>
                 </div>
@@ -301,10 +301,9 @@
                     <div class="detail-block bg-dr-blue">
                         <h4 class="color-white">details</h4>
                         <div class="details-desc">
-                            
-                            <p class="color-grey-9">price: <span class="color-white">$500 / person</span></p>
+                           
                             <p class="color-grey-9">location: <span class="color-white">Cusco, Peru</span></p>
-                            <p class="color-grey-9">days: <span class="color-white">15D/14N</span></p>
+                            <p class="color-grey-9">days: <span class="color-white">15D / 14N</span></p>
                             
                         </div>
                         <div class="details-btn">

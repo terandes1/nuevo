@@ -380,7 +380,7 @@
                 <div class="second-title">
                     <h4 class="subtitle color-dark-2-light">   </h4>
                     <h2> our gallery </h2>
-                    <p class="color-grey">     </p>
+                    <p class="color-grey">  Wondering where to go next? Get some inspiration from our gallery   </p>
                 </div>
             </div>
         </div>
