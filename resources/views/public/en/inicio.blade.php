@@ -388,7 +388,7 @@
             <div class="grid-sizer col-mob-12 col-xs-6 col-sm-3"></div>
             <div class="item gal-item col10 col-mob-12 col-xs-6 col-sm-6">
                 <a class="black-hover" >
-                    <img class="img-full img-responsive" src="assets/public/img/home_7/gal_1.jpg" alt="">
+                    <img class="img-full img-responsive" src="assets/public/img/galeria/gal_1.jpg" alt="">
                     <div class="tour-layer delay-1"></div>
                     <div class="vertical-align">
                         <div class="date color-white"> <strong> </strong></div>
@@ -398,7 +398,7 @@
             </div>
             <div class="item gal-item col10 col-mob-12 col-xs-6 col-sm-3">
                 <a class="black-hover" href="/en/tour/jewels-of-cusco">
-                    <img class="img-full img-responsive" src="assets/public/img/home_7/gal_2.jpg" alt="">
+                    <img class="img-full img-responsive" src="assets/public/img/galeria/gal_2.jpg" alt="">
                     <div class="tour-layer delay-1"></div>
                     <div class="vertical-align">
                         <div class="date color-white"> <strong> Jewels of Cusco </strong></div>
@@ -408,7 +408,7 @@
             </div>
             <div class="item gal-item col10 col-mob-12 col-xs-6 col-sm-3">
                 <a class="black-hover" href="/en/tour/jewels-of-the-south-belmond-trenes">
-                    <img class="img-full img-responsive" src="assets/public/img/home_7/gal_3.jpg" alt="">
+                    <img class="img-full img-responsive" src="assets/public/img/galeria/gal_3.jpg" alt="">
                     <div class="tour-layer delay-1"></div>
                     <div class="vertical-align">
                         <div class="date color-white"> <strong> Jewels of the south </strong> </div>
@@ -418,7 +418,7 @@
             </div>
             <div class="item gal-item col10 col-mob-12 col-xs-6 col-sm-3">
                 <a class="black-hover" href="/en/tour/jewels-of-cusco">
-                    <img class="img-full img-responsive" src="assets/public/img/home_7/gal_4.jpg" alt="">
+                    <img class="img-full img-responsive" src="assets/public/img/galeria/gal_4.jpg" alt="">
                     <div class="tour-layer delay-1"></div>
                     <div class="vertical-align">
                         <div class="date color-white"><strong> Jewels of Cusco</strong> </div>
@@ -428,7 +428,7 @@
             </div>
             <div class="item gal-item col10 col-mob-12 col-xs-6 col-sm-3">
                 <a class="black-hover" href="/en/tour/relais-chateaux">
-                    <img class="img-full img-responsive" src="assets/public/img/home_7/gal_5.jpg" alt="">
+                    <img class="img-full img-responsive" src="assets/public/img/galeria/gal_5.jpg" alt="">
                     <div class="tour-layer delay-1"></div>
                     <div class="vertical-align">
                         <div class="date color-white">  <strong>Relais & Chateaux </strong></div>
@@ -438,7 +438,7 @@
             </div>
             <div class="item gal-item col10 col-mob-12 col-xs-6 col-sm-6">
                 <a class="black-hover" href="/en/tour/wonders-of-peru-in-family">
-                    <img class="img-full img-responsive" src="assets/public/img/home_7/gal_6.jpg" alt="">
+                    <img class="img-full img-responsive" src="assets/public/img/galeria/gal_6.jpg" alt="">
                     <div class="tour-layer delay-1"></div>
                     <div class="vertical-align">
                         <div class="date color-white"> <strong> Wonders of Peru in family </strong></div>
@@ -448,7 +448,7 @@
             </div>
             <div class="item gal-item col10 col-mob-12 col-xs-6 col-sm-6">
                 <a class="black-hover" href="/en/tour/hiking-through-the-andes-mountains">
-                    <img class="img-full img-responsive" src="assets/public/img/home_7/gal_7.jpg" alt="">
+                    <img class="img-full img-responsive" src="assets/public/img/galeria/gal_7.jpg" alt="">
                     <div class="tour-layer delay-1"></div>
                     <div class="vertical-align">
                         <div class="date color-white">  <strong> Hiking through the andes mountains to Machupicchu</strong>  </div>
@@ -458,7 +458,7 @@
             </div>
             <div class="item gal-item col10 col-mob-12 col-xs-6 col-sm-3">
                 <a class="black-hover" href="/en/tour/jewels-of-cusco">
-                    <img class="img-full img-responsive" src="assets/public/img/home_7/gal_8.jpg" alt="">
+                    <img class="img-full img-responsive" src="assets/public/img/galeria/gal_8.jpg" alt="">
                     <div class="tour-layer delay-1"> </div>
                     <div class="vertical-align">
                         <div class="date color-white">  <strong>Jewels of Cusco </strong>  </div>
@@ -468,7 +468,7 @@
             </div>
             <div class="item gal-item col10 col-mob-12 col-xs-6 col-sm-3">
                 <a class="black-hover" href="/en/tour/wonders-of-peru-in-family">
-                    <img class="img-full img-responsive" src="assets/public/img/home_7/gal_9.jpg" alt="">
+                    <img class="img-full img-responsive" src="assets/public/img/galeria/gal_9.jpg" alt="">
                     <div class="tour-layer delay-1"></div>
                     <div class="vertical-align">
                         <div class="date color-white">  <strong> Wonders of Peru in family</strong> </div>
